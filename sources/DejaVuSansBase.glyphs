@@ -33,7 +33,7 @@ Tag = slnt;
 }
 );
 date = "2016-07-30 10:03:50 +0000";
-familyName = "DejaVu Sans";
+familyName = "DejaVu Sans Variable";
 fontMaster = (
 {
 ascender = 760;
