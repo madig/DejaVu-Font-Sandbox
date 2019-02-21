@@ -47,6 +47,25 @@ fontMaster = (
 ascender = 760;
 capHeight = 342;
 custom = Extra;
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+},
+{
+Axis = Width;
+Location = 5;
+},
+{
+Axis = Slant;
+Location = 0;
+}
+);
+}
+);
 descender = -240;
 id = "99D829B7-D749-4014-BBE4-6F1A75B6E575";
 name = ExtraLight;
@@ -59,6 +78,25 @@ xHeight = 244;
 ascender = 760;
 capHeight = 342;
 custom = Book;
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+},
+{
+Axis = Width;
+Location = "5";
+},
+{
+Axis = Slant;
+Location = "0";
+}
+);
+}
+);
 descender = -240;
 id = "EB88A49E-561A-4405-9552-C71224CBA53C";
 weightValue = 400;
@@ -68,6 +106,25 @@ xHeight = 244;
 {
 ascender = 760;
 capHeight = 342;
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+},
+{
+Axis = Width;
+Location = "5";
+},
+{
+Axis = Slant;
+Location = "0";
+}
+);
+}
+);
 descender = -240;
 id = "5297CC84-2E5E-44C2-8BD8-B52BBF62A592";
 weight = Bold;
@@ -80,6 +137,25 @@ ascender = 760;
 capHeight = 342;
 custom = Oblique;
 customValue = 11;
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "400";
+},
+{
+Axis = Width;
+Location = "5";
+},
+{
+Axis = Slant;
+Location = 11;
+}
+);
+}
+);
 descender = -240;
 id = "79D829DC-9C66-44C2-8B43-D291CF08F0E9";
 italicAngle = 11;
@@ -92,6 +168,25 @@ ascender = 760;
 capHeight = 342;
 custom = Oblique;
 customValue = 11;
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "700";
+},
+{
+Axis = Width;
+Location = "5";
+},
+{
+Axis = Slant;
+Location = 11;
+}
+);
+}
+);
 descender = -240;
 id = "D5B43B4B-63DF-4B35-BEE3-B41B34784265";
 italicAngle = 11;
@@ -103,6 +198,25 @@ xHeight = 244;
 {
 ascender = 760;
 capHeight = 342;
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "400";
+},
+{
+Axis = Width;
+Location = 4;
+},
+{
+Axis = Slant;
+Location = "0";
+}
+);
+}
+);
 descender = -240;
 id = "79F6B4AB-4C44-4F2D-9893-C213A8C041F5";
 weightValue = 400;
@@ -113,6 +227,25 @@ xHeight = 244;
 {
 ascender = 760;
 capHeight = 342;
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "700";
+},
+{
+Axis = Width;
+Location = 4;
+},
+{
+Axis = Slant;
+Location = "0";
+}
+);
+}
+);
 descender = -240;
 id = "5FB0259D-C3EC-4F0F-ABB4-6EFEC5FB1D78";
 weight = Bold;
@@ -126,6 +259,25 @@ ascender = 760;
 capHeight = 342;
 custom = Oblique;
 customValue = 11;
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "400";
+},
+{
+Axis = Width;
+Location = 4;
+},
+{
+Axis = Slant;
+Location = "11";
+}
+);
+}
+);
 descender = -240;
 id = "217D6A7E-4635-413B-8BF5-4A1DD3DA67ED";
 italicAngle = 11;
@@ -139,6 +291,25 @@ ascender = 760;
 capHeight = 342;
 custom = Oblique;
 customValue = 11;
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = "700";
+},
+{
+Axis = Width;
+Location = 4;
+},
+{
+Axis = Slant;
+Location = "11";
+}
+);
+}
+);
 descender = -240;
 id = "BED8EE44-B183-4D86-965C-1BADD1250A61";
 italicAngle = 11;
