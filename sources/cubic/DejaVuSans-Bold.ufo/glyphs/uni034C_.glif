@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni034C" format="2">
   <unicode hex="034C"/>
-  <anchor x="-514" y="1147" name="_above-mark"/>
   <anchor x="-514" y="1736" name="above-mark"/>
+  <anchor x="-514" y="1147" name="_above-mark"/>
   <anchor x="-514" y="1147" name="_above"/>
   <outline>
     <component base="Tilde" yOffset="182"/>

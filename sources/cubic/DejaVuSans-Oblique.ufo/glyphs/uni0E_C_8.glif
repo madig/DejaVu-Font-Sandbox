@@ -1,14 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0EC8" format="2">
   <unicode hex="0EC8"/>
-  <anchor x="-722.882" y="1150" name="_lao-above-mark"/>
-  <anchor x="-722.882" y="1150" name="_lao-above"/>
+  <anchor x="-723" y="1150" name="_lao-above-mark"/>
+  <anchor x="-723" y="1150" name="_lao-above"/>
   <outline>
     <contour>
-      <point x="-709" y="1652" type="line"/>
-      <point x="-541" y="1652" type="line"/>
-      <point x="-611" y="1295" type="line"/>
       <point x="-779" y="1295" type="line"/>
+      <point x="-611" y="1295" type="line"/>
+      <point x="-541" y="1652" type="line"/>
+      <point x="-709" y="1652" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

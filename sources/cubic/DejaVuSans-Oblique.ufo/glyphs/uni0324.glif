@@ -3,6 +3,7 @@
   <unicode hex="0324"/>
   <anchor x="-512" y="-5" name="_below"/>
   <anchor x="-512" y="-5" name="_Ligature below"/>
+  <anchor x="-512" y="-5" name="_below-mark"/>
   <outline>
     <component base="dieresis" xOffset="-1268" yOffset="-1725"/>
   </outline>

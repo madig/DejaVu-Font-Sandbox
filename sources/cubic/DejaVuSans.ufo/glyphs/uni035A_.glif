@@ -2,45 +2,49 @@
 <glyph name="uni035A" format="2">
   <unicode hex="035A"/>
   <anchor x="-512" y="0" name="_below-mark"/>
+  <anchor x="-512" y="-1" name="_Ligature below"/>
   <anchor x="-512" y="-550" name="below-mark"/>
   <anchor x="-512" y="-1" name="_below"/>
-  <anchor x="-512" y="-1" name="_Ligature below"/>
   <outline>
     <contour>
-      <point x="-706" y="-370"/>
-      <point x="-627" y="-370"/>
-      <point x="-574" y="-317"/>
-      <point x="-572" y="-240"/>
-      <point x="-627" y="-185"/>
-      <point x="-706" y="-185"/>
-      <point x="-759" y="-238"/>
-      <point x="-759" y="-317"/>
+      <point x="-360" y="-494" type="curve" smooth="yes"/>
+      <point x="-239" y="-494"/>
+      <point x="-145" y="-399"/>
+      <point x="-145" y="-280" type="curve" smooth="yes"/>
+      <point x="-145" y="-220"/>
+      <point x="-166" y="-169"/>
+      <point x="-207" y="-128" type="curve" smooth="yes"/>
+      <point x="-289" y="-46"/>
+      <point x="-430" y="-46"/>
+      <point x="-512" y="-129" type="curve"/>
+      <point x="-553" y="-86"/>
+      <point x="-604" y="-65"/>
+      <point x="-665" y="-65" type="curve" smooth="yes"/>
+      <point x="-786" y="-65"/>
+      <point x="-880" y="-159"/>
+      <point x="-880" y="-279" type="curve" smooth="yes"/>
+      <point x="-880" y="-338"/>
+      <point x="-859" y="-389"/>
+      <point x="-818" y="-431" type="curve" smooth="yes"/>
+      <point x="-735" y="-514"/>
+      <point x="-594" y="-514"/>
+      <point x="-512" y="-429" type="curve"/>
+      <point x="-471" y="-472"/>
+      <point x="-421" y="-494"/>
     </contour>
     <contour>
-      <point x="-512" y="-129" type="qcurve"/>
-      <point x="-450" y="-66"/>
-      <point x="-269" y="-66"/>
-      <point x="-145" y="-190"/>
-      <point x="-145" y="-369"/>
-      <point x="-269" y="-494"/>
-      <point x="-451" y="-494"/>
-      <point x="-512" y="-429" type="qcurve"/>
-      <point x="-574" y="-493"/>
-      <point x="-756" y="-493"/>
-      <point x="-880" y="-368"/>
-      <point x="-880" y="-189"/>
-      <point x="-756" y="-65"/>
-      <point x="-574" y="-65"/>
+      <point x="0" y="0"/>
+      <point x="0" y="0"/>
     </contour>
     <contour>
-      <point x="-266" y="-317"/>
-      <point x="-266" y="-240"/>
-      <point x="-320" y="-186"/>
-      <point x="-399" y="-186"/>
-      <point x="-452" y="-239"/>
-      <point x="-452" y="-318"/>
-      <point x="-399" y="-371"/>
-      <point x="-320" y="-371"/>
+      <point x="0" y="0"/>
+      <point x="0" y="0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

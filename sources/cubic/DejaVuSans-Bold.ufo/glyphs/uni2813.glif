@@ -4,7 +4,7 @@
   <unicode hex="2813"/>
   <outline>
     <component base="brailledot" xOffset="300" yOffset="1200"/>
-    <component base="brailledot" xOffset="300" yOffset="666.667"/>
-    <component base="brailledot" xOffset="900" yOffset="666.667"/>
+    <component base="brailledot" xOffset="300" yOffset="667"/>
+    <component base="brailledot" xOffset="900" yOffset="667"/>
   </outline>
 </glyph>

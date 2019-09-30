@@ -2,18 +2,18 @@
 <glyph name="v" format="2">
   <advance width="1335"/>
   <unicode hex="0076"/>
-  <anchor x="0" y="1520" name="half"/>
   <anchor x="668" y="0" name="below"/>
+  <anchor x="0" y="1520" name="half"/>
   <anchor x="668" y="1147" name="above"/>
   <outline>
     <contour>
-      <point x="31" y="1120" type="line"/>
-      <point x="389" y="1120" type="line"/>
-      <point x="668" y="346" type="line"/>
-      <point x="946" y="1120" type="line"/>
-      <point x="1305" y="1120" type="line"/>
-      <point x="864" y="0" type="line"/>
       <point x="471" y="0" type="line"/>
+      <point x="864" y="0" type="line"/>
+      <point x="1305" y="1120" type="line"/>
+      <point x="946" y="1120" type="line"/>
+      <point x="668" y="346" type="line"/>
+      <point x="389" y="1120" type="line"/>
+      <point x="31" y="1120" type="line"/>
     </contour>
   </outline>
 </glyph>

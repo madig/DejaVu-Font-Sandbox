@@ -4,30 +4,36 @@
   <unicode hex="22A0"/>
   <outline>
     <contour>
-      <point x="524" y="1117" type="line"/>
-      <point x="858" y="783" type="line"/>
-      <point x="1192" y="1117" type="line"/>
-      <point x="1333" y="976" type="line"/>
-      <point x="999" y="642" type="line"/>
-      <point x="1333" y="308" type="line"/>
-      <point x="1192" y="167" type="line"/>
-      <point x="858" y="501" type="line"/>
-      <point x="524" y="167" type="line"/>
-      <point x="383" y="308" type="line"/>
-      <point x="717" y="642" type="line"/>
-      <point x="383" y="976" type="line"/>
-    </contour>
-    <contour>
-      <point x="357" y="1141" type="line"/>
-      <point x="357" y="141" type="line"/>
-      <point x="1359" y="141" type="line"/>
-      <point x="1359" y="1141" type="line"/>
-    </contour>
-    <contour>
-      <point x="157" y="1346" type="line"/>
-      <point x="1559" y="1346" type="line"/>
-      <point x="1559" y="-59" type="line"/>
       <point x="157" y="-59" type="line"/>
+      <point x="1559" y="-59" type="line"/>
+      <point x="1559" y="1346" type="line"/>
+      <point x="157" y="1346" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="141" type="line"/>
+      <point x="357" y="1141" type="line"/>
+      <point x="1359" y="1141" type="line"/>
+      <point x="1359" y="141" type="line"/>
+    </contour>
+    <contour>
+      <point x="524" y="167" type="line"/>
+      <point x="858" y="501" type="line"/>
+      <point x="1192" y="167" type="line"/>
+      <point x="1333" y="308" type="line"/>
+      <point x="999" y="642" type="line"/>
+      <point x="1333" y="976" type="line"/>
+      <point x="1192" y="1117" type="line"/>
+      <point x="858" y="783" type="line"/>
+      <point x="524" y="1117" type="line"/>
+      <point x="383" y="976" type="line"/>
+      <point x="717" y="642" type="line"/>
+      <point x="383" y="308" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

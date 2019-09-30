@@ -4,6 +4,12 @@
   <unicode hex="1EF0"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="dotbelowcomb" xOffset="1109.1"/>
+    <component base="dotbelowcomb" xOffset="1109"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:22 +0000</string>
+    </dict>
+  </lib>
 </glyph>

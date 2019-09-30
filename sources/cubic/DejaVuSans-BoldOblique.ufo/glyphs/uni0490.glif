@@ -5,13 +5,19 @@
   <outline>
     <contour>
       <point x="43" y="0" type="line"/>
-      <point x="333" y="1493" type="line"/>
-      <point x="1103" y="1493" type="line"/>
-      <point x="1163" y="1799" type="line"/>
-      <point x="1454" y="1799" type="line"/>
-      <point x="1338" y="1202" type="line"/>
-      <point x="662" y="1202" type="line"/>
       <point x="428" y="0" type="line"/>
+      <point x="662" y="1202" type="line"/>
+      <point x="1338" y="1202" type="line"/>
+      <point x="1454" y="1799" type="line"/>
+      <point x="1163" y="1799" type="line"/>
+      <point x="1103" y="1493" type="line"/>
+      <point x="333" y="1493" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

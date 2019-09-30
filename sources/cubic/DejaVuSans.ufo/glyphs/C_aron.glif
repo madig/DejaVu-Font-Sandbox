@@ -1,17 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Caron" format="2">
-  <anchor x="-512" y="1147" name="_above"/>
   <anchor x="-512" y="1528" name="above-mark"/>
   <anchor x="-512" y="1147" name="_above-mark"/>
+  <anchor x="-512" y="1147" name="_above"/>
   <outline>
     <contour>
       <point x="-606" y="1262" type="line"/>
-      <point x="-817" y="1528" type="line"/>
-      <point x="-678" y="1528" type="line"/>
-      <point x="-512" y="1350" type="line"/>
-      <point x="-346" y="1528" type="line"/>
-      <point x="-207" y="1528" type="line"/>
       <point x="-418" y="1262" type="line"/>
+      <point x="-207" y="1528" type="line"/>
+      <point x="-346" y="1528" type="line"/>
+      <point x="-512" y="1350" type="line"/>
+      <point x="-678" y="1528" type="line"/>
+      <point x="-817" y="1528" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

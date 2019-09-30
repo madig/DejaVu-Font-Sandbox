@@ -2,8 +2,6 @@
 <glyph name="uniFEF7" format="2">
   <advance width="1525"/>
   <unicode hex="FEF7"/>
-  <anchor x="1137" y="-100" name="Ligature rtl-below"/>
-  <anchor x="1137" y="1650" name="Ligature rtl-above"/>
   <anchor x="265" y="2020" name="Ligature rtl-above"/>
   <anchor x="350" y="-150" name="Ligature rtl-below"/>
   <outline>

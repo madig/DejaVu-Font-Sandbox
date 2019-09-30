@@ -5,4 +5,10 @@
     <component base="Circumflex" xOffset="1212" yOffset="373"/>
     <component base="Tilde" xOffset="1216" yOffset="652"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

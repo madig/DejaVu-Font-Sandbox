@@ -6,26 +6,32 @@
   <anchor x="497" y="1147" name="above"/>
   <outline>
     <contour>
-      <point x="407" y="-20" type="qcurve" smooth="yes"/>
-      <point x="407" y="788" type="line" smooth="yes"/>
-      <point x="407" y="892"/>
-      <point x="330" y="972"/>
-      <point x="231" y="972" type="qcurve" smooth="yes"/>
-      <point x="55" y="972" type="line"/>
-      <point x="55" y="1125" type="line"/>
-      <point x="229" y="1125" type="line" smooth="yes"/>
-      <point x="418" y="1125"/>
-      <point x="592" y="954"/>
-      <point x="592" y="767" type="qcurve" smooth="yes"/>
-      <point x="592" y="-20" type="line" smooth="yes"/>
-      <point x="592" y="-173"/>
-      <point x="667" y="-270"/>
-      <point x="772" y="-270" type="qcurve" smooth="yes"/>
-      <point x="821" y="-270" type="line"/>
+      <point x="751" y="-426" type="curve" smooth="yes"/>
       <point x="821" y="-426" type="line"/>
-      <point x="751" y="-426" type="line" smooth="yes"/>
-      <point x="570" y="-426"/>
-      <point x="407" y="-234"/>
+      <point x="821" y="-270" type="line"/>
+      <point x="772" y="-270" type="line" smooth="yes"/>
+      <point x="632" y="-270"/>
+      <point x="592" y="-224"/>
+      <point x="592" y="-20" type="curve" smooth="yes"/>
+      <point x="592" y="767" type="line" smooth="yes"/>
+      <point x="592" y="1016"/>
+      <point x="481" y="1125"/>
+      <point x="229" y="1125" type="curve" smooth="yes"/>
+      <point x="55" y="1125" type="line"/>
+      <point x="55" y="972" type="line"/>
+      <point x="231" y="972" type="line" smooth="yes"/>
+      <point x="363" y="972"/>
+      <point x="407" y="927"/>
+      <point x="407" y="788" type="curve" smooth="yes"/>
+      <point x="407" y="-20" type="line" smooth="yes"/>
+      <point x="407" y="-305"/>
+      <point x="510" y="-426"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

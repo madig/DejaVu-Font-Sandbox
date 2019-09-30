@@ -2,8 +2,8 @@
 <glyph name="omacron" format="2">
   <advance width="1253"/>
   <unicode hex="014D"/>
-  <anchor x="627" y="1556" name="above-legacy"/>
   <anchor x="627" y="0" name="below"/>
+  <anchor x="627" y="1556" name="above-legacy"/>
   <anchor x="627" y="0" name="cedilla"/>
   <outline>
     <component base="macron" xOffset="115" yOffset="-1"/>

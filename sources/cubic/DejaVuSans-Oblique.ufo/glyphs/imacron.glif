@@ -2,7 +2,7 @@
 <glyph name="imacron" format="2">
   <advance width="569"/>
   <unicode hex="012B"/>
-  <anchor x="485.5" y="1556" name="above-legacy"/>
+  <anchor x="486" y="1556" name="above-legacy"/>
   <outline>
     <component base="dotlessi"/>
     <component base="macron" xOffset="-227" yOffset="-1"/>

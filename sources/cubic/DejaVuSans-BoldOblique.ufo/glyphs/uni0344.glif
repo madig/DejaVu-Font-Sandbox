@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0344" format="2">
   <unicode hex="0344"/>
-  <anchor x="-417.758" y="1147" name="_above"/>
   <anchor x="-252" y="2000" name="above-mark"/>
   <anchor x="-392" y="1282" name="_above-mark"/>
+  <anchor x="-418" y="1147" name="_above"/>
   <outline>
     <component base="tonos" xOffset="-889" yOffset="364"/>
     <component base="dieresis" xOffset="-1015"/>

@@ -4,15 +4,23 @@
   <unicode hex="1FFE"/>
   <outline>
     <contour>
-      <point x="390.5" y="1485" type="qcurve" smooth="yes"/>
-      <point x="390.5" y="1633" type="line"/>
-      <point x="631.5" y="1633" type="line"/>
-      <point x="631.5" y="1475" type="line"/>
-      <point x="498" y="1475" type="line" smooth="yes"/>
-      <point x="498" y="1318"/>
-      <point x="632" y="1321" type="qcurve" smooth="yes"/>
-      <point x="632" y="1218" type="line"/>
-      <point x="390.5" y="1218"/>
+      <point x="632" y="1218" type="curve"/>
+      <point x="632" y="1321" type="line"/>
+      <point x="543" y="1319"/>
+      <point x="498" y="1370"/>
+      <point x="498" y="1475" type="curve"/>
+      <point x="632" y="1475" type="line"/>
+      <point x="632" y="1633" type="line"/>
+      <point x="391" y="1633" type="line"/>
+      <point x="391" y="1485" type="line" smooth="yes"/>
+      <point x="391" y="1307"/>
+      <point x="471" y="1218"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

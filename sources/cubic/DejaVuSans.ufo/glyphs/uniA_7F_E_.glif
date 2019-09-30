@@ -2,16 +2,22 @@
 <glyph name="uniA7FE" format="2">
   <advance width="604"/>
   <unicode hex="A7FE"/>
-  <anchor x="303" y="1928" name="above"/>
   <anchor x="303" y="0" name="below"/>
   <anchor x="303" y="0" name="cedilla"/>
   <anchor x="0" y="1520" name="half"/>
+  <anchor x="303" y="1928" name="above"/>
   <outline>
     <contour>
-      <point x="201" y="1901" type="line"/>
-      <point x="403" y="1901" type="line"/>
-      <point x="403" y="0" type="line"/>
       <point x="201" y="0" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="403" y="1901" type="line"/>
+      <point x="201" y="1901" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

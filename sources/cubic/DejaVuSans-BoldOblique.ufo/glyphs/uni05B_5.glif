@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni05B5" format="2">
   <unicode hex="05B5"/>
-  <anchor x="755.595" y="0" name="_rtl-below"/>
+  <anchor x="756" y="0" name="_rtl-below"/>
   <outline>
     <component base="uni05B4" xOffset="150"/>
     <component base="uni05B4" xOffset="-150"/>

@@ -3,6 +3,12 @@
   <advance width="1400"/>
   <outline>
     <component base="Dotaccent" xOffset="1071" yOffset="636"/>
-    <component base="Caron" xOffset="1015.93" yOffset="373"/>
+    <component base="Caron" xOffset="1016" yOffset="373"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:22 +0000</string>
+    </dict>
+  </lib>
 </glyph>

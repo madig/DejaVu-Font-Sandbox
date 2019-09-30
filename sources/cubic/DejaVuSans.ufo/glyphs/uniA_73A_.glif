@@ -7,32 +7,38 @@
   <anchor x="0" y="1520" name="half"/>
   <outline>
     <contour>
-      <point x="700" y="1294" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="229" y="0" type="line"/>
+      <point x="365" y="383" type="line"/>
+      <point x="1038" y="383" type="line"/>
+      <point x="1174" y="0" type="line"/>
+      <point x="1403" y="0" type="line"/>
+      <point x="1549" y="383" type="line"/>
+      <point x="1972" y="383" type="line"/>
+      <point x="1972" y="551" type="line"/>
+      <point x="1613" y="551" type="line"/>
+      <point x="1972" y="1493" type="line"/>
+      <point x="1762" y="1493" type="line"/>
+      <point x="1407" y="551" type="line"/>
+      <point x="1174" y="551" type="line"/>
+      <point x="815" y="1493" type="line"/>
+      <point x="586" y="1493" type="line"/>
+    </contour>
+    <contour>
+      <point x="1291" y="244" type="line"/>
+      <point x="1238" y="383" type="line"/>
+      <point x="1343" y="383" type="line"/>
+    </contour>
+    <contour>
       <point x="426" y="551" type="line"/>
+      <point x="700" y="1294" type="line"/>
       <point x="975" y="551" type="line"/>
     </contour>
-    <contour>
-      <point x="1613" y="551" type="line"/>
-      <point x="1972" y="551" type="line"/>
-      <point x="1972" y="383" type="line"/>
-      <point x="1549" y="383" type="line"/>
-      <point x="1403" y="0" type="line"/>
-      <point x="1174" y="0" type="line"/>
-      <point x="1038" y="383" type="line"/>
-      <point x="365" y="383" type="line"/>
-      <point x="229" y="0" type="line"/>
-      <point x="16" y="0" type="line"/>
-      <point x="586" y="1493" type="line"/>
-      <point x="815" y="1493" type="line"/>
-      <point x="1174" y="551" type="line"/>
-      <point x="1407" y="551" type="line"/>
-      <point x="1762" y="1493" type="line"/>
-      <point x="1972" y="1493" type="line"/>
-    </contour>
-    <contour>
-      <point x="1343" y="383" type="line"/>
-      <point x="1238" y="383" type="line"/>
-      <point x="1291" y="244" type="line"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

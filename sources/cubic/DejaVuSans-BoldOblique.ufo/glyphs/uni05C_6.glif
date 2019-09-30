@@ -4,24 +4,35 @@
   <unicode hex="05C6"/>
   <outline>
     <contour>
-      <point x="510.222" y="520" type="qcurve" smooth="yes"/>
-      <point x="458.905" y="256" type="line"/>
-      <point x="886.905" y="256" type="line"/>
-      <point x="837.144" y="0" type="line"/>
-      <point x="51.1436" y="0" type="line"/>
-      <point x="168.938" y="606" type="line" smooth="yes"/>
-      <point x="221.421" y="876"/>
-      <point x="347.136" y="998" type="qcurve" smooth="yes"/>
-      <point x="469.268" y="1120.03"/>
-      <point x="670.343" y="1120.03" type="qcurve" smooth="yes"/>
-      <point x="673.586" y="1120.03"/>
-      <point x="676.85" y="1120" type="qcurve" smooth="yes"/>
-      <point x="1002.85" y="1120" type="line"/>
-      <point x="953.089" y="864" type="line"/>
-      <point x="821.089" y="864" type="line" smooth="yes"/>
-      <point x="687.089" y="864"/>
-      <point x="617.51" y="789" type="qcurve" smooth="yes"/>
-      <point x="548.126" y="715"/>
+      <point x="51" y="0" type="line"/>
+      <point x="837" y="0" type="line"/>
+      <point x="887" y="256" type="line"/>
+      <point x="459" y="256" type="line"/>
+      <point x="510" y="520" type="line" smooth="yes"/>
+      <point x="535" y="650"/>
+      <point x="571" y="740"/>
+      <point x="618" y="789" type="curve" smooth="yes"/>
+      <point x="664" y="839"/>
+      <point x="732" y="864"/>
+      <point x="821" y="864" type="curve" smooth="yes"/>
+      <point x="953" y="864" type="line"/>
+      <point x="1003" y="1120" type="line"/>
+      <point x="677" y="1120" type="line" smooth="yes"/>
+      <point x="675" y="1120"/>
+      <point x="673" y="1120"/>
+      <point x="670" y="1120" type="curve" smooth="yes"/>
+      <point x="536" y="1120"/>
+      <point x="429" y="1079"/>
+      <point x="347" y="998" type="curve" smooth="yes"/>
+      <point x="263" y="917"/>
+      <point x="204" y="786"/>
+      <point x="169" y="606" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

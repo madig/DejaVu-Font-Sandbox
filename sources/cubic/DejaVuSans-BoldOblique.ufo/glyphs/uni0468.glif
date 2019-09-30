@@ -4,31 +4,37 @@
   <unicode hex="0468"/>
   <outline>
     <contour>
-      <point x="2621" y="0" type="line"/>
-      <point x="2246" y="0" type="line"/>
-      <point x="2079" y="521" type="line"/>
-      <point x="1902" y="521" type="line"/>
-      <point x="1801" y="0" type="line"/>
-      <point x="1441" y="0" type="line"/>
-      <point x="1542" y="521" type="line"/>
-      <point x="1365" y="521" type="line"/>
-      <point x="996" y="0" type="line"/>
-      <point x="621" y="0" type="line"/>
-      <point x="1070" y="633" type="line"/>
-      <point x="551" y="633" type="line"/>
-      <point x="428" y="0" type="line"/>
       <point x="43" y="0" type="line"/>
-      <point x="333" y="1493" type="line"/>
-      <point x="718" y="1493" type="line"/>
-      <point x="608" y="924" type="line"/>
-      <point x="1277" y="924" type="line"/>
-      <point x="1681" y="1493" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="551" y="633" type="line"/>
+      <point x="1070" y="633" type="line"/>
+      <point x="621" y="0" type="line"/>
+      <point x="996" y="0" type="line"/>
+      <point x="1365" y="521" type="line"/>
+      <point x="1542" y="521" type="line"/>
+      <point x="1441" y="0" type="line"/>
+      <point x="1801" y="0" type="line"/>
+      <point x="1902" y="521" type="line"/>
+      <point x="2079" y="521" type="line"/>
+      <point x="2246" y="0" type="line"/>
+      <point x="2621" y="0" type="line"/>
       <point x="2141" y="1493" type="line"/>
+      <point x="1681" y="1493" type="line"/>
+      <point x="1277" y="924" type="line"/>
+      <point x="608" y="924" type="line"/>
+      <point x="718" y="1493" type="line"/>
+      <point x="333" y="1493" type="line"/>
     </contour>
     <contour>
-      <point x="1989" y="801" type="line"/>
-      <point x="1857" y="1214" type="line"/>
       <point x="1564" y="801" type="line"/>
+      <point x="1857" y="1214" type="line"/>
+      <point x="1989" y="801" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

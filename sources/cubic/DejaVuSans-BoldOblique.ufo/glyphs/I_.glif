@@ -3,15 +3,21 @@
   <advance width="762"/>
   <unicode hex="0049"/>
   <anchor x="357" y="0" name="ogonek"/>
-  <anchor x="295" y="1520" name="half"/>
   <anchor x="234" y="0" name="below"/>
+  <anchor x="295" y="1520" name="half"/>
   <anchor x="539" y="1520" name="above"/>
   <outline>
     <contour>
-      <point x="334" y="1493" type="line"/>
-      <point x="719" y="1493" type="line"/>
-      <point x="428" y="0" type="line"/>
       <point x="43" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="719" y="1493" type="line"/>
+      <point x="334" y="1493" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -5,19 +5,19 @@
   <anchor x="668" y="1520" name="rtl-above"/>
   <outline>
     <contour>
-      <point x="879" y="1237" type="line"/>
-      <point x="456" y="1237" type="line"/>
-      <point x="668" y="424" type="line"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="1355" y="0" type="line"/>
+      <point x="1355" y="256" type="line"/>
+      <point x="940" y="256" type="line"/>
+      <point x="1305" y="1493" type="line"/>
+      <point x="31" y="1493" type="line"/>
+      <point x="396" y="256" type="line"/>
+      <point x="-20" y="256" type="line"/>
     </contour>
     <contour>
-      <point x="-20" y="0" type="line"/>
-      <point x="-20" y="256" type="line"/>
-      <point x="396" y="256" type="line"/>
-      <point x="31" y="1493" type="line"/>
-      <point x="1305" y="1493" type="line"/>
-      <point x="940" y="256" type="line"/>
-      <point x="1355" y="256" type="line"/>
-      <point x="1355" y="0" type="line"/>
+      <point x="668" y="424" type="line"/>
+      <point x="456" y="1237" type="line"/>
+      <point x="879" y="1237" type="line"/>
     </contour>
   </outline>
 </glyph>

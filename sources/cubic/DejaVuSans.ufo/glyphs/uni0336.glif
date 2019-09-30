@@ -4,9 +4,15 @@
   <outline>
     <contour>
       <point x="-1299" y="452" type="line"/>
-      <point x="-1299" y="616" type="line"/>
-      <point x="-1" y="616" type="line"/>
       <point x="-1" y="452" type="line"/>
+      <point x="-1" y="616" type="line"/>
+      <point x="-1299" y="616" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

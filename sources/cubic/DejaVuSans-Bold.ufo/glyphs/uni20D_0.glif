@@ -2,16 +2,16 @@
 <glyph name="uni20D0" format="2">
   <unicode hex="20D0"/>
   <anchor x="-512" y="1147" name="_above"/>
-  <anchor x="-512" y="1556" name="above-mark"/>
   <anchor x="-512" y="1282" name="_above-mark"/>
+  <anchor x="-512" y="1556" name="above-mark"/>
   <outline>
     <contour>
       <point x="-1019" y="1286" type="line"/>
-      <point x="-788" y="1556" type="line"/>
-      <point x="-632" y="1556" type="line"/>
-      <point x="-751" y="1416" type="line"/>
-      <point x="-53" y="1416" type="line"/>
       <point x="-53" y="1286" type="line"/>
+      <point x="-53" y="1416" type="line"/>
+      <point x="-751" y="1416" type="line"/>
+      <point x="-632" y="1556" type="line"/>
+      <point x="-788" y="1556" type="line"/>
     </contour>
   </outline>
 </glyph>

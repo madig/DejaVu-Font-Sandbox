@@ -2,9 +2,15 @@
 <glyph name="uni05F0" format="2">
   <advance width="964"/>
   <unicode hex="05F0"/>
-  <anchor x="373.147" y="0" name="rtl-below"/>
+  <anchor x="373" y="0" name="rtl-below"/>
   <outline>
     <component base="uni05D5"/>
     <component base="uni05D5" xOffset="406"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:22 +0000</string>
+    </dict>
+  </lib>
 </glyph>

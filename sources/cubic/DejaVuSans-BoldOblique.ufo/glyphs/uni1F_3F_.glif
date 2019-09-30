@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F3F" format="2">
-  <advance width="1238"/>
+  <advance width="762"/>
   <unicode hex="1F3F"/>
   <outline>
     <component base="Iota" xOffset="476"/>
-    <component base="uni1FDF" xOffset="-157"/>
+    <component base="uni1FDF" xOffset="-172"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

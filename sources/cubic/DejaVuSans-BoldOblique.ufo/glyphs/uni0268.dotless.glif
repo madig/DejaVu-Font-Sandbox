@@ -2,24 +2,30 @@
 <glyph name="uni0268.dotless" format="2">
   <advance width="1117"/>
   <anchor x="526" y="0" name="ogonek"/>
-  <anchor x="295" y="1520" name="half"/>
   <anchor x="414" y="0" name="below"/>
+  <anchor x="295" y="1520" name="half"/>
   <anchor x="414" y="0" name="cedilla"/>
-  <anchor x="640.5" y="1147" name="above"/>
+  <anchor x="641" y="1147" name="above"/>
   <outline>
     <contour>
-      <point x="452" y="1120" type="line"/>
-      <point x="810" y="1120" type="line"/>
-      <point x="716" y="632" type="line"/>
-      <point x="917" y="632" type="line"/>
-      <point x="879" y="438" type="line"/>
-      <point x="678" y="438" type="line"/>
-      <point x="593" y="0" type="line"/>
       <point x="235" y="0" type="line"/>
-      <point x="320" y="438" type="line"/>
-      <point x="106" y="438" type="line"/>
-      <point x="144" y="632" type="line"/>
+      <point x="593" y="0" type="line"/>
+      <point x="678" y="438" type="line"/>
+      <point x="879" y="438" type="line"/>
+      <point x="917" y="632" type="line"/>
+      <point x="716" y="632" type="line"/>
+      <point x="810" y="1120" type="line"/>
+      <point x="452" y="1120" type="line"/>
       <point x="358" y="632" type="line"/>
+      <point x="144" y="632" type="line"/>
+      <point x="106" y="438" type="line"/>
+      <point x="320" y="438" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

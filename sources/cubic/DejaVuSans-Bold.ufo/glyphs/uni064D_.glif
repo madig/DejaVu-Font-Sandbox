@@ -7,16 +7,16 @@
   <anchor x="512" y="-500" name="rtl-below-mark"/>
   <outline>
     <contour>
-      <point x="220" y="-490" type="line"/>
-      <point x="220" y="-350" type="line"/>
-      <point x="804" y="-220" type="line"/>
-      <point x="804" y="-360" type="line"/>
+      <point x="220" y="-280" type="line"/>
+      <point x="804" y="-150" type="line"/>
+      <point x="804" y="-10" type="line"/>
+      <point x="220" y="-140" type="line"/>
     </contour>
     <contour>
-      <point x="220" y="-280" type="line"/>
-      <point x="220" y="-140" type="line"/>
-      <point x="804" y="-10" type="line"/>
-      <point x="804" y="-150" type="line"/>
+      <point x="220" y="-490" type="line"/>
+      <point x="804" y="-360" type="line"/>
+      <point x="804" y="-220" type="line"/>
+      <point x="220" y="-350" type="line"/>
     </contour>
   </outline>
 </glyph>

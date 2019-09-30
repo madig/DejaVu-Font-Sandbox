@@ -5,18 +5,18 @@
   <anchor x="525" y="0" name="below"/>
   <outline>
     <contour>
-      <point x="132" y="1202" type="line"/>
-      <point x="132" y="1493" type="line"/>
-      <point x="918" y="1493" type="line"/>
-      <point x="918" y="1202" type="line"/>
-      <point x="716" y="1202" type="line"/>
-      <point x="716" y="291" type="line"/>
-      <point x="918" y="291" type="line"/>
-      <point x="918" y="0" type="line"/>
       <point x="132" y="0" type="line"/>
-      <point x="132" y="291" type="line"/>
-      <point x="332" y="291" type="line"/>
+      <point x="918" y="0" type="line"/>
+      <point x="918" y="291" type="line"/>
+      <point x="716" y="291" type="line"/>
+      <point x="716" y="1202" type="line"/>
+      <point x="918" y="1202" type="line"/>
+      <point x="918" y="1493" type="line"/>
+      <point x="132" y="1493" type="line"/>
+      <point x="132" y="1202" type="line"/>
       <point x="332" y="1202" type="line"/>
+      <point x="332" y="291" type="line"/>
+      <point x="132" y="291" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -2,10 +2,10 @@
 <glyph name="Aogonek" format="2">
   <advance width="1585"/>
   <unicode hex="0104"/>
-  <anchor x="937" y="1520" name="above"/>
   <anchor x="478" y="-312" name="below"/>
-  <anchor x="295" y="1520" name="half"/>
   <anchor x="1051" y="-384" name="cedilla"/>
+  <anchor x="295" y="1520" name="half"/>
+  <anchor x="937" y="1520" name="above"/>
   <outline>
     <component base="ogonek" xOffset="750"/>
     <component base="A"/>

@@ -2,14 +2,20 @@
 <glyph name="uni05D5" format="2">
   <advance width="703"/>
   <unicode hex="05D5"/>
-  <anchor x="122.853" y="560" name="rtl-inside"/>
   <anchor x="328" y="0" name="rtl-below"/>
+  <anchor x="123" y="560" name="rtl-inside"/>
   <outline>
     <contour>
-      <point x="734.706" y="1120" type="line"/>
-      <point x="517" y="0" type="line"/>
       <point x="186" y="0" type="line"/>
-      <point x="403.706" y="1120" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="735" y="1120" type="line"/>
+      <point x="404" y="1120" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

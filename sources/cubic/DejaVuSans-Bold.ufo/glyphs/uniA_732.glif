@@ -7,31 +7,31 @@
   <anchor x="0" y="1520" name="half"/>
   <outline>
     <contour>
-      <point x="588" y="549" type="line"/>
-      <point x="997" y="549" type="line"/>
-      <point x="793" y="1143" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="397" y="0" type="line"/>
+      <point x="492" y="272" type="line"/>
+      <point x="1094" y="272" type="line"/>
+      <point x="1188" y="0" type="line"/>
+      <point x="1575" y="0" type="line"/>
+      <point x="1670" y="272" type="line"/>
+      <point x="2272" y="272" type="line"/>
+      <point x="2366" y="0" type="line"/>
+      <point x="2753" y="0" type="line"/>
+      <point x="2200" y="1493" type="line"/>
+      <point x="1741" y="1493" type="line"/>
+      <point x="1382" y="522" type="line"/>
+      <point x="1022" y="1493" type="line"/>
+      <point x="563" y="1493" type="line"/>
     </contour>
     <contour>
-      <point x="1094" y="272" type="line"/>
-      <point x="492" y="272" type="line"/>
-      <point x="397" y="0" type="line"/>
-      <point x="10" y="0" type="line"/>
-      <point x="563" y="1493" type="line"/>
-      <point x="1022" y="1493" type="line"/>
-      <point x="1382" y="522" type="line"/>
-      <point x="1741" y="1493" type="line"/>
-      <point x="2200" y="1493" type="line"/>
-      <point x="2753" y="0" type="line"/>
-      <point x="2366" y="0" type="line"/>
-      <point x="2272" y="272" type="line"/>
-      <point x="1670" y="272" type="line"/>
-      <point x="1575" y="0" type="line"/>
-      <point x="1188" y="0" type="line"/>
+      <point x="588" y="549" type="line"/>
+      <point x="793" y="1143" type="line"/>
+      <point x="997" y="549" type="line"/>
     </contour>
     <contour>
       <point x="1766" y="549" type="line"/>
-      <point x="2175" y="549" type="line"/>
       <point x="1971" y="1143" type="line"/>
+      <point x="2175" y="549" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -4,24 +4,38 @@
   <unicode hex="2311"/>
   <outline>
     <contour>
-      <point x="140" y="393.5" type="qcurve"/>
-      <point x="525" y="530.938"/>
-      <point x="910" y="393.5" type="qcurve"/>
-      <point x="772.562" y="778.5"/>
-      <point x="910" y="1163.5" type="qcurve"/>
-      <point x="525" y="1026.06"/>
-      <point x="140" y="1163.5" type="qcurve"/>
-      <point x="277.438" y="778.5"/>
+      <point x="6" y="259" type="curve"/>
+      <point x="352" y="377"/>
+      <point x="698" y="377"/>
+      <point x="1045" y="259" type="curve"/>
+      <point x="922" y="619"/>
+      <point x="922" y="965"/>
+      <point x="1045" y="1298" type="curve"/>
+      <point x="699" y="1180"/>
+      <point x="352" y="1180"/>
+      <point x="6" y="1298" type="curve"/>
+      <point x="129" y="938"/>
+      <point x="129" y="592"/>
     </contour>
     <contour>
-      <point x="6" y="258.5" type="qcurve"/>
-      <point x="190" y="758.5"/>
-      <point x="6" y="1298" type="qcurve"/>
-      <point x="525.352" y="1121.29"/>
-      <point x="1045" y="1298" type="qcurve"/>
-      <point x="861.219" y="798.5"/>
-      <point x="1045" y="259" type="qcurve"/>
-      <point x="525" y="435.5"/>
+      <point x="140" y="394" type="curve"/>
+      <point x="232" y="650"/>
+      <point x="232" y="907"/>
+      <point x="140" y="1164" type="curve"/>
+      <point x="397" y="1072"/>
+      <point x="653" y="1072"/>
+      <point x="910" y="1164" type="curve"/>
+      <point x="818" y="907"/>
+      <point x="818" y="650"/>
+      <point x="910" y="394" type="curve"/>
+      <point x="653" y="485"/>
+      <point x="397" y="485"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

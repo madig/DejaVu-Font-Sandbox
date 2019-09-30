@@ -8,4 +8,10 @@
     <component base="onesuperior" xOffset="-23"/>
     <component base="fraction" xOffset="918"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -8,4 +8,10 @@
     <component base="uniFB8F"/>
     <component base="arabic_gaf_bar" xOffset="970"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

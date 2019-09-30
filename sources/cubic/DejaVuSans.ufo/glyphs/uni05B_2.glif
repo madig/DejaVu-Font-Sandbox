@@ -1,26 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni05B2" format="2">
   <unicode hex="05B2"/>
-  <anchor x="655" y="0" name="_rtl-below"/>
   <anchor x="655" y="0" name="_Ligature rtl-below"/>
+  <anchor x="655" y="0" name="_rtl-below-mark"/>
+  <anchor x="655" y="0" name="_rtl-below"/>
   <outline>
     <contour>
       <point x="255" y="-195" type="line"/>
-      <point x="255" y="-45" type="line"/>
-      <point x="655" y="-45" type="line"/>
       <point x="655" y="-195" type="line"/>
+      <point x="655" y="-45" type="line"/>
+      <point x="255" y="-45" type="line"/>
     </contour>
     <contour>
-      <point x="780" y="-45" type="line"/>
-      <point x="930" y="-45" type="line"/>
-      <point x="930" y="-195" type="line"/>
-      <point x="780" y="-195" type="line"/>
-    </contour>
-    <contour>
-      <point x="780" y="-295" type="line"/>
-      <point x="930" y="-295" type="line"/>
-      <point x="930" y="-445" type="line"/>
       <point x="780" y="-445" type="line"/>
+      <point x="930" y="-445" type="line"/>
+      <point x="930" y="-295" type="line"/>
+      <point x="780" y="-295" type="line"/>
+    </contour>
+    <contour>
+      <point x="780" y="-195" type="line"/>
+      <point x="930" y="-195" type="line"/>
+      <point x="930" y="-45" type="line"/>
+      <point x="780" y="-45" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

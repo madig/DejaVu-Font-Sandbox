@@ -2,23 +2,29 @@
 <glyph name="uni05E7" format="2">
   <advance width="1508"/>
   <unicode hex="05E7"/>
-  <anchor x="777.853" y="560" name="rtl-inside"/>
   <anchor x="756" y="0" name="rtl-below"/>
+  <anchor x="778" y="560" name="rtl-inside"/>
   <outline>
     <contour>
-      <point x="435.365" y="-492" type="line"/>
-      <point x="105.365" y="-492" type="line"/>
-      <point x="314.907" y="586" type="line"/>
-      <point x="671.343" y="722" type="line"/>
+      <point x="668" y="0" type="line"/>
+      <point x="1010" y="0" type="line"/>
+      <point x="1539" y="960" type="line"/>
+      <point x="1570" y="1119" type="line"/>
+      <point x="404" y="1119" type="line"/>
+      <point x="357" y="882" type="line"/>
+      <point x="1146" y="882" type="line"/>
     </contour>
     <contour>
-      <point x="668" y="0" type="line"/>
-      <point x="1146.44" y="882" type="line"/>
-      <point x="357.443" y="882" type="line"/>
-      <point x="403.512" y="1119" type="line"/>
-      <point x="1569.51" y="1119" type="line"/>
-      <point x="1538.61" y="960" type="line"/>
-      <point x="1010" y="0" type="line"/>
+      <point x="105" y="-492" type="line"/>
+      <point x="435" y="-492" type="line"/>
+      <point x="671" y="722" type="line"/>
+      <point x="315" y="586" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

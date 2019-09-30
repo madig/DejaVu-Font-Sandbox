@@ -2,15 +2,21 @@
 <glyph name="l" format="2">
   <advance width="569"/>
   <unicode hex="006C"/>
-  <anchor x="0" y="1520" name="half"/>
   <anchor x="278" y="0" name="below"/>
+  <anchor x="0" y="1520" name="half"/>
   <anchor x="278" y="1520" name="above"/>
   <outline>
     <contour>
-      <point x="193" y="1556" type="line"/>
-      <point x="377" y="1556" type="line"/>
-      <point x="377" y="0" type="line"/>
       <point x="193" y="0" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="377" y="1556" type="line"/>
+      <point x="193" y="1556" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:29:49 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -6,4 +6,10 @@
     <component base="Acute" xOffset="1173" yOffset="374"/>
     <component base="R"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

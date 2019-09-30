@@ -5,18 +5,24 @@
   <anchor x="452" y="1520" name="above"/>
   <outline>
     <contour>
-      <point x="375" y="1556" type="line"/>
+      <point x="417" y="0" type="curve" smooth="yes"/>
+      <point x="449" y="0" type="line"/>
+      <point x="479" y="156" type="line"/>
+      <point x="468" y="156" type="line" smooth="yes"/>
+      <point x="328" y="156"/>
+      <point x="296" y="202"/>
+      <point x="335" y="406" type="curve" smooth="yes"/>
       <point x="559" y="1556" type="line"/>
-      <point x="335.463" y="406" type="line" smooth="yes"/>
-      <point x="305.723" y="253"/>
-      <point x="362.868" y="156"/>
-      <point x="467.868" y="156" type="qcurve" smooth="yes"/>
-      <point x="478.868" y="156" type="line"/>
-      <point x="448.545" y="0" type="line"/>
-      <point x="416.545" y="0" type="line" smooth="yes"/>
-      <point x="235.545" y="0"/>
-      <point x="109.865" y="192"/>
-      <point x="151.463" y="406" type="qcurve" smooth="yes"/>
+      <point x="375" y="1556" type="line"/>
+      <point x="151" y="406" type="line" smooth="yes"/>
+      <point x="96" y="121"/>
+      <point x="175" y="0"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

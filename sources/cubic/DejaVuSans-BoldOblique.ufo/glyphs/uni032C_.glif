@@ -2,8 +2,8 @@
 <glyph name="uni032C" format="2">
   <unicode hex="032C"/>
   <anchor x="-549" y="-492" name="below-mark"/>
-  <anchor x="-453" y="0" name="_below-mark"/>
   <anchor x="-453" y="0" name="_below"/>
+  <anchor x="-453" y="0" name="_below-mark"/>
   <outline>
     <component base="caron" xOffset="-1156" yOffset="-1754"/>
   </outline>

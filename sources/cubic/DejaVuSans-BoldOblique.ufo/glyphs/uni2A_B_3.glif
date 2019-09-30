@@ -4,29 +4,39 @@
   <unicode hex="2AB3"/>
   <outline>
     <contour>
-      <point x="1499" y="-181" type="line"/>
-      <point x="1499" y="-419" type="line"/>
+      <point x="1499" y="221" type="curve"/>
+      <point x="1499" y="508" type="line"/>
+      <point x="1303" y="679"/>
+      <point x="1049" y="776"/>
+      <point x="736" y="800" type="curve"/>
+      <point x="1047" y="825"/>
+      <point x="1301" y="922"/>
+      <point x="1499" y="1092" type="curve"/>
+      <point x="1499" y="1377" type="line"/>
+      <point x="1263" y="1148"/>
+      <point x="836" y="995"/>
+      <point x="217" y="917" type="curve"/>
+      <point x="217" y="681" type="line"/>
+      <point x="826" y="613"/>
+      <point x="1253" y="460"/>
+    </contour>
+    <contour>
       <point x="217" y="-419" type="line"/>
+      <point x="1499" y="-419" type="line"/>
+      <point x="1499" y="-181" type="line"/>
       <point x="217" y="-181" type="line"/>
     </contour>
     <contour>
-      <point x="1499" y="185" type="line"/>
-      <point x="1499" y="-53" type="line"/>
       <point x="217" y="-53" type="line"/>
+      <point x="1499" y="-53" type="line"/>
+      <point x="1499" y="185" type="line"/>
       <point x="217" y="185" type="line"/>
     </contour>
-    <contour>
-      <point x="1499" y="1092" type="line"/>
-      <point x="1202.72" y="837"/>
-      <point x="736" y="800" type="qcurve"/>
-      <point x="1205" y="764"/>
-      <point x="1499" y="508" type="qcurve"/>
-      <point x="1499" y="221" type="line"/>
-      <point x="1130" y="579"/>
-      <point x="217" y="681" type="qcurve"/>
-      <point x="217" y="917" type="line"/>
-      <point x="1145" y="1034"/>
-      <point x="1499" y="1377" type="qcurve"/>
-    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

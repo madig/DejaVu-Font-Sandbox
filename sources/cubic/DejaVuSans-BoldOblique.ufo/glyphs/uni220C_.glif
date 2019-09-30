@@ -4,53 +4,66 @@
   <unicode hex="220C"/>
   <outline>
     <contour>
-      <point x="1122" y="1473" type="line"/>
-      <point x="1219" y="1448"/>
-      <point x="1311" y="1397" type="qcurve" smooth="yes"/>
-      <point x="1489" y="1298"/>
-      <point x="1687" y="942"/>
-      <point x="1687" y="746" type="qcurve" smooth="yes"/>
-      <point x="1687" y="550"/>
-      <point x="1486" y="190"/>
-      <point x="1127" y="-4"/>
-      <point x="918" y="-4" type="qcurve" smooth="yes"/>
-      <point x="660" y="-4" type="line"/>
-      <point x="632" y="-95" type="line"/>
       <point x="410" y="-95" type="line"/>
-      <point x="439" y="-4" type="line"/>
-      <point x="149" y="-4" type="line"/>
-      <point x="149" y="245" type="line"/>
-      <point x="517" y="245" type="line"/>
-      <point x="634" y="621" type="line"/>
-      <point x="149" y="621" type="line"/>
-      <point x="149" y="871" type="line"/>
-      <point x="713" y="871" type="line"/>
-      <point x="830" y="1247" type="line"/>
-      <point x="149" y="1247" type="line"/>
-      <point x="149" y="1496" type="line"/>
-      <point x="908" y="1496" type="line"/>
-      <point x="937" y="1587" type="line"/>
+      <point x="632" y="-95" type="line"/>
+      <point x="660" y="-4" type="line"/>
+      <point x="918" y="-4" type="line" smooth="yes"/>
+      <point x="1057" y="-4"/>
+      <point x="1187" y="28"/>
+      <point x="1307" y="93" type="curve" smooth="yes"/>
+      <point x="1546" y="222"/>
+      <point x="1687" y="485"/>
+      <point x="1687" y="746" type="curve" smooth="yes"/>
+      <point x="1687" y="1007"/>
+      <point x="1548" y="1265"/>
+      <point x="1311" y="1397" type="curve" smooth="yes"/>
+      <point x="1250" y="1431"/>
+      <point x="1187" y="1456"/>
+      <point x="1122" y="1473" type="curve"/>
       <point x="1158" y="1587" type="line"/>
+      <point x="937" y="1587" type="line"/>
+      <point x="908" y="1496" type="line"/>
+      <point x="149" y="1496" type="line"/>
+      <point x="149" y="1247" type="line"/>
+      <point x="830" y="1247" type="line"/>
+      <point x="713" y="871" type="line"/>
+      <point x="149" y="871" type="line"/>
+      <point x="149" y="621" type="line"/>
+      <point x="634" y="621" type="line"/>
+      <point x="517" y="245" type="line"/>
+      <point x="149" y="245" type="line"/>
+      <point x="149" y="-4" type="line"/>
+      <point x="439" y="-4" type="line"/>
     </contour>
     <contour>
       <point x="738" y="245" type="line"/>
-      <point x="899" y="245" type="line" smooth="yes"/>
-      <point x="1064" y="246"/>
-      <point x="1303" y="375"/>
-      <point x="1370" y="495" type="qcurve" smooth="yes"/>
-      <point x="1404" y="557"/>
-      <point x="1421" y="621" type="qcurve"/>
       <point x="856" y="621" type="line"/>
+      <point x="1421" y="621" type="line"/>
+      <point x="1410" y="578"/>
+      <point x="1393" y="536"/>
+      <point x="1370" y="495" type="curve" smooth="yes"/>
+      <point x="1281" y="335"/>
+      <point x="1119" y="246"/>
+      <point x="899" y="245" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="934" y="871" type="line"/>
-      <point x="1421" y="871" type="line"/>
-      <point x="1405" y="934"/>
-      <point x="1371" y="995" type="qcurve" smooth="yes"/>
-      <point x="1305" y="1114"/>
-      <point x="1186" y="1180" type="qcurve" smooth="yes"/>
-      <point x="1119" y="1217"/>
-      <point x="1047" y="1234" type="qcurve"/>
+      <point x="1047" y="1234" type="line"/>
+      <point x="1095" y="1223"/>
+      <point x="1141" y="1205"/>
+      <point x="1186" y="1180" type="curve" smooth="yes"/>
+      <point x="1265" y="1136"/>
+      <point x="1327" y="1074"/>
+      <point x="1371" y="995" type="curve" smooth="yes"/>
+      <point x="1394" y="954"/>
+      <point x="1410" y="913"/>
+      <point x="1421" y="871" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

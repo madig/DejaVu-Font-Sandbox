@@ -4,11 +4,17 @@
   <unicode hex="2149"/>
   <outline>
     <contour>
-      <point x="365" y="1556" type="line"/>
-      <point x="725" y="1556" type="line"/>
-      <point x="668" y="1264" type="line"/>
       <point x="308" y="1264" type="line"/>
+      <point x="668" y="1264" type="line"/>
+      <point x="725" y="1556" type="line"/>
+      <point x="365" y="1556" type="line"/>
     </contour>
     <component base="uni2149.dotless"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

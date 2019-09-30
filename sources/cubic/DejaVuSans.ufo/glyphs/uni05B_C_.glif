@@ -4,10 +4,16 @@
   <anchor x="665" y="560" name="_rtl-inside"/>
   <outline>
     <contour>
-      <point x="590" y="635" type="line"/>
-      <point x="740" y="635" type="line"/>
-      <point x="740" y="485" type="line"/>
       <point x="590" y="485" type="line"/>
+      <point x="740" y="485" type="line"/>
+      <point x="740" y="635" type="line"/>
+      <point x="590" y="635" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

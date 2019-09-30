@@ -1,20 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni05B0" format="2">
   <unicode hex="05B0"/>
-  <anchor x="707" y="0" name="_rtl-below"/>
   <anchor x="707" y="0" name="_Ligature rtl-below"/>
+  <anchor x="707" y="0" name="_rtl-below"/>
+  <anchor x="707" y="0" name="_rtl-below-mark"/>
   <outline>
     <contour>
-      <point x="607" y="-20" type="line"/>
-      <point x="807" y="-20" type="line"/>
-      <point x="807" y="-220" type="line"/>
       <point x="607" y="-220" type="line"/>
+      <point x="807" y="-220" type="line"/>
+      <point x="807" y="-20" type="line"/>
+      <point x="607" y="-20" type="line"/>
     </contour>
     <contour>
-      <point x="607" y="-270" type="line"/>
-      <point x="807" y="-270" type="line"/>
-      <point x="807" y="-470" type="line"/>
       <point x="607" y="-470" type="line"/>
+      <point x="807" y="-470" type="line"/>
+      <point x="807" y="-270" type="line"/>
+      <point x="607" y="-270" type="line"/>
     </contour>
   </outline>
 </glyph>

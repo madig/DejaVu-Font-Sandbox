@@ -6,4 +6,10 @@
     <component base="Dotaccent" xOffset="1138" yOffset="372"/>
     <component base="T"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

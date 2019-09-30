@@ -2,26 +2,24 @@
 <glyph name="uni05D6" format="2">
   <advance width="820"/>
   <unicode hex="05D6"/>
-  <anchor x="27" y="560" name="rtl-inside"/>
   <anchor x="369" y="0" name="rtl-below"/>
+  <anchor x="27" y="560" name="rtl-inside"/>
   <outline>
     <contour>
-      <point x="732" y="1120" type="line"/>
-      <point x="732" y="882" type="line"/>
-      <point x="649" y="882" type="line" smooth="yes"/>
-      <point x="609" y="882"/>
-      <point x="555" y="818"/>
-      <point x="531" y="703"/>
-      <point x="523" y="599"/>
-      <point x="523" y="532" type="qcurve" smooth="yes"/>
-      <point x="523" y="0" type="line"/>
       <point x="192" y="0" type="line"/>
-      <point x="192" y="476" type="line" smooth="yes"/>
-      <point x="192" y="614"/>
-      <point x="262" y="850"/>
-      <point x="333" y="882" type="qcurve"/>
-      <point x="88" y="882" type="line"/>
+      <point x="523" y="0" type="line"/>
+      <point x="523" y="532" type="line" smooth="yes"/>
+      <point x="523" y="682"/>
+      <point x="535" y="882"/>
+      <point x="649" y="882" type="curve" smooth="yes"/>
+      <point x="732" y="882" type="line"/>
+      <point x="732" y="1120" type="line"/>
       <point x="88" y="1120" type="line"/>
+      <point x="88" y="882" type="line"/>
+      <point x="333" y="882" type="line"/>
+      <point x="238" y="839"/>
+      <point x="192" y="660"/>
+      <point x="192" y="476" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

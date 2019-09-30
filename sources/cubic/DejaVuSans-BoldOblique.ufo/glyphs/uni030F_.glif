@@ -1,21 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni030F" format="2">
   <unicode hex="030F"/>
-  <anchor x="-201" y="1147" name="_above-mark"/>
-  <anchor x="-126" y="1638" name="above-mark"/>
   <anchor x="-201" y="1147" name="_above"/>
+  <anchor x="-126" y="1638" name="above-mark"/>
+  <anchor x="-201" y="1147" name="_above-mark"/>
   <outline>
     <contour>
-      <point x="23.0801" y="1638" type="line"/>
-      <point x="144" y="1262" type="line"/>
-      <point x="-19" y="1262" type="line"/>
-      <point x="-193.92" y="1638" type="line"/>
+      <point x="-372" y="1262" type="line"/>
+      <point x="-198" y="1262" type="line"/>
+      <point x="-340" y="1638" type="line"/>
+      <point x="-571" y="1638" type="line"/>
     </contour>
     <contour>
-      <point x="-339.92" y="1638" type="line"/>
-      <point x="-198" y="1262" type="line"/>
-      <point x="-372" y="1262" type="line"/>
-      <point x="-570.92" y="1638" type="line"/>
+      <point x="-19" y="1262" type="line"/>
+      <point x="144" y="1262" type="line"/>
+      <point x="23" y="1638" type="line"/>
+      <point x="-194" y="1638" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -4,9 +4,9 @@
   <unicode hex="005F"/>
   <outline>
     <contour>
-      <point x="1024" y="-293" type="line"/>
-      <point x="1024" y="-483" type="line"/>
       <point x="0" y="-483" type="line"/>
+      <point x="1024" y="-483" type="line"/>
+      <point x="1024" y="-293" type="line"/>
       <point x="0" y="-293" type="line"/>
     </contour>
   </outline>

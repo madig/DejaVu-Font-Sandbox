@@ -1,25 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni05B6" format="2">
   <unicode hex="05B6"/>
-  <anchor x="702.623" y="0" name="_rtl-below"/>
+  <anchor x="703" y="0" name="_rtl-below"/>
   <outline>
     <contour>
-      <point x="570.281" y="-295" type="line"/>
-      <point x="720.281" y="-295" type="line"/>
-      <point x="691.124" y="-445" type="line"/>
-      <point x="541.124" y="-445" type="line"/>
+      <point x="715" y="-195" type="line"/>
+      <point x="865" y="-195" type="line"/>
+      <point x="894" y="-45" type="line"/>
+      <point x="744" y="-45" type="line"/>
     </contour>
     <contour>
-      <point x="493.876" y="-45" type="line"/>
-      <point x="643.876" y="-45" type="line"/>
-      <point x="614.719" y="-195" type="line"/>
-      <point x="464.719" y="-195" type="line"/>
+      <point x="541" y="-445" type="line"/>
+      <point x="691" y="-445" type="line"/>
+      <point x="720" y="-295" type="line"/>
+      <point x="570" y="-295" type="line"/>
     </contour>
     <contour>
-      <point x="743.876" y="-45" type="line"/>
-      <point x="893.876" y="-45" type="line"/>
-      <point x="864.719" y="-195" type="line"/>
-      <point x="714.719" y="-195" type="line"/>
+      <point x="465" y="-195" type="line"/>
+      <point x="615" y="-195" type="line"/>
+      <point x="644" y="-45" type="line"/>
+      <point x="494" y="-45" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

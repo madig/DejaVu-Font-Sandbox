@@ -3,7 +3,13 @@
   <advance width="1875"/>
   <unicode hex="1547"/>
   <outline>
-    <component base="Dotaccent" xOffset="1216.5" yOffset="-196"/>
+    <component base="Dotaccent" xOffset="1217" yOffset="-196"/>
     <component base="uni1546"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

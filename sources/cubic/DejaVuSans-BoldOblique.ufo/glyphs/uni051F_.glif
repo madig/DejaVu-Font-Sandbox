@@ -5,27 +5,33 @@
   <anchor x="840" y="1147" name="above"/>
   <outline>
     <contour>
-      <point x="705" y="1100" type="line"/>
-      <point x="911" y="1100" type="line"/>
-      <point x="951" y="1050" type="line"/>
-      <point x="1038" y="1120" type="line"/>
-      <point x="1430" y="1120" type="line"/>
-      <point x="1105" y="859" type="line"/>
-      <point x="1230" y="704" type="line"/>
-      <point x="1018" y="704" type="line"/>
-      <point x="976" y="756" type="line"/>
-      <point x="863" y="665" type="line"/>
-      <point x="1251" y="0" type="line"/>
-      <point x="881" y="0" type="line"/>
-      <point x="612" y="463" type="line"/>
-      <point x="492" y="367" type="line"/>
-      <point x="421" y="0" type="line"/>
       <point x="63" y="0" type="line"/>
-      <point x="281" y="1120" type="line"/>
-      <point x="639" y="1120" type="line"/>
-      <point x="565" y="741" type="line"/>
-      <point x="822" y="947" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="492" y="367" type="line"/>
+      <point x="612" y="463" type="line"/>
+      <point x="881" y="0" type="line"/>
+      <point x="1251" y="0" type="line"/>
+      <point x="863" y="665" type="line"/>
+      <point x="976" y="756" type="line"/>
+      <point x="1018" y="704" type="line"/>
+      <point x="1230" y="704" type="line"/>
+      <point x="1105" y="859" type="line"/>
+      <point x="1430" y="1120" type="line"/>
+      <point x="1038" y="1120" type="line"/>
+      <point x="951" y="1050" type="line"/>
+      <point x="911" y="1100" type="line"/>
+      <point x="705" y="1100" type="line"/>
       <point x="701" y="1097" type="line"/>
+      <point x="822" y="947" type="line"/>
+      <point x="565" y="741" type="line"/>
+      <point x="639" y="1120" type="line"/>
+      <point x="281" y="1120" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

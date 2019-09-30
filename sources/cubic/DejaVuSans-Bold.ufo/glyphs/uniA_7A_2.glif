@@ -2,31 +2,31 @@
 <glyph name="uniA7A2" format="2">
   <advance width="1587"/>
   <unicode hex="A7A2"/>
-  <anchor x="0" y="1520" name="half"/>
   <anchor x="881" y="0" name="below"/>
+  <anchor x="0" y="1520" name="half"/>
   <anchor x="881" y="1520" name="above"/>
   <outline>
     <contour>
-      <point x="188" y="1493" type="line"/>
-      <point x="573" y="1493" type="line"/>
-      <point x="573" y="948" type="line"/>
-      <point x="1128" y="1493" type="line"/>
-      <point x="1575" y="1493" type="line"/>
-      <point x="856" y="786" type="line"/>
-      <point x="920" y="723" type="line"/>
-      <point x="1545" y="917" type="line"/>
-      <point x="1610" y="688" type="line"/>
-      <point x="1111" y="533" type="line"/>
-      <point x="1649" y="0" type="line"/>
-      <point x="1167" y="0" type="line"/>
-      <point x="744" y="419" type="line"/>
-      <point x="573" y="366" type="line"/>
-      <point x="573" y="0" type="line"/>
       <point x="188" y="0" type="line"/>
-      <point x="188" y="246" type="line"/>
-      <point x="43" y="201" type="line"/>
-      <point x="-22" y="430" type="line"/>
+      <point x="573" y="0" type="line"/>
+      <point x="573" y="366" type="line"/>
+      <point x="744" y="419" type="line"/>
+      <point x="1167" y="0" type="line"/>
+      <point x="1649" y="0" type="line"/>
+      <point x="1111" y="533" type="line"/>
+      <point x="1610" y="688" type="line"/>
+      <point x="1545" y="917" type="line"/>
+      <point x="920" y="723" type="line"/>
+      <point x="856" y="786" type="line"/>
+      <point x="1575" y="1493" type="line"/>
+      <point x="1128" y="1493" type="line"/>
+      <point x="573" y="948" type="line"/>
+      <point x="573" y="1493" type="line"/>
+      <point x="188" y="1493" type="line"/>
       <point x="188" y="495" type="line"/>
+      <point x="-22" y="430" type="line"/>
+      <point x="43" y="201" type="line"/>
+      <point x="188" y="246" type="line"/>
     </contour>
   </outline>
 </glyph>

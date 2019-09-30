@@ -3,8 +3,8 @@
   <advance width="1140"/>
   <unicode hex="025B"/>
   <anchor x="486" y="0" name="cedilla"/>
-  <anchor x="295" y="1520" name="half"/>
   <anchor x="486" y="0" name="below"/>
+  <anchor x="295" y="1520" name="half"/>
   <anchor x="709" y="1147" name="above"/>
   <outline>
     <component base="epsilon"/>

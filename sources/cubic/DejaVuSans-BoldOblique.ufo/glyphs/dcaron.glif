@@ -9,4 +9,10 @@
     <component base="d"/>
     <component base="dlLtcaron" xOffset="2083" yOffset="-84"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

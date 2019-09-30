@@ -4,6 +4,12 @@
   <unicode hex="2811"/>
   <outline>
     <component base="brailledot" xOffset="300" yOffset="1200"/>
-    <component base="brailledot" xOffset="900" yOffset="666.667"/>
+    <component base="brailledot" xOffset="900" yOffset="667"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

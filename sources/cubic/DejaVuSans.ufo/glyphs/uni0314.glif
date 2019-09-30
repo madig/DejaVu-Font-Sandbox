@@ -4,15 +4,23 @@
   <anchor x="-512" y="1138" name="_above"/>
   <outline>
     <contour>
-      <point x="-624" y="1475" type="qcurve" smooth="yes"/>
-      <point x="-624" y="1729" type="line"/>
-      <point x="-383" y="1729" type="line"/>
+      <point x="-383" y="1218" type="curve"/>
+      <point x="-383" y="1341" type="line"/>
+      <point x="-457" y="1339"/>
+      <point x="-495" y="1384"/>
+      <point x="-495" y="1475" type="curve"/>
       <point x="-383" y="1475" type="line"/>
-      <point x="-494.5" y="1475" type="line" smooth="yes"/>
-      <point x="-494.5" y="1338"/>
-      <point x="-382.5" y="1341" type="qcurve" smooth="yes"/>
-      <point x="-382.5" y="1218" type="line"/>
-      <point x="-624" y="1218"/>
+      <point x="-383" y="1729" type="line"/>
+      <point x="-624" y="1729" type="line"/>
+      <point x="-624" y="1475" type="line" smooth="yes"/>
+      <point x="-624" y="1304"/>
+      <point x="-544" y="1218"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

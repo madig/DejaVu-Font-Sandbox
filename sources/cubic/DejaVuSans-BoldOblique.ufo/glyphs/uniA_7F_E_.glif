@@ -2,15 +2,21 @@
 <glyph name="uniA7FE" format="2">
   <advance width="762"/>
   <unicode hex="A7FE"/>
-  <anchor x="111" y="1520" name="half"/>
   <anchor x="194" y="6" name="below"/>
+  <anchor x="111" y="1520" name="half"/>
   <anchor x="568" y="1928" name="above"/>
   <outline>
     <contour>
-      <point x="373" y="1901" type="line"/>
-      <point x="758" y="1901" type="line"/>
-      <point x="388" y="0" type="line"/>
       <point x="3" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="758" y="1901" type="line"/>
+      <point x="373" y="1901" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

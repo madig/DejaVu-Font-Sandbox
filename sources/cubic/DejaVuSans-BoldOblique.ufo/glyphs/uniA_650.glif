@@ -7,4 +7,10 @@
     <component base="uni0406" xOffset="1766"/>
     <component base="uni042A"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

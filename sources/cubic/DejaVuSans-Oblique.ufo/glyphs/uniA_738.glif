@@ -2,27 +2,33 @@
 <glyph name="uniA738" format="2">
   <advance width="1989"/>
   <unicode hex="A738"/>
-  <anchor x="150" y="1520" name="half"/>
   <anchor x="875" y="0" name="below"/>
+  <anchor x="150" y="1520" name="half"/>
   <anchor x="1170" y="1520" name="above"/>
   <outline>
     <contour>
-      <point x="806" y="1294" type="line"/>
-      <point x="388" y="551" type="line"/>
-      <point x="937" y="551" type="line"/>
+      <point x="-129" y="0" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="294" y="383" type="line"/>
+      <point x="967" y="383" type="line"/>
+      <point x="1029" y="0" type="line"/>
+      <point x="1258" y="0" type="line"/>
+      <point x="2117" y="1493" type="line"/>
+      <point x="1907" y="1493" type="line"/>
+      <point x="1193" y="244" type="line"/>
+      <point x="960" y="1493" type="line"/>
+      <point x="731" y="1493" type="line"/>
     </contour>
     <contour>
-      <point x="1029" y="0" type="line"/>
-      <point x="967" y="383" type="line"/>
-      <point x="294" y="383" type="line"/>
-      <point x="84" y="0" type="line"/>
-      <point x="-129" y="0" type="line"/>
-      <point x="731" y="1493" type="line"/>
-      <point x="960" y="1493" type="line"/>
-      <point x="1193" y="244" type="line"/>
-      <point x="1907" y="1493" type="line"/>
-      <point x="2117" y="1493" type="line"/>
-      <point x="1258" y="0" type="line"/>
+      <point x="388" y="551" type="line"/>
+      <point x="806" y="1294" type="line"/>
+      <point x="937" y="551" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

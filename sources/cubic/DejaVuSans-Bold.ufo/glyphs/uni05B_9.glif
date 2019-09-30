@@ -5,13 +5,10 @@
   <anchor x="50" y="1120" name="_rtl-above"/>
   <outline>
     <contour>
-      <point x="-50" y="1480" type="line"/>
-      <point x="150" y="1480" type="line"/>
-      <point x="150" y="1280" type="line"/>
       <point x="-50" y="1280" type="line"/>
-    </contour>
-    <contour>
-      <point x="50" y="1120" type="move"/>
+      <point x="150" y="1280" type="line"/>
+      <point x="150" y="1480" type="line"/>
+      <point x="-50" y="1480" type="line"/>
     </contour>
   </outline>
 </glyph>

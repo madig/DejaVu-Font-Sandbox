@@ -6,29 +6,35 @@
   <anchor x="893" y="1527" name="above"/>
   <outline>
     <contour>
-      <point x="125" y="1493" type="line"/>
-      <point x="546" y="1493" type="line"/>
-      <point x="630" y="1306" type="line"/>
-      <point x="1070" y="1306" type="line"/>
-      <point x="1226" y="1493" type="line"/>
-      <point x="1648" y="1493" type="line"/>
-      <point x="1489" y="1306" type="line"/>
-      <point x="1601" y="1306" type="line"/>
-      <point x="1563" y="1112" type="line"/>
-      <point x="1323" y="1112" type="line"/>
-      <point x="911" y="629" type="line"/>
-      <point x="789" y="0" type="line"/>
       <point x="404" y="0" type="line"/>
-      <point x="526" y="629" type="line"/>
-      <point x="302" y="1112" type="line"/>
-      <point x="61" y="1112" type="line"/>
-      <point x="99" y="1306" type="line"/>
+      <point x="789" y="0" type="line"/>
+      <point x="911" y="629" type="line"/>
+      <point x="1323" y="1112" type="line"/>
+      <point x="1563" y="1112" type="line"/>
+      <point x="1601" y="1306" type="line"/>
+      <point x="1489" y="1306" type="line"/>
+      <point x="1648" y="1493" type="line"/>
+      <point x="1226" y="1493" type="line"/>
+      <point x="1070" y="1306" type="line"/>
+      <point x="630" y="1306" type="line"/>
+      <point x="546" y="1493" type="line"/>
+      <point x="125" y="1493" type="line"/>
       <point x="212" y="1306" type="line"/>
+      <point x="99" y="1306" type="line"/>
+      <point x="61" y="1112" type="line"/>
+      <point x="302" y="1112" type="line"/>
+      <point x="526" y="629" type="line"/>
     </contour>
     <contour>
-      <point x="909" y="1112" type="line"/>
-      <point x="715" y="1112" type="line"/>
       <point x="783" y="961" type="line"/>
+      <point x="715" y="1112" type="line"/>
+      <point x="909" y="1112" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

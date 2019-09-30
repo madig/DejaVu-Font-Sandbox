@@ -1,14 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0326" format="2">
   <unicode hex="0326"/>
-  <anchor x="-447.66" y="-1" name="_below"/>
-  <anchor x="-447.66" y="-1" name="_Ligature below"/>
+  <anchor x="-448" y="-1" name="_below"/>
+  <anchor x="-448" y="-1" name="_Ligature below"/>
+  <anchor x="-448" y="-1" name="_below-mark"/>
   <outline>
     <contour>
-      <point x="-548.899" y="-172" type="line"/>
-      <point x="-337.899" y="-172" type="line"/>
-      <point x="-564.101" y="-492" type="line"/>
-      <point x="-693.101" y="-492" type="line"/>
+      <point x="-693" y="-492" type="line"/>
+      <point x="-564" y="-492" type="line"/>
+      <point x="-338" y="-172" type="line"/>
+      <point x="-549" y="-172" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

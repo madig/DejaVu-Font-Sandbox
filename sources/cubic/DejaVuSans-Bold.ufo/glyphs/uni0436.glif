@@ -6,25 +6,25 @@
   <outline>
     <contour>
       <point x="30" y="0" type="line"/>
-      <point x="537" y="665" type="line"/>
-      <point x="69" y="1120" type="line"/>
-      <point x="461" y="1120" type="line"/>
-      <point x="840" y="751" type="line"/>
-      <point x="840" y="1120" type="line"/>
-      <point x="1198" y="1120" type="line"/>
-      <point x="1198" y="751" type="line"/>
-      <point x="1577" y="1120" type="line"/>
-      <point x="1969" y="1120" type="line"/>
-      <point x="1501" y="665" type="line"/>
-      <point x="2008" y="0" type="line"/>
-      <point x="1638" y="0" type="line"/>
-      <point x="1288" y="458" type="line"/>
-      <point x="1198" y="371" type="line"/>
-      <point x="1198" y="0" type="line"/>
-      <point x="840" y="0" type="line"/>
-      <point x="840" y="371" type="line"/>
-      <point x="750" y="458" type="line"/>
       <point x="400" y="0" type="line"/>
+      <point x="750" y="458" type="line"/>
+      <point x="840" y="371" type="line"/>
+      <point x="840" y="0" type="line"/>
+      <point x="1198" y="0" type="line"/>
+      <point x="1198" y="371" type="line"/>
+      <point x="1288" y="458" type="line"/>
+      <point x="1638" y="0" type="line"/>
+      <point x="2008" y="0" type="line"/>
+      <point x="1501" y="665" type="line"/>
+      <point x="1969" y="1120" type="line"/>
+      <point x="1577" y="1120" type="line"/>
+      <point x="1198" y="751" type="line"/>
+      <point x="1198" y="1120" type="line"/>
+      <point x="840" y="1120" type="line"/>
+      <point x="840" y="751" type="line"/>
+      <point x="461" y="1120" type="line"/>
+      <point x="69" y="1120" type="line"/>
+      <point x="537" y="665" type="line"/>
     </contour>
   </outline>
 </glyph>

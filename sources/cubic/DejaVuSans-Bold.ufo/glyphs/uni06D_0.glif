@@ -6,6 +6,6 @@
   <anchor x="550" y="850" name="rtl-above"/>
   <outline>
     <component base="arabic_2dots_a" xOffset="780" yOffset="-500"/>
-    <component base="uni0649" yOffset="3.05176e-05"/>
+    <component base="uni0649"/>
   </outline>
 </glyph>

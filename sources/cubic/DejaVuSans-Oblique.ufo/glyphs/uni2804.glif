@@ -3,6 +3,12 @@
   <advance width="1500"/>
   <unicode hex="2804"/>
   <outline>
-    <component base="brailledot" xOffset="300" yOffset="166.667"/>
+    <component base="brailledot" xOffset="300" yOffset="167"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:22 +0000</string>
+    </dict>
+  </lib>
 </glyph>

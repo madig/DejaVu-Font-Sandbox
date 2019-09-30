@@ -2,18 +2,24 @@
 <glyph name="V" format="2">
   <advance width="1585"/>
   <unicode hex="0056"/>
-  <anchor x="295" y="1520" name="half"/>
   <anchor x="648" y="0" name="below"/>
+  <anchor x="295" y="1520" name="half"/>
   <anchor x="943" y="1520" name="above"/>
   <outline>
     <contour>
-      <point x="156" y="1493" type="line"/>
-      <point x="522" y="1493" type="line"/>
-      <point x="705" y="377" type="line"/>
-      <point x="1323" y="1493" type="line"/>
-      <point x="1720" y="1493" type="line"/>
-      <point x="877" y="0" type="line"/>
       <point x="418" y="0" type="line"/>
+      <point x="877" y="0" type="line"/>
+      <point x="1720" y="1493" type="line"/>
+      <point x="1323" y="1493" type="line"/>
+      <point x="705" y="377" type="line"/>
+      <point x="522" y="1493" type="line"/>
+      <point x="156" y="1493" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

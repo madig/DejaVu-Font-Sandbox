@@ -1,17 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni05C7" format="2">
   <unicode hex="05C7"/>
-  <anchor x="754.623" y="0" name="_rtl-below"/>
+  <anchor x="755" y="0" name="_rtl-below"/>
   <outline>
     <contour>
-      <point x="811.859" y="-220" type="line"/>
-      <point x="763.265" y="-470" type="line"/>
-      <point x="563.265" y="-470" type="line"/>
-      <point x="611.859" y="-220" type="line"/>
-      <point x="386.859" y="-220" type="line"/>
-      <point x="425.735" y="-20" type="line"/>
-      <point x="1075.74" y="-20" type="line"/>
-      <point x="1036.86" y="-220" type="line"/>
+      <point x="563" y="-470" type="line"/>
+      <point x="763" y="-470" type="line"/>
+      <point x="812" y="-220" type="line"/>
+      <point x="1037" y="-220" type="line"/>
+      <point x="1076" y="-20" type="line"/>
+      <point x="426" y="-20" type="line"/>
+      <point x="387" y="-220" type="line"/>
+      <point x="612" y="-220" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

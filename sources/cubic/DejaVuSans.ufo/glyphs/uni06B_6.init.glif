@@ -7,4 +7,10 @@
     <component base="uniFEDF"/>
     <component base="arabic_dot" xOffset="257" yOffset="1800"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

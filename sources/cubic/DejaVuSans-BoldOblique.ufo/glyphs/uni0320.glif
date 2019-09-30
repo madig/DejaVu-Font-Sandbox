@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0320" format="2">
   <unicode hex="0320"/>
-  <anchor x="-242.479" y="-3" name="_below"/>
+  <anchor x="-242" y="-3" name="_below"/>
   <outline>
     <contour>
-      <point x="-606.369" y="-414" type="line"/>
-      <point x="-569.631" y="-225" type="line"/>
-      <point x="-14.6309" y="-225" type="line"/>
-      <point x="-51.3691" y="-414" type="line"/>
+      <point x="-606" y="-414" type="line"/>
+      <point x="-51" y="-414" type="line"/>
+      <point x="-15" y="-225" type="line"/>
+      <point x="-570" y="-225" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

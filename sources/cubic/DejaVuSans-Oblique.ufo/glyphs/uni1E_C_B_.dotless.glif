@@ -4,6 +4,12 @@
   <anchor x="360" y="1147" name="above"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="dotbelowcomb" xOffset="674.6"/>
+    <component base="dotbelowcomb" xOffset="675"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:22 +0000</string>
+    </dict>
+  </lib>
 </glyph>

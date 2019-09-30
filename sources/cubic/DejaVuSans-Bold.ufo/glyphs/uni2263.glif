@@ -4,28 +4,28 @@
   <unicode hex="2263"/>
   <outline>
     <contour>
-      <point x="217" y="986" type="line"/>
-      <point x="1499" y="986" type="line"/>
-      <point x="1499" y="747" type="line"/>
       <point x="217" y="747" type="line"/>
+      <point x="1499" y="747" type="line"/>
+      <point x="1499" y="986" type="line"/>
+      <point x="217" y="986" type="line"/>
     </contour>
     <contour>
-      <point x="217" y="1433" type="line"/>
-      <point x="1499" y="1433" type="line"/>
-      <point x="1499" y="1198" type="line"/>
-      <point x="217" y="1198" type="line"/>
-    </contour>
-    <contour>
-      <point x="217" y="88" type="line"/>
-      <point x="1499" y="88" type="line"/>
-      <point x="1499" y="-151" type="line"/>
       <point x="217" y="-151" type="line"/>
+      <point x="1499" y="-151" type="line"/>
+      <point x="1499" y="88" type="line"/>
+      <point x="217" y="88" type="line"/>
     </contour>
     <contour>
-      <point x="217" y="535" type="line"/>
-      <point x="1499" y="535" type="line"/>
-      <point x="1499" y="300" type="line"/>
       <point x="217" y="300" type="line"/>
+      <point x="1499" y="300" type="line"/>
+      <point x="1499" y="535" type="line"/>
+      <point x="217" y="535" type="line"/>
+    </contour>
+    <contour>
+      <point x="217" y="1198" type="line"/>
+      <point x="1499" y="1198" type="line"/>
+      <point x="1499" y="1433" type="line"/>
+      <point x="217" y="1433" type="line"/>
     </contour>
   </outline>
 </glyph>

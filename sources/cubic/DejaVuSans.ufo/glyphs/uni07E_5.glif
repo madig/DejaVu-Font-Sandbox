@@ -2,24 +2,30 @@
 <glyph name="uni07E5" format="2">
   <advance width="1070"/>
   <unicode hex="07E5"/>
-  <anchor x="539.5" y="1520" name="rtl-above"/>
-  <anchor x="539.5" y="0" name="rtl-below"/>
+  <anchor x="540" y="1520" name="rtl-above"/>
+  <anchor x="540" y="0" name="rtl-below"/>
   <outline>
     <contour>
-      <point x="378" y="734" type="line"/>
-      <point x="378" y="147" type="line"/>
-      <point x="693" y="147" type="line"/>
-      <point x="693" y="734" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="877" y="0" type="line"/>
+      <point x="877" y="1493" type="line"/>
+      <point x="193" y="1493" type="line"/>
+      <point x="193" y="1346" type="line"/>
+      <point x="693" y="1346" type="line"/>
+      <point x="693" y="881" type="line"/>
+      <point x="193" y="881" type="line"/>
     </contour>
     <contour>
-      <point x="193" y="881" type="line"/>
-      <point x="693" y="881" type="line"/>
-      <point x="693" y="1346" type="line"/>
-      <point x="193" y="1346" type="line"/>
-      <point x="193" y="1493" type="line"/>
-      <point x="877" y="1493" type="line"/>
-      <point x="877" y="0" type="line"/>
-      <point x="193" y="0" type="line"/>
+      <point x="378" y="147" type="line"/>
+      <point x="378" y="734" type="line"/>
+      <point x="693" y="734" type="line"/>
+      <point x="693" y="147" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

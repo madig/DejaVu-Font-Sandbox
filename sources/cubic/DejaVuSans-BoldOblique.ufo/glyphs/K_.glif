@@ -2,22 +2,28 @@
 <glyph name="K" format="2">
   <advance width="1587"/>
   <unicode hex="004B"/>
-  <anchor x="295" y="1520" name="half"/>
   <anchor x="1031" y="1520" name="above"/>
+  <anchor x="295" y="1520" name="half"/>
   <anchor x="736" y="0" name="below"/>
   <outline>
     <contour>
-      <point x="334" y="1493" type="line"/>
-      <point x="719" y="1493" type="line"/>
-      <point x="614" y="956" type="line"/>
-      <point x="1249" y="1493" type="line"/>
-      <point x="1714" y="1493" type="line"/>
-      <point x="858" y="768" type="line"/>
-      <point x="1503" y="0" type="line"/>
-      <point x="1051" y="0" type="line"/>
-      <point x="549" y="623" type="line"/>
-      <point x="428" y="0" type="line"/>
       <point x="43" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="549" y="623" type="line"/>
+      <point x="1051" y="0" type="line"/>
+      <point x="1503" y="0" type="line"/>
+      <point x="858" y="768" type="line"/>
+      <point x="1714" y="1493" type="line"/>
+      <point x="1249" y="1493" type="line"/>
+      <point x="614" y="956" type="line"/>
+      <point x="719" y="1493" type="line"/>
+      <point x="334" y="1493" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

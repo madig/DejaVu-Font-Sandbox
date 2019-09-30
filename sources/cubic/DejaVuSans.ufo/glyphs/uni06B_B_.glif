@@ -8,4 +8,10 @@
     <component base="uni06BA"/>
     <component base="uni0615" xOffset="200" yOffset="-475"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

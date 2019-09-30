@@ -4,6 +4,12 @@
   <unicode hex="149D"/>
   <outline>
     <component base="uni1490"/>
-    <component base="uni1427" xOffset="1147.5"/>
+    <component base="uni1427" xOffset="1148"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

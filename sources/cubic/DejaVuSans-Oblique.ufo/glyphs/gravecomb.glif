@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb" format="2">
   <unicode hex="0300"/>
-  <anchor x="-302" y="1147" name="_above-legacy"/>
   <anchor x="-302" y="1147" name="_above-mark"/>
   <anchor x="-194" y="1640" name="above-mark"/>
   <anchor x="-302" y="1147" name="_above"/>
+  <anchor x="-302" y="1147" name="_above-legacy"/>
   <outline>
     <component base="grave" xOffset="-920"/>
   </outline>

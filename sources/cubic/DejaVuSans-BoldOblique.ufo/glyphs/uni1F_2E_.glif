@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni1F2E" format="2">
-  <advance width="2158"/>
+  <advance width="1714"/>
   <unicode hex="1F2E"/>
   <outline>
     <component base="Eta" xOffset="444"/>
-    <component base="uni1FCF" xOffset="-156"/>
+    <component base="uni1FCF" xOffset="294"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -5,16 +5,22 @@
   <anchor x="945" y="1520" name="above"/>
   <outline>
     <contour>
-      <point x="1476" y="1493" type="line"/>
-      <point x="1186" y="0" type="line"/>
-      <point x="990" y="0" type="line"/>
-      <point x="1233" y="1249" type="line"/>
-      <point x="328" y="0" type="line"/>
       <point x="56" y="0" type="line"/>
-      <point x="346" y="1493" type="line"/>
-      <point x="542" y="1493" type="line"/>
-      <point x="299" y="244" type="line"/>
+      <point x="328" y="0" type="line"/>
+      <point x="1233" y="1249" type="line"/>
+      <point x="990" y="0" type="line"/>
+      <point x="1186" y="0" type="line"/>
+      <point x="1476" y="1493" type="line"/>
       <point x="1204" y="1493" type="line"/>
+      <point x="299" y="244" type="line"/>
+      <point x="542" y="1493" type="line"/>
+      <point x="346" y="1493" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

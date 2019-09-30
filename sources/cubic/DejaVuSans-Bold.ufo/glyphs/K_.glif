@@ -2,22 +2,22 @@
 <glyph name="K" format="2">
   <advance width="1587"/>
   <unicode hex="004B"/>
-  <anchor x="0" y="1520" name="half"/>
   <anchor x="881" y="0" name="below"/>
+  <anchor x="0" y="1520" name="half"/>
   <anchor x="881" y="1520" name="above"/>
   <outline>
     <contour>
-      <point x="188" y="1493" type="line"/>
-      <point x="573" y="1493" type="line"/>
-      <point x="573" y="948" type="line"/>
-      <point x="1128" y="1493" type="line"/>
-      <point x="1575" y="1493" type="line"/>
-      <point x="856" y="786" type="line"/>
-      <point x="1649" y="0" type="line"/>
-      <point x="1167" y="0" type="line"/>
-      <point x="573" y="588" type="line"/>
-      <point x="573" y="0" type="line"/>
       <point x="188" y="0" type="line"/>
+      <point x="573" y="0" type="line"/>
+      <point x="573" y="588" type="line"/>
+      <point x="1167" y="0" type="line"/>
+      <point x="1649" y="0" type="line"/>
+      <point x="856" y="786" type="line"/>
+      <point x="1575" y="1493" type="line"/>
+      <point x="1128" y="1493" type="line"/>
+      <point x="573" y="948" type="line"/>
+      <point x="573" y="1493" type="line"/>
+      <point x="188" y="1493" type="line"/>
     </contour>
   </outline>
 </glyph>

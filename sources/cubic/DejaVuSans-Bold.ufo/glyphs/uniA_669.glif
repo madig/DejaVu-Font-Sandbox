@@ -5,6 +5,6 @@
   <anchor x="705" y="1147" name="above"/>
   <outline>
     <component base="o"/>
-    <component base="periodcentered" xOffset="314.5" yOffset="-150"/>
+    <component base="periodcentered" xOffset="315" yOffset="-150"/>
   </outline>
 </glyph>

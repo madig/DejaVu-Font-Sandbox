@@ -5,7 +5,7 @@
   <anchor x="1590" y="1520" name="above"/>
   <outline>
     <component base="uniA74E"/>
-    <component base="periodcentered" xOffset="481.5" yOffset="30"/>
-    <component base="periodcentered" xOffset="1620.5" yOffset="30"/>
+    <component base="periodcentered" xOffset="482" yOffset="30"/>
+    <component base="periodcentered" xOffset="1621" yOffset="30"/>
   </outline>
 </glyph>

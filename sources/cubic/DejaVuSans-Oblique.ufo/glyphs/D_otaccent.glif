@@ -1,14 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Dotaccent" format="2">
-  <anchor x="-380" y="1147" name="_above-mark"/>
-  <anchor x="-320" y="1499" name="above-mark"/>
   <anchor x="-380" y="1147" name="_above"/>
+  <anchor x="-320" y="1499" name="above-mark"/>
+  <anchor x="-380" y="1147" name="_above-mark"/>
   <outline>
     <contour>
-      <point x="-422" y="1499" type="line"/>
-      <point x="-219" y="1499" type="line"/>
-      <point x="-258" y="1294" type="line"/>
       <point x="-463" y="1294" type="line"/>
+      <point x="-258" y="1294" type="line"/>
+      <point x="-219" y="1499" type="line"/>
+      <point x="-422" y="1499" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

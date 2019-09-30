@@ -2,28 +2,32 @@
 <glyph name="uni05E6" format="2">
   <advance width="1337"/>
   <unicode hex="05E6"/>
-  <anchor x="273" y="478" name="rtl-inside"/>
   <anchor x="628" y="0" name="rtl-below"/>
+  <anchor x="273" y="478" name="rtl-inside"/>
   <outline>
     <contour>
-      <point x="670" y="237" type="line"/>
-      <point x="67" y="1120" type="line"/>
-      <point x="439" y="1120" type="line"/>
-      <point x="751" y="658" type="line"/>
-      <point x="826" y="683"/>
-      <point x="826" y="824" type="qcurve" smooth="yes"/>
-      <point x="826" y="1120" type="line"/>
-      <point x="1155" y="1120" type="line"/>
-      <point x="1155" y="899" type="line" smooth="yes"/>
-      <point x="1155" y="743.557"/>
-      <point x="1094" y="641.5" type="qcurve" smooth="yes"/>
-      <point x="1039.69" y="550.631"/>
-      <point x="979.5" y="521" type="qcurve" smooth="yes"/>
-      <point x="910.438" y="486"/>
-      <point x="883" y="487" type="qcurve"/>
-      <point x="1123" y="128" type="line"/>
-      <point x="1123" y="0" type="line"/>
       <point x="110" y="0" type="line"/>
+      <point x="1123" y="0" type="line"/>
+      <point x="1123" y="128" type="line"/>
+      <point x="883" y="487" type="line"/>
+      <point x="901" y="486"/>
+      <point x="933" y="498"/>
+      <point x="980" y="521" type="curve" smooth="yes"/>
+      <point x="1020" y="541"/>
+      <point x="1058" y="581"/>
+      <point x="1094" y="642" type="curve" smooth="yes"/>
+      <point x="1135" y="710"/>
+      <point x="1155" y="795"/>
+      <point x="1155" y="899" type="curve" smooth="yes"/>
+      <point x="1155" y="1120" type="line"/>
+      <point x="826" y="1120" type="line"/>
+      <point x="826" y="824" type="line" smooth="yes"/>
+      <point x="826" y="730"/>
+      <point x="801" y="675"/>
+      <point x="751" y="658" type="curve"/>
+      <point x="439" y="1120" type="line"/>
+      <point x="67" y="1120" type="line"/>
+      <point x="670" y="237" type="line"/>
       <point x="110" y="237" type="line"/>
     </contour>
   </outline>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0361" format="2">
   <unicode hex="0361"/>
-  <anchor x="368.934" y="1898" name="above-mark"/>
+  <anchor x="369" y="1898" name="above-mark"/>
   <outline>
     <component base="uni2040" xOffset="-505"/>
   </outline>

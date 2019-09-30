@@ -2,7 +2,13 @@
 <glyph name="uni0308030C" format="2">
   <advance width="1400"/>
   <outline>
-    <component base="Caron" xOffset="1100.82" yOffset="639.091"/>
+    <component base="Caron" xOffset="1101" yOffset="639"/>
     <component base="Dieresis" xOffset="1059" yOffset="344"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

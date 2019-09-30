@@ -8,4 +8,10 @@
     <component base="uni06A1.fina"/>
     <component base="arabic_3dots" xOffset="1400" yOffset="950"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

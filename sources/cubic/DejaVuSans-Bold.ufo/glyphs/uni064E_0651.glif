@@ -1,9 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni064E0651" format="2">
   <anchor x="512" y="1200" name="_rtl-above-mark"/>
-  <anchor x="512" y="1200" name="_rtl-above"/>
   <anchor x="512" y="1200" name="_Ligature rtl-above"/>
+  <anchor x="512" y="1200" name="_rtl-above"/>
   <anchor x="512" y="2100" name="rtl-above-mark"/>
+  <anchor x="512" y="1200" name="_top"/>
   <outline>
     <component base="uni064E"/>
     <component base="uni0651" yOffset="300"/>

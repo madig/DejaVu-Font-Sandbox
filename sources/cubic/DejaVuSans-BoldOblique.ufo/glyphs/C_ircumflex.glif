@@ -1,17 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Circumflex" format="2">
-  <anchor x="-411" y="1147" name="_above"/>
-  <anchor x="-357.771" y="1526" name="above-mark"/>
+  <anchor x="-358" y="1526" name="above-mark"/>
   <anchor x="-411" y="1147" name="_above-mark"/>
+  <anchor x="-411" y="1147" name="_above"/>
   <outline>
     <contour>
-      <point x="-549" y="1526" type="line"/>
-      <point x="-201" y="1526" type="line"/>
-      <point x="-49" y="1262" type="line"/>
-      <point x="-219" y="1262" type="line"/>
-      <point x="-383" y="1423" type="line"/>
-      <point x="-614" y="1262" type="line"/>
       <point x="-793" y="1262" type="line"/>
+      <point x="-614" y="1262" type="line"/>
+      <point x="-383" y="1423" type="line"/>
+      <point x="-219" y="1262" type="line"/>
+      <point x="-49" y="1262" type="line"/>
+      <point x="-201" y="1526" type="line"/>
+      <point x="-549" y="1526" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

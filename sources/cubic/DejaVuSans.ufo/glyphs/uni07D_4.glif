@@ -6,16 +6,22 @@
   <anchor x="619" y="0" name="rtl-below"/>
   <outline>
     <contour>
-      <point x="520" y="735" type="line"/>
-      <point x="61" y="735" type="line"/>
-      <point x="61" y="881" type="line"/>
-      <point x="520" y="881" type="line"/>
-      <point x="520" y="1346" type="line"/>
-      <point x="61" y="1346" type="line"/>
-      <point x="61" y="1493" type="line"/>
-      <point x="704" y="1493" type="line"/>
-      <point x="704" y="0" type="line"/>
       <point x="520" y="0" type="line"/>
+      <point x="704" y="0" type="line"/>
+      <point x="704" y="1493" type="line"/>
+      <point x="61" y="1493" type="line"/>
+      <point x="61" y="1346" type="line"/>
+      <point x="520" y="1346" type="line"/>
+      <point x="520" y="881" type="line"/>
+      <point x="61" y="881" type="line"/>
+      <point x="61" y="735" type="line"/>
+      <point x="520" y="735" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

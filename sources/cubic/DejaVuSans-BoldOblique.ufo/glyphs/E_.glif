@@ -9,18 +9,24 @@
   <anchor x="896" y="1520" name="above"/>
   <outline>
     <contour>
-      <point x="334" y="1493" type="line"/>
-      <point x="1372" y="1493" type="line"/>
-      <point x="1315" y="1202" type="line"/>
-      <point x="662" y="1202" type="line"/>
-      <point x="608" y="924" type="line"/>
-      <point x="1223" y="924" type="line"/>
-      <point x="1165" y="633" type="line"/>
-      <point x="551" y="633" type="line"/>
-      <point x="485" y="291" type="line"/>
-      <point x="1159" y="291" type="line"/>
-      <point x="1104" y="0" type="line"/>
       <point x="43" y="0" type="line"/>
+      <point x="1104" y="0" type="line"/>
+      <point x="1159" y="291" type="line"/>
+      <point x="485" y="291" type="line"/>
+      <point x="551" y="633" type="line"/>
+      <point x="1165" y="633" type="line"/>
+      <point x="1223" y="924" type="line"/>
+      <point x="608" y="924" type="line"/>
+      <point x="662" y="1202" type="line"/>
+      <point x="1315" y="1202" type="line"/>
+      <point x="1372" y="1493" type="line"/>
+      <point x="334" y="1493" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

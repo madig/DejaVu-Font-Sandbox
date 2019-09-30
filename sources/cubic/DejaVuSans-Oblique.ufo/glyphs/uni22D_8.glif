@@ -4,31 +4,37 @@
   <unicode hex="22D8"/>
   <outline>
     <contour>
-      <point x="2764.5" y="1041" type="line"/>
-      <point x="1938.5" y="641" type="line"/>
-      <point x="2764.5" y="243" type="line"/>
-      <point x="2764.5" y="46" type="line"/>
-      <point x="1686.5" y="566" type="line"/>
-      <point x="1686.5" y="725" type="line"/>
-      <point x="2764.5" y="1247" type="line"/>
+      <point x="2765" y="46" type="line"/>
+      <point x="2765" y="243" type="line"/>
+      <point x="1939" y="641" type="line"/>
+      <point x="2765" y="1041" type="line"/>
+      <point x="2765" y="1247" type="line"/>
+      <point x="1687" y="725" type="line"/>
+      <point x="1687" y="566" type="line"/>
     </contour>
     <contour>
-      <point x="1995.5" y="1041" type="line"/>
-      <point x="1169.5" y="641" type="line"/>
-      <point x="1995.5" y="243" type="line"/>
-      <point x="1995.5" y="46" type="line"/>
-      <point x="917.5" y="566" type="line"/>
-      <point x="917.5" y="725" type="line"/>
-      <point x="1995.5" y="1247" type="line"/>
+      <point x="1227" y="46" type="line"/>
+      <point x="1227" y="243" type="line"/>
+      <point x="401" y="641" type="line"/>
+      <point x="1227" y="1041" type="line"/>
+      <point x="1227" y="1247" type="line"/>
+      <point x="149" y="725" type="line"/>
+      <point x="149" y="566" type="line"/>
     </contour>
     <contour>
-      <point x="1226.5" y="1041" type="line"/>
-      <point x="400.5" y="641" type="line"/>
-      <point x="1226.5" y="243" type="line"/>
-      <point x="1226.5" y="46" type="line"/>
-      <point x="148.5" y="566" type="line"/>
-      <point x="148.5" y="725" type="line"/>
-      <point x="1226.5" y="1247" type="line"/>
+      <point x="1996" y="46" type="line"/>
+      <point x="1996" y="243" type="line"/>
+      <point x="1170" y="641" type="line"/>
+      <point x="1996" y="1041" type="line"/>
+      <point x="1996" y="1247" type="line"/>
+      <point x="918" y="725" type="line"/>
+      <point x="918" y="566" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

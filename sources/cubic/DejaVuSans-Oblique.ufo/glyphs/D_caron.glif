@@ -2,8 +2,8 @@
 <glyph name="Dcaron" format="2">
   <advance width="1577"/>
   <unicode hex="010E"/>
-  <anchor x="943" y="1905" name="above-legacy"/>
   <anchor x="603" y="0" name="below"/>
+  <anchor x="943" y="1905" name="above-legacy"/>
   <anchor x="295" y="1520" name="half"/>
   <outline>
     <component base="D"/>

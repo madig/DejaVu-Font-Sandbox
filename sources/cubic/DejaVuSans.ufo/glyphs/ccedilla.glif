@@ -2,8 +2,8 @@
 <glyph name="ccedilla" format="2">
   <advance width="1126"/>
   <unicode hex="00E7"/>
-  <anchor x="678" y="-430" name="Ligature below"/>
   <anchor x="678" y="1147" name="above"/>
+  <anchor x="678" y="-430" name="Ligature below"/>
   <outline>
     <component base="c"/>
     <component base="cedilla" xOffset="143"/>

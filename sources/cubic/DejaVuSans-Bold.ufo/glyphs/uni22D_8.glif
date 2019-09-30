@@ -4,31 +4,31 @@
   <unicode hex="22D8"/>
   <outline>
     <contour>
-      <point x="2764.5" y="1102" type="line"/>
-      <point x="1939.5" y="641" type="line"/>
-      <point x="2764.5" y="180" type="line"/>
-      <point x="2764.5" y="-70" type="line"/>
-      <point x="1686.5" y="523" type="line"/>
-      <point x="1686.5" y="759" type="line"/>
-      <point x="2764.5" y="1352" type="line"/>
+      <point x="2765" y="-70" type="line"/>
+      <point x="2765" y="180" type="line"/>
+      <point x="1940" y="641" type="line"/>
+      <point x="2765" y="1102" type="line"/>
+      <point x="2765" y="1352" type="line"/>
+      <point x="1687" y="759" type="line"/>
+      <point x="1687" y="523" type="line"/>
     </contour>
     <contour>
-      <point x="1995.5" y="1102" type="line"/>
-      <point x="1170.5" y="641" type="line"/>
-      <point x="1995.5" y="180" type="line"/>
-      <point x="1995.5" y="-70" type="line"/>
-      <point x="917.5" y="523" type="line"/>
-      <point x="917.5" y="759" type="line"/>
-      <point x="1995.5" y="1352" type="line"/>
+      <point x="1227" y="-70" type="line"/>
+      <point x="1227" y="180" type="line"/>
+      <point x="402" y="641" type="line"/>
+      <point x="1227" y="1102" type="line"/>
+      <point x="1227" y="1352" type="line"/>
+      <point x="149" y="759" type="line"/>
+      <point x="149" y="523" type="line"/>
     </contour>
     <contour>
-      <point x="1226.5" y="1102" type="line"/>
-      <point x="401.5" y="641" type="line"/>
-      <point x="1226.5" y="180" type="line"/>
-      <point x="1226.5" y="-70" type="line"/>
-      <point x="148.5" y="523" type="line"/>
-      <point x="148.5" y="759" type="line"/>
-      <point x="1226.5" y="1352" type="line"/>
+      <point x="1996" y="-70" type="line"/>
+      <point x="1996" y="180" type="line"/>
+      <point x="1171" y="641" type="line"/>
+      <point x="1996" y="1102" type="line"/>
+      <point x="1996" y="1352" type="line"/>
+      <point x="918" y="759" type="line"/>
+      <point x="918" y="523" type="line"/>
     </contour>
   </outline>
 </glyph>

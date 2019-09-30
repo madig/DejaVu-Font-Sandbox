@@ -4,13 +4,19 @@
   <unicode hex="1438"/>
   <outline>
     <contour>
-      <point x="1264.27" y="182" type="line"/>
-      <point x="1228.9" y="0" type="line"/>
-      <point x="96.7432" y="632" type="line"/>
-      <point x="141.062" y="860" type="line"/>
-      <point x="1519.1" y="1493" type="line"/>
-      <point x="1482.76" y="1306" type="line"/>
-      <point x="272.902" y="746" type="line"/>
+      <point x="1229" y="0" type="line"/>
+      <point x="1264" y="182" type="line"/>
+      <point x="273" y="746" type="line"/>
+      <point x="1483" y="1306" type="line"/>
+      <point x="1519" y="1493" type="line"/>
+      <point x="141" y="860" type="line"/>
+      <point x="97" y="632" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -4,6 +4,12 @@
   <unicode hex="1EEC"/>
   <outline>
     <component base="Uhorn"/>
-    <component base="hookabovecomb" xOffset="1262" yOffset="373"/>
+    <component base="hookabovecomb" xOffset="1257" yOffset="393"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,36 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hookabovecomb" format="2">
   <unicode hex="0309"/>
-  <anchor x="-289" y="1147" name="_above"/>
   <anchor x="-175" y="1733" name="above-mark"/>
   <anchor x="-289" y="1147" name="_above-mark"/>
+  <anchor x="-289" y="1147" name="_above"/>
   <outline>
     <contour>
-      <point x="-400.495" y="1607.7" type="line"/>
-      <point x="-278.405" y="1658.62"/>
-      <point x="-69.5967" y="1658.62"/>
-      <point x="40.9932" y="1574.2"/>
-      <point x="27.9697" y="1507.2" type="qcurve" smooth="yes"/>
-      <point x="15.9883" y="1445.56"/>
-      <point x="-84.5137" y="1381.24" type="qcurve" smooth="yes"/>
-      <point x="-134.766" y="1349.08" type="line" smooth="yes"/>
-      <point x="-174.83" y="1323.44"/>
-      <point x="-180.596" y="1314.15" type="qcurve" smooth="yes"/>
-      <point x="-190.729" y="1297.82"/>
-      <point x="-196.914" y="1266" type="qcurve"/>
-      <point x="-315.914" y="1266" type="line"/>
-      <point x="-313.57" y="1278.06" type="line" smooth="yes"/>
-      <point x="-305.756" y="1318.26"/>
-      <point x="-264.983" y="1371.7"/>
-      <point x="-207.044" y="1409.38" type="qcurve" smooth="yes"/>
-      <point x="-155.532" y="1442.88" type="line" smooth="yes"/>
-      <point x="-102.877" y="1477.12"/>
-      <point x="-95.1738" y="1516.75" type="qcurve" smooth="yes"/>
-      <point x="-91.043" y="1538"/>
-      <point x="-146.045" y="1574"/>
-      <point x="-217.363" y="1574" type="qcurve" smooth="yes"/>
-      <point x="-307.092" y="1574"/>
-      <point x="-417.153" y="1522" type="qcurve"/>
+      <point x="-316" y="1266" type="line"/>
+      <point x="-197" y="1266" type="line"/>
+      <point x="-193" y="1287"/>
+      <point x="-187" y="1303"/>
+      <point x="-181" y="1314" type="curve" smooth="yes"/>
+      <point x="-177" y="1320"/>
+      <point x="-161" y="1332"/>
+      <point x="-135" y="1349" type="curve" smooth="yes"/>
+      <point x="-85" y="1381" type="line" smooth="yes"/>
+      <point x="-18" y="1424"/>
+      <point x="20" y="1466"/>
+      <point x="28" y="1507" type="curve" smooth="yes"/>
+      <point x="37" y="1552"/>
+      <point x="23" y="1588"/>
+      <point x="-14" y="1616" type="curve" smooth="yes"/>
+      <point x="-95" y="1678"/>
+      <point x="-255" y="1668"/>
+      <point x="-400" y="1608" type="curve"/>
+      <point x="-417" y="1522" type="line"/>
+      <point x="-344" y="1557"/>
+      <point x="-277" y="1574"/>
+      <point x="-217" y="1574" type="curve" smooth="yes"/>
+      <point x="-170" y="1574"/>
+      <point x="-137" y="1568"/>
+      <point x="-119" y="1556" type="curve" smooth="yes"/>
+      <point x="-100" y="1544"/>
+      <point x="-92" y="1531"/>
+      <point x="-95" y="1517" type="curve" smooth="yes"/>
+      <point x="-100" y="1490"/>
+      <point x="-120" y="1466"/>
+      <point x="-156" y="1443" type="curve" smooth="yes"/>
+      <point x="-207" y="1409" type="line" smooth="yes"/>
+      <point x="-284" y="1359"/>
+      <point x="-303" y="1332"/>
+      <point x="-314" y="1278" type="curve" smooth="yes"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

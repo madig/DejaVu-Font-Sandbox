@@ -1,26 +1,39 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uniFB1E" format="2">
   <unicode hex="FB1E"/>
-  <anchor x="643.146" y="1120" name="_rtl-above"/>
+  <anchor x="643" y="1120" name="_rtl-above"/>
   <outline>
     <contour>
-      <point x="402" y="1597" type="qcurve"/>
+      <point x="680" y="1300" type="curve" smooth="yes"/>
+      <point x="888" y="1300"/>
+      <point x="1029" y="1405"/>
+      <point x="1074" y="1597" type="curve"/>
+      <point x="931" y="1597" type="line"/>
+      <point x="914" y="1550"/>
+      <point x="887" y="1515"/>
+      <point x="850" y="1490" type="curve" smooth="yes"/>
+      <point x="776" y="1442"/>
+      <point x="643" y="1439"/>
+      <point x="585" y="1490" type="curve" smooth="yes"/>
+      <point x="558" y="1513"/>
+      <point x="545" y="1546"/>
+      <point x="545" y="1589" type="curve" smooth="yes"/>
       <point x="545" y="1597" type="line"/>
-      <point x="545" y="1589" type="line" smooth="yes"/>
-      <point x="545" y="1525"/>
-      <point x="585" y="1490" type="qcurve" smooth="yes"/>
-      <point x="627" y="1453"/>
-      <point x="793" y="1453"/>
-      <point x="906" y="1527"/>
-      <point x="931" y="1597" type="qcurve"/>
-      <point x="1074" y="1597" type="line"/>
-      <point x="1040" y="1453"/>
-      <point x="836" y="1300"/>
-      <point x="524" y="1300"/>
-      <point x="452" y="1376" type="qcurve" smooth="yes"/>
-      <point x="397" y="1435"/>
-      <point x="397" y="1533" type="qcurve" smooth="yes"/>
-      <point x="397" y="1563"/>
+      <point x="402" y="1597" type="line"/>
+      <point x="399" y="1574"/>
+      <point x="397" y="1553"/>
+      <point x="397" y="1533" type="curve" smooth="yes"/>
+      <point x="397" y="1468"/>
+      <point x="415" y="1415"/>
+      <point x="452" y="1376" type="curve" smooth="yes"/>
+      <point x="500" y="1325"/>
+      <point x="576" y="1300"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

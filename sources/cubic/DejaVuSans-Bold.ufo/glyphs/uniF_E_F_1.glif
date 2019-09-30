@@ -5,7 +5,7 @@
   <anchor x="850" y="-550" name="rtl-below"/>
   <anchor x="550" y="850" name="rtl-above"/>
   <outline>
-    <component base="uni0649" yOffset="3.05176e-05"/>
+    <component base="uni0649"/>
     <component base="arabic_2dots" xOffset="650" yOffset="-500"/>
   </outline>
 </glyph>

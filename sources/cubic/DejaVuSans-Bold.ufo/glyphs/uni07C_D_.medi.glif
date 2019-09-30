@@ -5,17 +5,17 @@
   <anchor x="668" y="1520" name="rtl-above"/>
   <outline>
     <contour>
-      <point x="946" y="0" type="line"/>
-      <point x="668" y="578" type="line"/>
-      <point x="389" y="0" type="line"/>
       <point x="-20" y="0" type="line"/>
-      <point x="-20" y="256" type="line"/>
-      <point x="153" y="256" type="line"/>
-      <point x="471" y="924" type="line"/>
-      <point x="864" y="924" type="line"/>
-      <point x="1183" y="256" type="line"/>
-      <point x="1355" y="256" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="668" y="578" type="line"/>
+      <point x="946" y="0" type="line"/>
       <point x="1355" y="0" type="line"/>
+      <point x="1355" y="256" type="line"/>
+      <point x="1183" y="256" type="line"/>
+      <point x="864" y="924" type="line"/>
+      <point x="471" y="924" type="line"/>
+      <point x="153" y="256" type="line"/>
+      <point x="-20" y="256" type="line"/>
     </contour>
   </outline>
 </glyph>

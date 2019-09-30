@@ -6,16 +6,16 @@
   <anchor x="356" y="2" name="rtl-below"/>
   <outline>
     <contour>
-      <point x="172" y="1493" type="line"/>
-      <point x="957" y="1493" type="line"/>
-      <point x="957" y="1237" type="line"/>
-      <point x="530" y="1237" type="line"/>
-      <point x="530" y="924" type="line"/>
-      <point x="957" y="924" type="line"/>
-      <point x="957" y="668" type="line"/>
-      <point x="530" y="668" type="line"/>
-      <point x="530" y="0" type="line"/>
       <point x="172" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="530" y="668" type="line"/>
+      <point x="957" y="668" type="line"/>
+      <point x="957" y="924" type="line"/>
+      <point x="530" y="924" type="line"/>
+      <point x="530" y="1237" type="line"/>
+      <point x="957" y="1237" type="line"/>
+      <point x="957" y="1493" type="line"/>
+      <point x="172" y="1493" type="line"/>
     </contour>
   </outline>
 </glyph>

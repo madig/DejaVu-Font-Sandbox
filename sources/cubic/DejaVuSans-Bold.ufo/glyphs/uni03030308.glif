@@ -2,7 +2,7 @@
 <glyph name="uni03030308" format="2">
   <advance width="1400"/>
   <outline>
-    <component base="Tilde" xOffset="1213.5" yOffset="339"/>
+    <component base="Tilde" xOffset="1214" yOffset="339"/>
     <component base="Dieresis" xOffset="1212" yOffset="611"/>
   </outline>
 </glyph>

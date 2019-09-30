@@ -2,11 +2,17 @@
 <glyph name="uni1E0A" format="2">
   <advance width="1700"/>
   <unicode hex="1E0A"/>
-  <anchor x="1053" y="1899" name="above-legacy"/>
   <anchor x="632" y="0" name="below"/>
+  <anchor x="1053" y="1899" name="above-legacy"/>
   <anchor x="295" y="1520" name="half"/>
   <outline>
     <component base="Dotaccent" xOffset="1391" yOffset="373"/>
     <component base="D"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

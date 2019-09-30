@@ -2,18 +2,24 @@
 <glyph name="uni031D" format="2">
   <unicode hex="031D"/>
   <anchor x="-548" y="-492" name="below-mark"/>
+  <anchor x="-453" y="0" name="_below"/>
   <anchor x="-453" y="0" name="_below-mark"/>
-  <anchor x="-453" y="-3" name="_below"/>
   <outline>
     <contour>
       <point x="-826" y="-492" type="line"/>
-      <point x="-789" y="-303" type="line"/>
-      <point x="-606" y="-303" type="line"/>
-      <point x="-571" y="-120" type="line"/>
-      <point x="-382" y="-120" type="line"/>
-      <point x="-417" y="-303" type="line"/>
-      <point x="-234" y="-303" type="line"/>
       <point x="-271" y="-492" type="line"/>
+      <point x="-234" y="-303" type="line"/>
+      <point x="-417" y="-303" type="line"/>
+      <point x="-382" y="-120" type="line"/>
+      <point x="-571" y="-120" type="line"/>
+      <point x="-606" y="-303" type="line"/>
+      <point x="-789" y="-303" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

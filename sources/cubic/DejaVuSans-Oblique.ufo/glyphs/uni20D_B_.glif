@@ -1,27 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni20DB" format="2">
   <unicode hex="20DB"/>
-  <anchor x="-284" y="1237" name="_above-mark"/>
+  <anchor x="-284" y="1237" name="_above"/>
   <anchor x="-210" y="1556" name="above-mark"/>
-  <anchor x="-302" y="1147" name="_above"/>
+  <anchor x="-284" y="1237" name="_above-mark"/>
   <outline>
     <contour>
-      <point x="83" y="1552" type="line"/>
-      <point x="286" y="1552" type="line"/>
-      <point x="247" y="1350" type="line"/>
-      <point x="44" y="1350" type="line"/>
-    </contour>
-    <contour>
-      <point x="-699" y="1552" type="line"/>
-      <point x="-494" y="1552" type="line"/>
-      <point x="-535" y="1350" type="line"/>
       <point x="-738" y="1350" type="line"/>
+      <point x="-535" y="1350" type="line"/>
+      <point x="-494" y="1552" type="line"/>
+      <point x="-699" y="1552" type="line"/>
     </contour>
     <contour>
-      <point x="-308" y="1552" type="line"/>
-      <point x="-105" y="1552" type="line"/>
-      <point x="-144" y="1350" type="line"/>
       <point x="-347" y="1350" type="line"/>
+      <point x="-144" y="1350" type="line"/>
+      <point x="-105" y="1552" type="line"/>
+      <point x="-308" y="1552" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="1350" type="line"/>
+      <point x="247" y="1350" type="line"/>
+      <point x="286" y="1552" type="line"/>
+      <point x="83" y="1552" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

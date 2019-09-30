@@ -3,6 +3,7 @@
   <unicode hex="0317"/>
   <anchor x="-324" y="-7" name="_below"/>
   <anchor x="-324" y="-7" name="_Ligature below"/>
+  <anchor x="-324" y="-7" name="_below-mark"/>
   <outline>
     <component base="acute" xOffset="-1026" yOffset="-1809"/>
   </outline>

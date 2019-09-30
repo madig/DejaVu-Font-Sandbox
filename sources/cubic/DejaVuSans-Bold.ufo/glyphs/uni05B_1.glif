@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni05B1" format="2">
   <unicode hex="05B1"/>
-  <anchor x="707" y="0" name="_rtl-below"/>
   <anchor x="707" y="0" name="_Ligature rtl-below"/>
+  <anchor x="707" y="0" name="_rtl-below"/>
+  <anchor x="707" y="0" name="_rtl-below-mark"/>
   <outline>
     <component base="uni05B6" xOffset="-180"/>
     <component base="uni05B0" xOffset="220"/>

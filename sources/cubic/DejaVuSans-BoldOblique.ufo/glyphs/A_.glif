@@ -5,23 +5,29 @@
   <anchor x="1128" y="0" name="ogonek"/>
   <anchor x="1232" y="0" name="cedilla"/>
   <anchor x="295" y="1520" name="half"/>
-  <anchor x="644.896" y="0" name="below"/>
+  <anchor x="645" y="0" name="below"/>
   <anchor x="937" y="1520" name="above"/>
   <outline>
     <contour>
-      <point x="1006" y="272" type="line"/>
-      <point x="410" y="272" type="line"/>
-      <point x="262" y="0" type="line"/>
       <point x="-133" y="0" type="line"/>
-      <point x="711" y="1493" type="line"/>
-      <point x="1151" y="1493" type="line"/>
-      <point x="1415" y="0" type="line"/>
+      <point x="262" y="0" type="line"/>
+      <point x="410" y="272" type="line"/>
+      <point x="1006" y="272" type="line"/>
       <point x="1049" y="0" type="line"/>
+      <point x="1415" y="0" type="line"/>
+      <point x="1151" y="1493" type="line"/>
+      <point x="711" y="1493" type="line"/>
     </contour>
     <contour>
       <point x="555" y="543" type="line"/>
-      <point x="956" y="543" type="line"/>
       <point x="866" y="1118" type="line"/>
+      <point x="956" y="543" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

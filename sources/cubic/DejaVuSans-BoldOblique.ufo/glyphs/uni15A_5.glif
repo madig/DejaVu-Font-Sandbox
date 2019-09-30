@@ -6,4 +6,10 @@
     <component base="uni15A4"/>
     <component base="Dotaccent" xOffset="1280" yOffset="-161"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

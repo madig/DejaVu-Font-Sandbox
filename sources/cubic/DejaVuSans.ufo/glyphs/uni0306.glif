@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0306" format="2">
   <unicode hex="0306"/>
-  <anchor x="-512" y="1282" name="_above-mark"/>
-  <anchor x="-512" y="1604" name="above-mark"/>
   <anchor x="-512" y="1147" name="_above"/>
+  <anchor x="-512" y="1604" name="above-mark"/>
+  <anchor x="-512" y="1282" name="_above-mark"/>
   <outline>
     <component base="breve" xOffset="-1032"/>
   </outline>

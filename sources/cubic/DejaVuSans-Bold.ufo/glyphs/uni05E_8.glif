@@ -2,25 +2,28 @@
 <glyph name="uni05E8" format="2">
   <advance width="1233"/>
   <unicode hex="05E8"/>
-  <anchor x="376" y="528" name="rtl-inside"/>
   <anchor x="887" y="0" name="rtl-below"/>
+  <anchor x="376" y="528" name="rtl-inside"/>
   <outline>
     <contour>
-      <point x="1047" y="569" type="qcurve" smooth="yes"/>
-      <point x="1047" y="0" type="line"/>
       <point x="716" y="0" type="line"/>
-      <point x="716" y="569" type="line" smooth="yes"/>
-      <point x="716" y="716"/>
-      <point x="606" y="882"/>
-      <point x="473" y="882" type="qcurve" smooth="yes"/>
-      <point x="88" y="882" type="line"/>
+      <point x="1047" y="0" type="line"/>
+      <point x="1047" y="569" type="line" smooth="yes"/>
+      <point x="1047" y="705"/>
+      <point x="1027" y="809"/>
+      <point x="974" y="903" type="curve" smooth="yes"/>
+      <point x="947" y="950"/>
+      <point x="913" y="989"/>
+      <point x="870" y="1020" type="curve" smooth="yes"/>
+      <point x="784" y="1083"/>
+      <point x="648" y="1120"/>
+      <point x="472" y="1120" type="curve" smooth="yes"/>
       <point x="88" y="1120" type="line"/>
-      <point x="472" y="1120" type="line" smooth="yes"/>
-      <point x="604" y="1120"/>
-      <point x="805" y="1067"/>
-      <point x="934" y="973"/>
-      <point x="1014" y="832"/>
-      <point x="1047" y="671"/>
+      <point x="88" y="882" type="line"/>
+      <point x="473" y="882" type="line" smooth="yes"/>
+      <point x="650" y="882"/>
+      <point x="716" y="765"/>
+      <point x="716" y="569" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

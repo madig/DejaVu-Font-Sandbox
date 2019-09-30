@@ -6,24 +6,30 @@
   <anchor x="825" y="0" name="below"/>
   <outline>
     <contour>
-      <point x="296" y="1393" type="line"/>
-      <point x="1156" y="100" type="line"/>
-      <point x="1354" y="100" type="line"/>
-      <point x="494" y="1393" type="line"/>
-    </contour>
-    <contour>
-      <point x="108" y="1493" type="line"/>
-      <point x="548" y="1493" type="line"/>
-      <point x="922" y="931" type="line"/>
-      <point x="1310" y="1493" type="line"/>
-      <point x="1408" y="1493" type="line"/>
-      <point x="972" y="857" type="line"/>
-      <point x="1542" y="0" type="line"/>
-      <point x="1102" y="0" type="line"/>
-      <point x="728" y="562" type="line"/>
-      <point x="340" y="0" type="line"/>
       <point x="240" y="0" type="line"/>
+      <point x="340" y="0" type="line"/>
+      <point x="728" y="562" type="line"/>
+      <point x="1102" y="0" type="line"/>
+      <point x="1542" y="0" type="line"/>
+      <point x="972" y="857" type="line"/>
+      <point x="1408" y="1493" type="line"/>
+      <point x="1310" y="1493" type="line"/>
+      <point x="922" y="931" type="line"/>
+      <point x="548" y="1493" type="line"/>
+      <point x="108" y="1493" type="line"/>
       <point x="678" y="635" type="line"/>
     </contour>
+    <contour>
+      <point x="1156" y="100" type="line"/>
+      <point x="296" y="1393" type="line"/>
+      <point x="494" y="1393" type="line"/>
+      <point x="1354" y="100" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,11 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni064B0651" format="2">
   <anchor x="512" y="1200" name="_rtl-above-mark"/>
-  <anchor x="512" y="1200" name="_rtl-above"/>
   <anchor x="512" y="1200" name="_Ligature rtl-above"/>
+  <anchor x="512" y="1200" name="_rtl-above"/>
   <anchor x="512" y="2300" name="rtl-above-mark"/>
   <outline>
     <component base="uni0651" yOffset="500"/>
     <component base="uni064B"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

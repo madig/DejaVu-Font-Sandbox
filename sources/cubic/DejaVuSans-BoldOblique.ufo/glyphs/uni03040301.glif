@@ -5,4 +5,10 @@
     <component base="Acute" xOffset="1027" yOffset="639"/>
     <component base="macron" xOffset="14" yOffset="256"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -3,6 +3,6 @@
   <advance width="1600"/>
   <unicode hex="2810"/>
   <outline>
-    <component base="brailledot" xOffset="900" yOffset="666.667"/>
+    <component base="brailledot" xOffset="900" yOffset="667"/>
   </outline>
 </glyph>

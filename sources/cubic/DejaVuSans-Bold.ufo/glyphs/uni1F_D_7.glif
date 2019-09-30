@@ -4,6 +4,6 @@
   <unicode hex="1FD7"/>
   <outline>
     <component base="iota"/>
-    <component base="uni1FC1" xOffset="-176"/>
+    <component base="uni1FC1" xOffset="-174" yOffset="-373"/>
   </outline>
 </glyph>

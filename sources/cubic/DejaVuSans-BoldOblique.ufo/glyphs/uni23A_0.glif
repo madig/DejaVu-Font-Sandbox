@@ -4,18 +4,28 @@
   <unicode hex="23A0"/>
   <outline>
     <contour>
-      <point x="605" y="1926" type="line"/>
+      <point x="128" y="-492" type="curve"/>
+      <point x="384" y="-492" type="line"/>
+      <point x="487" y="-331"/>
+      <point x="604" y="-58"/>
+      <point x="736" y="327" type="curve" smooth="yes"/>
+      <point x="843" y="639"/>
+      <point x="896" y="1094"/>
+      <point x="896" y="1692" type="curve" smooth="yes"/>
       <point x="896" y="1926" type="line"/>
-      <point x="896" y="1692" type="line" smooth="yes"/>
-      <point x="896" y="795"/>
-      <point x="736" y="327" type="qcurve" smooth="yes"/>
-      <point x="538" y="-251"/>
-      <point x="384" y="-492" type="qcurve"/>
-      <point x="128" y="-492" type="line"/>
-      <point x="334" y="-75"/>
-      <point x="478" y="411" type="qcurve" smooth="yes"/>
-      <point x="605" y="839"/>
-      <point x="605" y="1692" type="qcurve" smooth="yes"/>
+      <point x="605" y="1926" type="line"/>
+      <point x="605" y="1692" type="line" smooth="yes"/>
+      <point x="605" y="1123"/>
+      <point x="563" y="696"/>
+      <point x="478" y="411" type="curve" smooth="yes"/>
+      <point x="382" y="87"/>
+      <point x="265" y="-214"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

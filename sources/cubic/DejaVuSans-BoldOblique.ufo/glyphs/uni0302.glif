@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0302" format="2">
   <unicode hex="0302"/>
-  <anchor x="-201" y="1147" name="_above-mark"/>
-  <anchor x="-126" y="1638" name="above-mark"/>
   <anchor x="-201" y="1147" name="_above"/>
+  <anchor x="-126" y="1638" name="above-mark"/>
+  <anchor x="-201" y="1147" name="_above-mark"/>
   <outline>
     <component base="circumflex" xOffset="-805"/>
   </outline>

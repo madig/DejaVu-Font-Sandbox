@@ -2,7 +2,7 @@
 <glyph name="uni03030304" format="2">
   <advance width="1400"/>
   <outline>
-    <component base="Tilde" xOffset="1213.5" yOffset="339"/>
+    <component base="Tilde" xOffset="1214" yOffset="339"/>
     <component base="macron" xOffset="188" yOffset="574"/>
   </outline>
 </glyph>

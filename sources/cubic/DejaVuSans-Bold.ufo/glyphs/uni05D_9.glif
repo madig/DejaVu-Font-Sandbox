@@ -2,13 +2,13 @@
 <glyph name="uni05D9" format="2">
   <advance width="603"/>
   <unicode hex="05D9"/>
-  <anchor x="48" y="724" name="rtl-inside"/>
   <anchor x="294" y="0" name="rtl-below"/>
+  <anchor x="48" y="724" name="rtl-inside"/>
   <outline>
     <contour>
-      <point x="467" y="1120" type="line"/>
-      <point x="467" y="471" type="line"/>
       <point x="136" y="336" type="line"/>
+      <point x="467" y="471" type="line"/>
+      <point x="467" y="1120" type="line"/>
       <point x="136" y="1120" type="line"/>
     </contour>
   </outline>

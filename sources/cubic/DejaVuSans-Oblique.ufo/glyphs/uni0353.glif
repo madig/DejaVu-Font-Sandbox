@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni0353" format="2">
   <unicode hex="0353"/>
-  <anchor x="-459.323" y="0" name="_below-mark"/>
-  <anchor x="-551.07" y="-472" name="below-mark"/>
-  <anchor x="-459.518" y="-1" name="_below"/>
-  <anchor x="-459.518" y="-1" name="_Ligature below"/>
+  <anchor x="-459" y="0" name="_below-mark"/>
+  <anchor x="-460" y="-1" name="_Ligature below"/>
+  <anchor x="-551" y="-472" name="below-mark"/>
+  <anchor x="-460" y="-1" name="_below"/>
   <outline>
     <component base="uni033D" yOffset="-1738"/>
   </outline>

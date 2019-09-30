@@ -4,28 +4,40 @@
   <unicode hex="FB26"/>
   <outline>
     <contour>
-      <point x="1565" y="0" type="line"/>
       <point x="186" y="0" type="line"/>
-      <point x="403.706" y="1120" type="line"/>
-      <point x="1224.71" y="1120" type="line" smooth="yes"/>
-      <point x="1387.71" y="1120"/>
-      <point x="1587.04" y="1060"/>
-      <point x="1690.05" y="916"/>
-      <point x="1700.87" y="699"/>
-      <point x="1668.41" y="532" type="qcurve" smooth="yes"/>
+      <point x="1565" y="0" type="line"/>
+      <point x="1668" y="532" type="line" smooth="yes"/>
+      <point x="1712" y="755"/>
+      <point x="1707" y="892"/>
+      <point x="1639" y="988" type="curve" smooth="yes"/>
+      <point x="1570" y="1084"/>
+      <point x="1442" y="1120"/>
+      <point x="1225" y="1120" type="curve" smooth="yes"/>
+      <point x="404" y="1120" type="line"/>
     </contour>
     <contour>
-      <point x="561.909" y="977" type="line"/>
-      <point x="399.797" y="143" type="line"/>
-      <point x="1406.8" y="143" type="line"/>
-      <point x="1482.41" y="532" type="line" smooth="yes"/>
-      <point x="1500.68" y="626"/>
-      <point x="1513.95" y="756"/>
-      <point x="1501.17" y="860"/>
-      <point x="1462.02" y="921"/>
-      <point x="1382.99" y="962"/>
-      <point x="1276.91" y="977"/>
-      <point x="1197.91" y="977" type="qcurve" smooth="yes"/>
+      <point x="400" y="143" type="line"/>
+      <point x="562" y="977" type="line"/>
+      <point x="1198" y="977" type="line" smooth="yes"/>
+      <point x="1251" y="977"/>
+      <point x="1295" y="975"/>
+      <point x="1330" y="970" type="curve" smooth="yes"/>
+      <point x="1401" y="960"/>
+      <point x="1455" y="931"/>
+      <point x="1482" y="891" type="curve" smooth="yes"/>
+      <point x="1495" y="870"/>
+      <point x="1503" y="843"/>
+      <point x="1508" y="808" type="curve" smooth="yes"/>
+      <point x="1516" y="739"/>
+      <point x="1507" y="657"/>
+      <point x="1482" y="532" type="curve" smooth="yes"/>
+      <point x="1407" y="143" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

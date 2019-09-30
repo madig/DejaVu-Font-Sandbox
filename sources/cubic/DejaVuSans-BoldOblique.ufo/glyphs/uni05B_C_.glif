@@ -1,16 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni05BC" format="2">
   <unicode hex="05BC"/>
-  <anchor x="720.853" y="560" name="_rtl-inside"/>
+  <anchor x="721" y="560" name="_rtl-inside"/>
   <outline>
     <contour>
-      <point x="640.291" y="660" type="line"/>
-      <point x="840.291" y="660" type="line"/>
-      <point x="801.415" y="460" type="line"/>
-      <point x="601.415" y="460" type="line"/>
-    </contour>
-    <contour>
-      <point x="720.853" y="560" type="move"/>
+      <point x="601" y="460" type="line"/>
+      <point x="801" y="460" type="line"/>
+      <point x="840" y="660" type="line"/>
+      <point x="640" y="660" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,8 +2,8 @@
 <glyph name="uni2632.alt" format="2">
   <advance width="1822"/>
   <outline>
-    <component base="uni268A" yOffset="646.5"/>
-    <component base="uni268B" yOffset="968.75"/>
+    <component base="uni268A" yOffset="647"/>
+    <component base="uni268B" yOffset="969"/>
     <component base="uni268A" yOffset="1293"/>
   </outline>
 </glyph>

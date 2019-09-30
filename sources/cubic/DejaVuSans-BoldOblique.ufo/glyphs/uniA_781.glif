@@ -6,10 +6,16 @@
   <anchor x="506" y="1147" name="above"/>
   <outline>
     <contour>
-      <point x="322" y="1120" type="line"/>
-      <point x="680" y="1120" type="line"/>
-      <point x="380" y="-426" type="line"/>
       <point x="22" y="-426" type="line"/>
+      <point x="380" y="-426" type="line"/>
+      <point x="680" y="1120" type="line"/>
+      <point x="322" y="1120" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

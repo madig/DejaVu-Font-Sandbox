@@ -4,10 +4,16 @@
   <unicode hex="02CF"/>
   <outline>
     <contour>
-      <point x="870" y="-110" type="line"/>
-      <point x="1069" y="-110" type="line"/>
-      <point x="670" y="-486" type="line"/>
       <point x="516" y="-486" type="line"/>
+      <point x="670" y="-486" type="line"/>
+      <point x="1069" y="-110" type="line"/>
+      <point x="870" y="-110" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

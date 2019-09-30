@@ -5,4 +5,10 @@
     <component base="Breve" xOffset="1017" yOffset="336"/>
     <component base="Acute" xOffset="1120" yOffset="612"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:22 +0000</string>
+    </dict>
+  </lib>
 </glyph>

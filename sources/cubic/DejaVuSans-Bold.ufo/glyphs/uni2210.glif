@@ -5,13 +5,13 @@
   <outline>
     <contour>
       <point x="150" y="-395" type="line"/>
-      <point x="150" y="1471" type="line"/>
-      <point x="494" y="1471" type="line"/>
-      <point x="494" y="-106" type="line"/>
-      <point x="1114" y="-106" type="line"/>
-      <point x="1114" y="1471" type="line"/>
-      <point x="1458" y="1471" type="line"/>
       <point x="1458" y="-395" type="line"/>
+      <point x="1458" y="1471" type="line"/>
+      <point x="1114" y="1471" type="line"/>
+      <point x="1114" y="-106" type="line"/>
+      <point x="494" y="-106" type="line"/>
+      <point x="494" y="1471" type="line"/>
+      <point x="150" y="1471" type="line"/>
     </contour>
   </outline>
 </glyph>

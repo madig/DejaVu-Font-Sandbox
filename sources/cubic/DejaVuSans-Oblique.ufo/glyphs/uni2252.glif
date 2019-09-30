@@ -3,8 +3,8 @@
   <advance width="1716"/>
   <unicode hex="2252"/>
   <outline>
-    <component base="dotmath" xOffset="1069.5" yOffset="-579"/>
-    <component base="equal" xOffset="-1.5"/>
-    <component base="dotmath" xOffset="-4.5" yOffset="441"/>
+    <component base="dotmath" xOffset="1070" yOffset="-579"/>
+    <component base="equal" xOffset="-2"/>
+    <component base="dotmath" xOffset="-5" yOffset="441"/>
   </outline>
 </glyph>

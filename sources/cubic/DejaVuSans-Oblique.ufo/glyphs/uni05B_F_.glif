@@ -1,13 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni05BF" format="2">
   <unicode hex="05BF"/>
-  <anchor x="609.32" y="1120" name="_rtl-above"/>
+  <anchor x="609" y="1120" name="_rtl-above"/>
   <outline>
     <contour>
-      <point x="369.578" y="1430" type="line"/>
-      <point x="969.578" y="1430" type="line"/>
-      <point x="940.422" y="1280" type="line"/>
-      <point x="340.422" y="1280" type="line"/>
+      <point x="340" y="1280" type="line"/>
+      <point x="940" y="1280" type="line"/>
+      <point x="970" y="1430" type="line"/>
+      <point x="370" y="1430" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -4,13 +4,13 @@
   <anchor x="510" y="1147" name="_rtl-above"/>
   <outline>
     <contour>
-      <point x="389" y="1638" type="line"/>
-      <point x="631" y="1638" type="line"/>
-      <point x="887" y="1262" type="line"/>
-      <point x="709" y="1262" type="line"/>
-      <point x="510" y="1487" type="line"/>
-      <point x="311" y="1262" type="line"/>
       <point x="133" y="1262" type="line"/>
+      <point x="311" y="1262" type="line"/>
+      <point x="510" y="1487" type="line"/>
+      <point x="709" y="1262" type="line"/>
+      <point x="887" y="1262" type="line"/>
+      <point x="631" y="1638" type="line"/>
+      <point x="389" y="1638" type="line"/>
     </contour>
   </outline>
 </glyph>

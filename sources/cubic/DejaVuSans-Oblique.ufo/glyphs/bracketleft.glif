@@ -4,14 +4,20 @@
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="436" y="1556" type="line"/>
-      <point x="860" y="1556" type="line"/>
-      <point x="831" y="1413" type="line"/>
-      <point x="592" y="1413" type="line"/>
-      <point x="293" y="-127" type="line"/>
-      <point x="532" y="-127" type="line"/>
-      <point x="506" y="-270" type="line"/>
       <point x="82" y="-270" type="line"/>
+      <point x="506" y="-270" type="line"/>
+      <point x="532" y="-127" type="line"/>
+      <point x="293" y="-127" type="line"/>
+      <point x="592" y="1413" type="line"/>
+      <point x="831" y="1413" type="line"/>
+      <point x="860" y="1556" type="line"/>
+      <point x="436" y="1556" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

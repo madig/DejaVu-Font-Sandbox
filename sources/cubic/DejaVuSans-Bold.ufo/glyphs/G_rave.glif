@@ -4,9 +4,9 @@
   <anchor x="-514" y="1147" name="_above"/>
   <outline>
     <contour>
-      <point x="-563" y="1526" type="line"/>
-      <point x="-365" y="1262" type="line"/>
       <point x="-561" y="1262" type="line"/>
+      <point x="-365" y="1262" type="line"/>
+      <point x="-563" y="1526" type="line"/>
       <point x="-846" y="1526" type="line"/>
     </contour>
   </outline>

@@ -4,20 +4,26 @@
   <unicode hex="20B8"/>
   <outline>
     <contour>
-      <point x="165" y="1493" type="line"/>
-      <point x="1428" y="1493" type="line"/>
-      <point x="1395" y="1323" type="line"/>
-      <point x="132" y="1323" type="line"/>
+      <point x="405" y="0" type="line"/>
+      <point x="608" y="0" type="line"/>
+      <point x="809" y="1033" type="line"/>
+      <point x="1339" y="1033" type="line"/>
+      <point x="1372" y="1203" type="line"/>
+      <point x="109" y="1203" type="line"/>
+      <point x="76" y="1033" type="line"/>
+      <point x="606" y="1033" type="line"/>
     </contour>
     <contour>
-      <point x="109" y="1203" type="line"/>
-      <point x="1372" y="1203" type="line"/>
-      <point x="1339" y="1033" type="line"/>
-      <point x="809" y="1033" type="line"/>
-      <point x="608" y="0" type="line"/>
-      <point x="405" y="0" type="line"/>
-      <point x="606" y="1033" type="line"/>
-      <point x="76" y="1033" type="line"/>
+      <point x="132" y="1323" type="line"/>
+      <point x="1395" y="1323" type="line"/>
+      <point x="1428" y="1493" type="line"/>
+      <point x="165" y="1493" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -6,6 +6,12 @@
   <anchor x="287" y="0" name="cedilla"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="uni03080301" xOffset="-415" yOffset="-324"/>
+    <component base="uni03080301" xOffset="-467" yOffset="-612"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

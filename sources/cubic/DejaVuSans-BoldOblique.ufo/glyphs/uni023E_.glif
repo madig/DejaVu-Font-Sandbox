@@ -4,27 +4,33 @@
   <unicode hex="023E"/>
   <outline>
     <contour>
-      <point x="1498.48" y="1320" type="line"/>
-      <point x="1475.54" y="1202" type="line"/>
-      <point x="1357.54" y="1202" type="line"/>
-      <point x="906.259" y="825" type="line"/>
-      <point x="745.896" y="0" type="line"/>
-      <point x="360.896" y="0" type="line"/>
-      <point x="446.423" y="440" type="line"/>
-      <point x="-168.489" y="-74" type="line"/>
-      <point x="-259.524" y="39" type="line"/>
-      <point x="490.547" y="667" type="line"/>
-      <point x="594.54" y="1202" type="line"/>
-      <point x="99.54" y="1202" type="line"/>
-      <point x="156.104" y="1493" type="line"/>
-      <point x="1477.1" y="1493" type="line"/>
-      <point x="1565.49" y="1567" type="line"/>
-      <point x="1656.13" y="1452" type="line"/>
+      <point x="-168" y="-74" type="line"/>
+      <point x="446" y="440" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="746" y="0" type="line"/>
+      <point x="906" y="825" type="line"/>
+      <point x="1358" y="1202" type="line"/>
+      <point x="1476" y="1202" type="line"/>
+      <point x="1498" y="1320" type="line"/>
+      <point x="1656" y="1452" type="line"/>
+      <point x="1565" y="1567" type="line"/>
+      <point x="1477" y="1493" type="line"/>
+      <point x="156" y="1493" type="line"/>
+      <point x="100" y="1202" type="line"/>
+      <point x="595" y="1202" type="line"/>
+      <point x="491" y="667" type="line"/>
+      <point x="-260" y="39" type="line"/>
     </contour>
     <contour>
-      <point x="950.383" y="1052" type="line"/>
-      <point x="1129.54" y="1202" type="line"/>
-      <point x="979.54" y="1202" type="line"/>
+      <point x="950" y="1052" type="line"/>
+      <point x="980" y="1202" type="line"/>
+      <point x="1130" y="1202" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,23 +2,23 @@
 <glyph name="uniA749" format="2">
   <advance width="1088"/>
   <unicode hex="A749"/>
-  <anchor x="0" y="1520" name="half"/>
   <anchor x="549" y="0" name="below"/>
+  <anchor x="0" y="1520" name="half"/>
   <anchor x="549" y="1520" name="above"/>
   <outline>
     <contour>
-      <point x="365" y="1556" type="line"/>
-      <point x="723" y="1556" type="line"/>
-      <point x="723" y="1270" type="line"/>
-      <point x="968" y="1270" type="line"/>
-      <point x="968" y="1010" type="line"/>
-      <point x="723" y="1010" type="line"/>
-      <point x="723" y="0" type="line"/>
       <point x="365" y="0" type="line"/>
-      <point x="365" y="1010" type="line"/>
-      <point x="120" y="1010" type="line"/>
-      <point x="120" y="1270" type="line"/>
+      <point x="723" y="0" type="line"/>
+      <point x="723" y="1010" type="line"/>
+      <point x="968" y="1010" type="line"/>
+      <point x="968" y="1270" type="line"/>
+      <point x="723" y="1270" type="line"/>
+      <point x="723" y="1556" type="line"/>
+      <point x="365" y="1556" type="line"/>
       <point x="365" y="1270" type="line"/>
+      <point x="120" y="1270" type="line"/>
+      <point x="120" y="1010" type="line"/>
+      <point x="365" y="1010" type="line"/>
     </contour>
   </outline>
 </glyph>

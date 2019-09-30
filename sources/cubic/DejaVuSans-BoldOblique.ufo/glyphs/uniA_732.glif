@@ -7,31 +7,37 @@
   <anchor x="150" y="1520" name="half"/>
   <outline>
     <contour>
-      <point x="550" y="549" type="line"/>
-      <point x="959" y="549" type="line"/>
-      <point x="870" y="1143" type="line"/>
+      <point x="-135" y="0" type="line"/>
+      <point x="252" y="0" type="line"/>
+      <point x="400" y="272" type="line"/>
+      <point x="1002" y="272" type="line"/>
+      <point x="1043" y="0" type="line"/>
+      <point x="1430" y="0" type="line"/>
+      <point x="1578" y="272" type="line"/>
+      <point x="2180" y="272" type="line"/>
+      <point x="2221" y="0" type="line"/>
+      <point x="2608" y="0" type="line"/>
+      <point x="2345" y="1493" type="line"/>
+      <point x="1886" y="1493" type="line"/>
+      <point x="1338" y="522" type="line"/>
+      <point x="1167" y="1493" type="line"/>
+      <point x="708" y="1493" type="line"/>
     </contour>
     <contour>
-      <point x="1002" y="272" type="line"/>
-      <point x="400" y="272" type="line"/>
-      <point x="252" y="0" type="line"/>
-      <point x="-135" y="0" type="line"/>
-      <point x="708" y="1493" type="line"/>
-      <point x="1167" y="1493" type="line"/>
-      <point x="1338" y="522" type="line"/>
-      <point x="1886" y="1493" type="line"/>
-      <point x="2345" y="1493" type="line"/>
-      <point x="2608" y="0" type="line"/>
-      <point x="2221" y="0" type="line"/>
-      <point x="2180" y="272" type="line"/>
-      <point x="1578" y="272" type="line"/>
-      <point x="1430" y="0" type="line"/>
-      <point x="1043" y="0" type="line"/>
+      <point x="550" y="549" type="line"/>
+      <point x="870" y="1143" type="line"/>
+      <point x="959" y="549" type="line"/>
     </contour>
     <contour>
       <point x="1728" y="549" type="line"/>
-      <point x="2137" y="549" type="line"/>
       <point x="2048" y="1143" type="line"/>
+      <point x="2137" y="549" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

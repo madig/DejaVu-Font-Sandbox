@@ -2,10 +2,16 @@
 <glyph name="dlLtcaron" format="2">
   <outline>
     <contour>
-      <point x="0" y="1554" type="line"/>
-      <point x="199" y="1554" type="line"/>
-      <point x="82" y="1178" type="line"/>
       <point x="-71" y="1178" type="line"/>
+      <point x="82" y="1178" type="line"/>
+      <point x="199" y="1554" type="line"/>
+      <point x="0" y="1554" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

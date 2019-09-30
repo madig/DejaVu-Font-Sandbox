@@ -5,22 +5,22 @@
   <anchor x="855" y="1520" name="above"/>
   <outline>
     <contour>
-      <point x="1524" y="291" type="line"/>
-      <point x="1908" y="291" type="line"/>
-      <point x="1908" y="-321" type="line"/>
       <point x="1524" y="-321" type="line"/>
-      <point x="1524" y="0" type="line"/>
-      <point x="1141" y="0" type="line"/>
-      <point x="1141" y="633" type="line"/>
-      <point x="573" y="633" type="line"/>
-      <point x="573" y="0" type="line"/>
-      <point x="188" y="0" type="line"/>
-      <point x="188" y="1493" type="line"/>
-      <point x="573" y="1493" type="line"/>
-      <point x="573" y="924" type="line"/>
-      <point x="1141" y="924" type="line"/>
-      <point x="1141" y="1493" type="line"/>
+      <point x="1908" y="-321" type="line"/>
+      <point x="1908" y="291" type="line"/>
+      <point x="1524" y="291" type="line"/>
       <point x="1526" y="1493" type="line"/>
+      <point x="1141" y="1493" type="line"/>
+      <point x="1141" y="924" type="line"/>
+      <point x="573" y="924" type="line"/>
+      <point x="573" y="1493" type="line"/>
+      <point x="188" y="1493" type="line"/>
+      <point x="188" y="0" type="line"/>
+      <point x="573" y="0" type="line"/>
+      <point x="573" y="633" type="line"/>
+      <point x="1141" y="633" type="line"/>
+      <point x="1141" y="0" type="line"/>
+      <point x="1524" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

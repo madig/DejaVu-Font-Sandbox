@@ -7,25 +7,31 @@
   <outline>
     <contour>
       <point x="392" y="0" type="line"/>
-      <point x="392" y="897" type="line"/>
-      <point x="61" y="897" type="line"/>
-      <point x="61" y="1044" type="line"/>
-      <point x="392" y="1044" type="line"/>
-      <point x="392" y="1493" type="line"/>
-      <point x="577" y="1493" type="line"/>
-      <point x="577" y="1044" type="line"/>
-      <point x="1028" y="1044" type="line"/>
-      <point x="1028" y="1493" type="line"/>
-      <point x="1212" y="1493" type="line"/>
-      <point x="1212" y="1044" type="line"/>
-      <point x="1544" y="1044" type="line"/>
-      <point x="1544" y="897" type="line"/>
-      <point x="1212" y="897" type="line"/>
-      <point x="1212" y="0" type="line"/>
-      <point x="1028" y="0" type="line"/>
-      <point x="1028" y="897" type="line"/>
-      <point x="577" y="897" type="line"/>
       <point x="577" y="0" type="line"/>
+      <point x="577" y="897" type="line"/>
+      <point x="1028" y="897" type="line"/>
+      <point x="1028" y="0" type="line"/>
+      <point x="1212" y="0" type="line"/>
+      <point x="1212" y="897" type="line"/>
+      <point x="1544" y="897" type="line"/>
+      <point x="1544" y="1044" type="line"/>
+      <point x="1212" y="1044" type="line"/>
+      <point x="1212" y="1493" type="line"/>
+      <point x="1028" y="1493" type="line"/>
+      <point x="1028" y="1044" type="line"/>
+      <point x="577" y="1044" type="line"/>
+      <point x="577" y="1493" type="line"/>
+      <point x="392" y="1493" type="line"/>
+      <point x="392" y="1044" type="line"/>
+      <point x="61" y="1044" type="line"/>
+      <point x="61" y="897" type="line"/>
+      <point x="392" y="897" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

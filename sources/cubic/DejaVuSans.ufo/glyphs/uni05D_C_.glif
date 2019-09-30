@@ -2,19 +2,25 @@
 <glyph name="uni05DC" format="2">
   <advance width="1164"/>
   <unicode hex="05DC"/>
-  <anchor x="361" y="560" name="rtl-inside"/>
   <anchor x="492" y="0" name="rtl-below"/>
+  <anchor x="361" y="560" name="rtl-inside"/>
   <outline>
     <contour>
       <point x="385" y="0" type="line"/>
-      <point x="789" y="977" type="line"/>
-      <point x="88" y="977" type="line"/>
-      <point x="88" y="1493" type="line"/>
-      <point x="275" y="1493" type="line"/>
-      <point x="275" y="1120" type="line"/>
-      <point x="1008" y="1119" type="line"/>
-      <point x="1005" y="1009" type="line"/>
       <point x="580" y="0" type="line"/>
+      <point x="1005" y="1009" type="line"/>
+      <point x="1008" y="1119" type="line"/>
+      <point x="275" y="1120" type="line"/>
+      <point x="275" y="1493" type="line"/>
+      <point x="88" y="1493" type="line"/>
+      <point x="88" y="977" type="line"/>
+      <point x="789" y="977" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

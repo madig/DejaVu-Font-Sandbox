@@ -6,4 +6,10 @@
     <component base="E"/>
     <component base="Caron" xOffset="1190" yOffset="367"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:12 +0000</string>
+    </dict>
+  </lib>
 </glyph>

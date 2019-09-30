@@ -7,4 +7,10 @@
     <component base="I" xOffset="1285"/>
     <component base="I" xOffset="1689"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:22 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -4,26 +4,32 @@
   <unicode hex="2D5F"/>
   <outline>
     <contour>
-      <point x="201" y="1493" type="line"/>
-      <point x="1145" y="1493" type="line"/>
-      <point x="1145" y="1323" type="line"/>
-      <point x="403" y="1323" type="line"/>
-      <point x="403" y="881" type="line"/>
-      <point x="676.5" y="881" type="line"/>
-      <point x="676.5" y="1136" type="line"/>
-      <point x="880.5" y="1136" type="line"/>
-      <point x="880.5" y="881" type="line"/>
-      <point x="1114" y="881" type="line"/>
-      <point x="1114" y="711" type="line"/>
-      <point x="880.5" y="711" type="line"/>
-      <point x="880.5" y="456" type="line"/>
-      <point x="676.5" y="456" type="line"/>
-      <point x="676.5" y="711" type="line"/>
-      <point x="403" y="711" type="line"/>
-      <point x="403" y="170" type="line"/>
-      <point x="1163" y="170" type="line"/>
-      <point x="1163" y="0" type="line"/>
       <point x="201" y="0" type="line"/>
+      <point x="1163" y="0" type="line"/>
+      <point x="1163" y="170" type="line"/>
+      <point x="403" y="170" type="line"/>
+      <point x="403" y="711" type="line"/>
+      <point x="677" y="711" type="line"/>
+      <point x="677" y="456" type="line"/>
+      <point x="881" y="456" type="line"/>
+      <point x="881" y="711" type="line"/>
+      <point x="1114" y="711" type="line"/>
+      <point x="1114" y="881" type="line"/>
+      <point x="881" y="881" type="line"/>
+      <point x="881" y="1136" type="line"/>
+      <point x="677" y="1136" type="line"/>
+      <point x="677" y="881" type="line"/>
+      <point x="403" y="881" type="line"/>
+      <point x="403" y="1323" type="line"/>
+      <point x="1145" y="1323" type="line"/>
+      <point x="1145" y="1493" type="line"/>
+      <point x="201" y="1493" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

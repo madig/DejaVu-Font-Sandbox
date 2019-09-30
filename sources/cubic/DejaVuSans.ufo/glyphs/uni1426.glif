@@ -5,15 +5,21 @@
   <outline>
     <contour>
       <point x="533" y="668" type="line"/>
-      <point x="533" y="1503" type="line"/>
-      <point x="677" y="1503" type="line"/>
       <point x="677" y="668" type="line"/>
+      <point x="677" y="1503" type="line"/>
+      <point x="533" y="1503" type="line"/>
     </contour>
     <contour>
       <point x="137" y="668" type="line"/>
-      <point x="137" y="1503" type="line"/>
-      <point x="281" y="1503" type="line"/>
       <point x="281" y="668" type="line"/>
+      <point x="281" y="1503" type="line"/>
+      <point x="137" y="1503" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:30:21 +0000</string>
+    </dict>
+  </lib>
 </glyph>

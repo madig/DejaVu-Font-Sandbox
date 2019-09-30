@@ -6,10 +6,10 @@
   <anchor x="351" y="-100" name="rtl-below"/>
   <outline>
     <contour>
-      <point x="172" y="1556" type="line"/>
-      <point x="530" y="1556" type="line"/>
-      <point x="530" y="0" type="line"/>
       <point x="172" y="0" type="line"/>
+      <point x="530" y="0" type="line"/>
+      <point x="530" y="1556" type="line"/>
+      <point x="172" y="1556" type="line"/>
     </contour>
   </outline>
 </glyph>

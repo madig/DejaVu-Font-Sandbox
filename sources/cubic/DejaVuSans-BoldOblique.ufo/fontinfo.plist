@@ -4,6 +4,8 @@
   <dict>
     <key>ascender</key>
     <integer>1556</integer>
+    <key>capHeight</key>
+    <integer>0</integer>
     <key>copyright</key>
     <string>Copyright (c) 2003 by Bitstream, Inc. All Rights Reserved.
 Copyright (c) 2006 by Tavmjong Bah. All Rights Reserved.
@@ -13,8 +15,6 @@ DejaVu changes are in public domain
     <integer>-492</integer>
     <key>familyName</key>
     <string>DejaVu Sans</string>
-    <key>guidelines</key>
-    <array/>
     <key>italicAngle</key>
     <real>-11.0</real>
     <key>openTypeHeadCreated</key>
@@ -172,27 +172,31 @@ from Tavmjong Bah. For further information, contact: tavmjong @ free
     <integer>1901</integer>
     <key>openTypeOS2WinDescent</key>
     <integer>483</integer>
+    <key>postscriptBlueValues</key>
+    <array/>
     <key>postscriptFontName</key>
     <string>DejaVuSans-BoldOblique</string>
     <key>postscriptFullName</key>
     <string>DejaVu Sans Bold Oblique</string>
+    <key>postscriptOtherBlues</key>
+    <array/>
     <key>postscriptUnderlinePosition</key>
     <integer>-85</integer>
     <key>postscriptUnderlineThickness</key>
     <integer>90</integer>
-    <key>postscriptWeightName</key>
-    <string>Bold</string>
     <key>styleMapFamilyName</key>
     <string>DejaVu Sans Bold Oblique</string>
     <key>styleMapStyleName</key>
     <string>bold italic</string>
     <key>styleName</key>
-    <string>BoldOblique</string>
+    <string>Bold Oblique</string>
     <key>unitsPerEm</key>
     <integer>2048</integer>
     <key>versionMajor</key>
     <integer>2</integer>
     <key>versionMinor</key>
     <integer>37</integer>
+    <key>xHeight</key>
+    <integer>0</integer>
   </dict>
 </plist>

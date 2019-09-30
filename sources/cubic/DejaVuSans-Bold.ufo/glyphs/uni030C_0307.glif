@@ -3,6 +3,6 @@
   <advance width="1400"/>
   <outline>
     <component base="Dotaccent" xOffset="1212" yOffset="631"/>
-    <component base="Caron" xOffset="1211.82" yOffset="372.091"/>
+    <component base="Caron" xOffset="1212" yOffset="372"/>
   </outline>
 </glyph>

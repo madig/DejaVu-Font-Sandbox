@@ -6,4 +6,10 @@
     <component base="arabic_dot" xOffset="999" yOffset="1200"/>
     <component base="u1EE6F"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:27:13 +0000</string>
+    </dict>
+  </lib>
 </glyph>

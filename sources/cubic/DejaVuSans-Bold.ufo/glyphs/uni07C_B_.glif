@@ -6,24 +6,12 @@
   <anchor x="560" y="0" name="rtl-below"/>
   <outline>
     <contour>
-      <point x="461" y="345"/>
-      <point x="519" y="206"/>
-      <point x="601" y="206"/>
-      <point x="659" y="345"/>
-      <point x="659" y="579"/>
-      <point x="601" y="718"/>
-      <point x="519" y="718"/>
-      <point x="461" y="579"/>
+      <point x="0" y="0"/>
+      <point x="0" y="0"/>
     </contour>
     <contour>
-      <point x="88" y="676"/>
-      <point x="365" y="953"/>
-      <point x="755" y="953"/>
-      <point x="1032" y="676"/>
-      <point x="1032" y="248"/>
-      <point x="755" y="-29"/>
-      <point x="365" y="-29"/>
-      <point x="88" y="248"/>
+      <point x="0" y="0"/>
+      <point x="0" y="0"/>
     </contour>
   </outline>
 </glyph>

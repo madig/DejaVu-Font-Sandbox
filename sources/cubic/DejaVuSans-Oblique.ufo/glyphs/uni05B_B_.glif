@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni05BB" format="2">
   <unicode hex="05BB"/>
-  <anchor x="705.539" y="0" name="_rtl-below"/>
+  <anchor x="706" y="0" name="_rtl-below"/>
   <outline>
-    <component base="uni05B4" xOffset="-249.787" yOffset="140"/>
-    <component base="uni05B4" xOffset="-28.9438" yOffset="-10"/>
-    <component base="uni05B4" xOffset="191.899" yOffset="-160"/>
+    <component base="uni05B4" xOffset="-250" yOffset="140"/>
+    <component base="uni05B4" xOffset="-29" yOffset="-10"/>
+    <component base="uni05B4" xOffset="192" yOffset="-160"/>
   </outline>
 </glyph>

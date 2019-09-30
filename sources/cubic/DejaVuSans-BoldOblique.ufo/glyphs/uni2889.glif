@@ -7,4 +7,10 @@
     <component base="brailledot" xOffset="900" yOffset="1200"/>
     <component base="brailledot" xOffset="900" yOffset="-400"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:43 +0000</string>
+    </dict>
+  </lib>
 </glyph>

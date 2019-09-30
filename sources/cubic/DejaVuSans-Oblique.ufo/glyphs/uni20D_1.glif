@@ -1,17 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni20D1" format="2">
   <unicode hex="20D1"/>
-  <anchor x="-540" y="1282" name="_above-mark"/>
+  <anchor x="-540" y="1282" name="_above"/>
   <anchor x="-487" y="1556" name="above-mark"/>
-  <anchor x="-567" y="1147" name="_above"/>
+  <anchor x="-540" y="1282" name="_above-mark"/>
   <outline>
     <contour>
-      <point x="-35" y="1301" type="line"/>
       <point x="-988" y="1301" type="line"/>
-      <point x="-968" y="1401" type="line"/>
-      <point x="-227" y="1401" type="line"/>
-      <point x="-329" y="1556" type="line"/>
+      <point x="-35" y="1301" type="line"/>
       <point x="-203" y="1556" type="line"/>
+      <point x="-329" y="1556" type="line"/>
+      <point x="-227" y="1401" type="line"/>
+      <point x="-968" y="1401" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:40 +0000</string>
+    </dict>
+  </lib>
 </glyph>

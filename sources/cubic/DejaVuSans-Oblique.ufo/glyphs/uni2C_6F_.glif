@@ -7,19 +7,25 @@
   <anchor x="295" y="1520" name="half"/>
   <outline>
     <contour>
-      <point x="739" y="199" type="line"/>
-      <point x="1157" y="942" type="line"/>
-      <point x="608" y="942" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="814" y="0" type="line"/>
+      <point x="1674" y="1493" type="line"/>
+      <point x="1461" y="1493" type="line"/>
+      <point x="1251" y="1110" type="line"/>
+      <point x="578" y="1110" type="line"/>
+      <point x="516" y="1493" type="line"/>
+      <point x="306" y="1493" type="line"/>
     </contour>
     <contour>
-      <point x="814" y="0" type="line"/>
-      <point x="585" y="0" type="line"/>
-      <point x="306" y="1493" type="line"/>
-      <point x="516" y="1493" type="line"/>
-      <point x="578" y="1110" type="line"/>
-      <point x="1251" y="1110" type="line"/>
-      <point x="1461" y="1493" type="line"/>
-      <point x="1674" y="1493" type="line"/>
+      <point x="739" y="199" type="line"/>
+      <point x="608" y="942" type="line"/>
+      <point x="1157" y="942" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:32:39 +0000</string>
+    </dict>
+  </lib>
 </glyph>

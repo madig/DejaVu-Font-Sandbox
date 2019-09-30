@@ -2,18 +2,24 @@
 <glyph name="uni05D3" format="2">
   <advance width="1204"/>
   <unicode hex="05D3"/>
-  <anchor x="449.853" y="560" name="rtl-inside"/>
   <anchor x="756" y="0" name="rtl-below"/>
+  <anchor x="450" y="560" name="rtl-inside"/>
   <outline>
     <contour>
-      <point x="1287.44" y="882" type="line"/>
-      <point x="1109.44" y="882" type="line"/>
-      <point x="938" y="0" type="line"/>
       <point x="607" y="0" type="line"/>
-      <point x="778.443" y="882" type="line"/>
-      <point x="259.443" y="882" type="line"/>
-      <point x="305.706" y="1120" type="line"/>
-      <point x="1333.71" y="1120" type="line"/>
+      <point x="938" y="0" type="line"/>
+      <point x="1109" y="882" type="line"/>
+      <point x="1287" y="882" type="line"/>
+      <point x="1334" y="1120" type="line"/>
+      <point x="306" y="1120" type="line"/>
+      <point x="259" y="882" type="line"/>
+      <point x="778" y="882" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-09-30 18:33:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>
