@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arabic_ring" format="2">
+  <advance width="438"/>
+  <outline>
+    <contour>
+      <point x="307" y="220" type="qcurve" smooth="yes"/>
+      <point x="307" y="256"/>
+      <point x="281" y="282" type="qcurve" smooth="yes"/>
+      <point x="256" y="307"/>
+      <point x="219" y="307" type="qcurve" smooth="yes"/>
+      <point x="182" y="307"/>
+      <point x="132" y="257"/>
+      <point x="132" y="220" type="qcurve" smooth="yes"/>
+      <point x="132" y="182"/>
+      <point x="182" y="132"/>
+      <point x="219" y="132" type="qcurve" smooth="yes"/>
+      <point x="256" y="132"/>
+      <point x="281" y="158" type="qcurve" smooth="yes"/>
+      <point x="307" y="183"/>
+    </contour>
+    <contour>
+      <point x="438" y="220" type="qcurve" smooth="yes"/>
+      <point x="438" y="128"/>
+      <point x="375" y="64" type="qcurve" smooth="yes"/>
+      <point x="311" y="0"/>
+      <point x="219" y="0" type="qcurve" smooth="yes"/>
+      <point x="127" y="0"/>
+      <point x="64" y="64" type="qcurve" smooth="yes"/>
+      <point x="0" y="128"/>
+      <point x="0" y="220" type="qcurve" smooth="yes"/>
+      <point x="0" y="312"/>
+      <point x="64" y="376" type="qcurve" smooth="yes"/>
+      <point x="127" y="439"/>
+      <point x="219" y="439" type="qcurve" smooth="yes"/>
+      <point x="311" y="439"/>
+      <point x="375" y="376" type="qcurve" smooth="yes"/>
+      <point x="438" y="312"/>
+    </contour>
+  </outline>
+</glyph>

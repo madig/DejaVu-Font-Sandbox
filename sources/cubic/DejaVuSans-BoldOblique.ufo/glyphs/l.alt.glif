@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.alt" format="2">
+  <advance width="702"/>
+  <anchor x="205" y="0" name="below"/>
+  <anchor x="500" y="1520" name="above"/>
+  <outline>
+    <contour>
+      <point x="365" y="1556" type="line"/>
+      <point x="723" y="1556" type="line"/>
+      <point x="510.349" y="462" type="line" smooth="yes"/>
+      <point x="484.107" y="326.999"/>
+      <point x="542.224" y="235"/>
+      <point x="644.224" y="235" type="qcurve" smooth="yes"/>
+      <point x="652.224" y="235" type="line"/>
+      <point x="606.545" y="0" type="line"/>
+      <point x="483.545" y="0" type="line" smooth="yes"/>
+      <point x="278.545" y="0"/>
+      <point x="108.613" y="236.999"/>
+      <point x="152.349" y="462" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

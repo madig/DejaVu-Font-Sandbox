@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFEDE" format="2">
+  <advance width="1828"/>
+  <unicode hex="FEDE"/>
+  <anchor x="800" y="-450" name="rtl-below"/>
+  <anchor x="750" y="1300" name="rtl-above"/>
+  <outline>
+    <contour>
+      <point x="1524" y="16" type="qcurve"/>
+      <point x="1412" y="-196"/>
+      <point x="1113" y="-278" type="qcurve" smooth="yes"/>
+      <point x="763.306" y="-374.594"/>
+      <point x="437" y="-290" type="qcurve" smooth="yes"/>
+      <point x="145.208" y="-214.355"/>
+      <point x="144" y="75" type="qcurve" smooth="yes"/>
+      <point x="143.299" y="213.45"/>
+      <point x="207" y="305" type="qcurve"/>
+      <point x="565" y="305" type="line"/>
+      <point x="494.283" y="202.734"/>
+      <point x="500" y="75" type="qcurve" smooth="yes"/>
+      <point x="504.723" y="-39.4003"/>
+      <point x="666" y="-73" type="qcurve" smooth="yes"/>
+      <point x="795.788" y="-100.039"/>
+      <point x="935" y="-55" type="qcurve" smooth="yes"/>
+      <point x="1095.94" y="-2.92999"/>
+      <point x="1157" y="73" type="qcurve" smooth="yes"/>
+      <point x="1235" y="170"/>
+      <point x="1235" y="426" type="qcurve" smooth="yes"/>
+      <point x="1235" y="1556" type="line"/>
+      <point x="1593" y="1556" type="line"/>
+      <point x="1593" y="426" type="line" smooth="yes"/>
+      <point x="1593" y="349"/>
+      <point x="1642" y="300" type="qcurve" smooth="yes"/>
+      <point x="1686" y="256"/>
+      <point x="1754" y="256" type="qcurve" smooth="yes"/>
+      <point x="1848" y="256" type="line"/>
+      <point x="1848" y="0" type="line"/>
+      <point x="1601" y="0" type="line" smooth="yes"/>
+      <point x="1535.3" y="0"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB23" format="2">
+  <advance width="1884"/>
+  <unicode hex="FB23"/>
+  <outline>
+    <contour>
+      <point x="535" y="722" type="line"/>
+      <point x="535" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="205" y="586" type="line"/>
+    </contour>
+    <contour>
+      <point x="1594" y="499" type="qcurve" smooth="yes"/>
+      <point x="1594" y="0" type="line"/>
+      <point x="1264" y="0" type="line"/>
+      <point x="1264" y="499" type="line" smooth="yes"/>
+      <point x="1264" y="583"/>
+      <point x="1255" y="693"/>
+      <point x="1226" y="785"/>
+      <point x="1182" y="835"/>
+      <point x="1101" y="870"/>
+      <point x="999" y="882"/>
+      <point x="922" y="882" type="qcurve" smooth="yes"/>
+      <point x="186" y="882" type="line"/>
+      <point x="186" y="1120" type="line"/>
+      <point x="922" y="1120" type="line" smooth="yes"/>
+      <point x="1059" y="1120"/>
+      <point x="1259" y="1094"/>
+      <point x="1412" y="1031"/>
+      <point x="1509" y="939"/>
+      <point x="1570" y="796"/>
+      <point x="1594" y="620"/>
+    </contour>
+  </outline>
+</glyph>

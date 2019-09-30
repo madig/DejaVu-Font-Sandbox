@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB1E" format="2">
+  <unicode hex="FB1E"/>
+  <anchor x="596.006" y="1120" name="_rtl-above"/>
+  <outline>
+    <contour>
+      <point x="370" y="1567" type="qcurve"/>
+      <point x="488" y="1567" type="line"/>
+      <point x="488" y="1561"/>
+      <point x="487.608" y="1555.25" type="qcurve" smooth="yes"/>
+      <point x="488" y="1489"/>
+      <point x="526" y="1454" type="qcurve" smooth="yes"/>
+      <point x="567" y="1417"/>
+      <point x="654" y="1417" type="qcurve" smooth="yes"/>
+      <point x="740" y="1417"/>
+      <point x="850" y="1491"/>
+      <point x="878" y="1567" type="qcurve"/>
+      <point x="996" y="1567" type="line"/>
+      <point x="958" y="1424"/>
+      <point x="772" y="1280"/>
+      <point x="482" y="1280"/>
+      <point x="417" y="1352" type="qcurve" smooth="yes"/>
+      <point x="366" y="1409"/>
+      <point x="366.069" y="1508.81" type="qcurve" smooth="yes"/>
+      <point x="366" y="1536"/>
+    </contour>
+  </outline>
+</glyph>

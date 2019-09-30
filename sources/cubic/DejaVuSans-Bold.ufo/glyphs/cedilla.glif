@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="1024"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="602" y="0" type="line"/>
+      <point x="660" y="-62"/>
+      <point x="715" y="-168"/>
+      <point x="715" y="-215" type="qcurve" smooth="yes"/>
+      <point x="715" y="-310"/>
+      <point x="592" y="-401"/>
+      <point x="465" y="-401" type="qcurve" smooth="yes"/>
+      <point x="417" y="-401"/>
+      <point x="315" y="-388"/>
+      <point x="263" y="-375" type="qcurve"/>
+      <point x="262" y="-223" type="line"/>
+      <point x="312" y="-239"/>
+      <point x="395" y="-254"/>
+      <point x="428" y="-254" type="qcurve" smooth="yes"/>
+      <point x="486" y="-254"/>
+      <point x="551" y="-208"/>
+      <point x="551" y="-168" type="qcurve" smooth="yes"/>
+      <point x="551" y="-142"/>
+      <point x="508" y="-60"/>
+      <point x="463" y="0" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni05C2" format="2">
+  <unicode hex="05C2"/>
+  <outline>
+    <contour>
+      <point x="361.578" y="1430" type="line"/>
+      <point x="511.578" y="1430" type="line"/>
+      <point x="482.422" y="1280" type="line"/>
+      <point x="332.422" y="1280" type="line"/>
+    </contour>
+  </outline>
+</glyph>

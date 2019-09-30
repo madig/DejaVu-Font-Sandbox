@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB24" format="2">
+  <advance width="1609"/>
+  <unicode hex="FB24"/>
+  <outline>
+    <contour>
+      <point x="305.706" y="1120" type="line"/>
+      <point x="1043.71" y="1120" type="line" smooth="yes"/>
+      <point x="1197.71" y="1120"/>
+      <point x="1423.07" y="1055"/>
+      <point x="1549.66" y="950"/>
+      <point x="1615.7" y="801"/>
+      <point x="1621.96" y="648"/>
+      <point x="1587.75" y="472"/>
+      <point x="1522.01" y="319"/>
+      <point x="1398.04" y="170"/>
+      <point x="1230.63" y="65"/>
+      <point x="981" y="0"/>
+      <point x="827" y="0" type="qcurve" smooth="yes"/>
+      <point x="88" y="0" type="line"/>
+      <point x="134.068" y="237" type="line"/>
+      <point x="873.068" y="237" type="line" smooth="yes"/>
+      <point x="955.068" y="237"/>
+      <point x="1083.48" y="270"/>
+      <point x="1168.17" y="325"/>
+      <point x="1229.7" y="410"/>
+      <point x="1263.38" y="501"/>
+      <point x="1286.32" y="619"/>
+      <point x="1288.01" y="710"/>
+      <point x="1259.53" y="795"/>
+      <point x="1196.22" y="850"/>
+      <point x="1080.64" y="883"/>
+      <point x="998.638" y="883" type="qcurve" smooth="yes"/>
+      <point x="259.638" y="883" type="line"/>
+    </contour>
+  </outline>
+</glyph>

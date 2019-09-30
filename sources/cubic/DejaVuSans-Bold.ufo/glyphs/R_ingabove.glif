@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ringabove" format="2">
+  <anchor x="-514" y="1147" name="_above-mark"/>
+  <anchor x="-514" y="1560" name="above-mark"/>
+  <anchor x="-514" y="1147" name="_above"/>
+  <outline>
+    <component base="ring" xOffset="-1026" yOffset="-260"/>
+  </outline>
+</glyph>

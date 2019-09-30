@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2802" format="2">
+  <advance width="1500"/>
+  <unicode hex="2802"/>
+  <outline>
+    <component base="brailledot" xOffset="300" yOffset="733"/>
+  </outline>
+</glyph>

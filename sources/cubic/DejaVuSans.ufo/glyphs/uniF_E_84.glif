@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE84" format="2">
+  <advance width="624"/>
+  <unicode hex="FE84"/>
+  <anchor x="285" y="-100" name="rtl-below"/>
+  <anchor x="285" y="2200" name="rtl-above"/>
+  <outline>
+    <component base="uniFE8E"/>
+    <component base="uni0654" xOffset="-227" yOffset="450"/>
+  </outline>
+</glyph>

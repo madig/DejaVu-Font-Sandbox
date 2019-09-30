@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni203B" format="2">
+  <advance width="1991"/>
+  <unicode hex="203B"/>
+  <outline>
+    <component base="multiply" xOffset="125" yOffset="193"/>
+    <component base="period" xOffset="-61" yOffset="653"/>
+    <component base="period" xOffset="601" yOffset="1310"/>
+    <component base="period" xOffset="601"/>
+    <component base="period" xOffset="1274" yOffset="653"/>
+  </outline>
+</glyph>

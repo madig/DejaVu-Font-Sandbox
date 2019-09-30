@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03070304" format="2">
+  <advance width="1400"/>
+  <outline>
+    <component base="Dotaccent" xOffset="1059" yOffset="344"/>
+    <component base="macron" xOffset="80" yOffset="574"/>
+  </outline>
+</glyph>

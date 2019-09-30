@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni210D" format="2">
+  <advance width="1818"/>
+  <unicode hex="210D"/>
+  <anchor x="909" y="0" name="below"/>
+  <anchor x="909" y="1520" name="above"/>
+  <outline>
+    <contour>
+      <point x="1313" y="1373" type="line"/>
+      <point x="1313" y="120" type="line"/>
+      <point x="1493" y="120" type="line"/>
+      <point x="1493" y="1373" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="1373" type="line"/>
+      <point x="325" y="120" type="line"/>
+      <point x="505" y="120" type="line"/>
+      <point x="505" y="1373" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="1493" type="line"/>
+      <point x="625" y="1493" type="line"/>
+      <point x="625" y="856" type="line"/>
+      <point x="1193" y="856" type="line"/>
+      <point x="1193" y="1493" type="line"/>
+      <point x="1613" y="1493" type="line"/>
+      <point x="1613" y="0" type="line"/>
+      <point x="1193" y="0" type="line"/>
+      <point x="1193" y="736" type="line"/>
+      <point x="625" y="736" type="line"/>
+      <point x="625" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

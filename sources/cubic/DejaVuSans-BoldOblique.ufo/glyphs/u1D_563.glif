@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1D563" format="2">
+  <advance width="1069"/>
+  <unicode hex="1D563"/>
+  <anchor x="382" y="0" name="below"/>
+  <anchor x="659" y="1147" name="above"/>
+  <outline>
+    <contour>
+      <point x="292" y="1000" type="line"/>
+      <point x="292" y="120" type="line"/>
+      <point x="472" y="120" type="line"/>
+      <point x="472" y="1000" type="line"/>
+    </contour>
+    <contour>
+      <point x="1066" y="955" type="line"/>
+      <point x="1019" y="977"/>
+      <point x="926" y="998"/>
+      <point x="879" y="998" type="qcurve" smooth="yes"/>
+      <point x="741" y="998"/>
+      <point x="592" y="821"/>
+      <point x="592" y="656" type="qcurve" smooth="yes"/>
+      <point x="592" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="172" y="1120" type="line"/>
+      <point x="592" y="1120" type="line"/>
+      <point x="592" y="936" type="line"/>
+      <point x="661" y="1046"/>
+      <point x="840" y="1147"/>
+      <point x="965" y="1147" type="qcurve" smooth="yes"/>
+      <point x="983" y="1147"/>
+      <point x="1025" y="1144"/>
+      <point x="1065" y="1139" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

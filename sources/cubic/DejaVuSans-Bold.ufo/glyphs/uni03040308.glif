@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni03040308" format="2">
+  <advance width="1400"/>
+  <outline>
+    <component base="Dieresis" xOffset="1212" yOffset="611"/>
+    <component base="macron" xOffset="188" yOffset="256"/>
+  </outline>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0652" format="2">
+  <unicode hex="0652"/>
+  <anchor x="512" y="1200" name="_rtl-above-mark"/>
+  <anchor x="512" y="1200" name="_rtl-above"/>
+  <anchor x="512" y="1200" name="_Ligature rtl-above"/>
+  <anchor x="512" y="1850" name="rtl-above-mark"/>
+  <outline>
+    <contour>
+      <point x="619.439" y="1523.86" type="qcurve" smooth="yes"/>
+      <point x="619.439" y="1569.22"/>
+      <point x="556.08" y="1632.58"/>
+      <point x="510" y="1632.58" type="qcurve" smooth="yes"/>
+      <point x="463.2" y="1632.58"/>
+      <point x="400.561" y="1569.94"/>
+      <point x="400.561" y="1523.86" type="qcurve" smooth="yes"/>
+      <point x="400.561" y="1477.06"/>
+      <point x="463.2" y="1414.42"/>
+      <point x="510" y="1414.42" type="qcurve" smooth="yes"/>
+      <point x="556.08" y="1414.42"/>
+      <point x="619.439" y="1477.78"/>
+    </contour>
+    <contour>
+      <point x="784" y="1409"/>
+      <point x="625" y="1249"/>
+      <point x="395" y="1249"/>
+      <point x="236" y="1409"/>
+      <point x="236" y="1639"/>
+      <point x="395" y="1798"/>
+      <point x="625" y="1798"/>
+      <point x="784" y="1639"/>
+    </contour>
+  </outline>
+</glyph>

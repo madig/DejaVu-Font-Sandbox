@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Grave" format="2">
+  <anchor x="-380" y="1147" name="_above-mark"/>
+  <anchor x="-380" y="1147" name="_above"/>
+  <outline>
+    <contour>
+      <point x="-377" y="1526" type="line"/>
+      <point x="-229" y="1262" type="line"/>
+      <point x="-369" y="1262" type="line"/>
+      <point x="-559" y="1526" type="line"/>
+    </contour>
+  </outline>
+</glyph>

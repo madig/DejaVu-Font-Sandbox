@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE21" format="2">
+  <unicode hex="FE21"/>
+  <anchor x="295" y="1520" name="_half"/>
+  <outline>
+    <contour>
+      <point x="340" y="1748" type="qcurve"/>
+      <point x="370" y="1902" type="line"/>
+      <point x="593" y="1902"/>
+      <point x="1023" y="1785"/>
+      <point x="1236" y="1666" type="qcurve"/>
+      <point x="1211" y="1540" type="line"/>
+      <point x="1002" y="1645"/>
+      <point x="571" y="1748"/>
+    </contour>
+  </outline>
+</glyph>

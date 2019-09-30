@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB29" format="2">
+  <advance width="1716"/>
+  <unicode hex="FB29"/>
+  <outline>
+    <contour>
+      <point x="1607.27" y="557" type="line"/>
+      <point x="325.27" y="557" type="line"/>
+      <point x="358.314" y="727" type="line"/>
+      <point x="915.314" y="727" type="line"/>
+      <point x="1023.58" y="1284" type="line"/>
+      <point x="1191.58" y="1284" type="line"/>
+      <point x="1083.31" y="727" type="line"/>
+      <point x="1640.31" y="727" type="line"/>
+    </contour>
+  </outline>
+</glyph>

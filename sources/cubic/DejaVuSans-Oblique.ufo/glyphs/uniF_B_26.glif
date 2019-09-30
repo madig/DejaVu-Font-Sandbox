@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB26" format="2">
+  <advance width="1751"/>
+  <unicode hex="FB26"/>
+  <outline>
+    <contour>
+      <point x="1565" y="0" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="403.706" y="1120" type="line"/>
+      <point x="1224.71" y="1120" type="line" smooth="yes"/>
+      <point x="1387.71" y="1120"/>
+      <point x="1587.04" y="1060"/>
+      <point x="1690.05" y="916"/>
+      <point x="1700.87" y="699"/>
+      <point x="1668.41" y="532" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="561.909" y="977" type="line"/>
+      <point x="399.797" y="143" type="line"/>
+      <point x="1406.8" y="143" type="line"/>
+      <point x="1482.41" y="532" type="line" smooth="yes"/>
+      <point x="1500.68" y="626"/>
+      <point x="1513.95" y="756"/>
+      <point x="1501.17" y="860"/>
+      <point x="1462.02" y="921"/>
+      <point x="1382.99" y="962"/>
+      <point x="1276.91" y="977"/>
+      <point x="1197.91" y="977" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

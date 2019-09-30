@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2149.dotless" format="2">
+  <advance width="702"/>
+  <outline>
+    <contour>
+      <point x="53" y="-315" type="qcurve"/>
+      <point x="146" y="-299"/>
+      <point x="208" y="-242" type="qcurve" smooth="yes"/>
+      <point x="302" y="-157"/>
+      <point x="337" y="20" type="qcurve" smooth="yes"/>
+      <point x="527" y="1000" type="line"/>
+      <point x="347" y="1000" type="line"/>
+      <point x="145" y="-40" type="line" smooth="yes"/>
+      <point x="108" y="-231"/>
+    </contour>
+    <contour>
+      <point x="250" y="1120" type="line"/>
+      <point x="670" y="1120" type="line"/>
+      <point x="457" y="20" type="line" smooth="yes"/>
+      <point x="413" y="-204"/>
+      <point x="150" y="-442"/>
+      <point x="-55" y="-442" type="qcurve" smooth="yes"/>
+      <point x="-293" y="-442" type="line"/>
+      <point x="-270" y="-327" type="line"/>
+      <point x="-208" y="-327" type="line" smooth="yes"/>
+      <point x="-106" y="-327"/>
+      <point x="-13" y="-235"/>
+      <point x="25" y="-40" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

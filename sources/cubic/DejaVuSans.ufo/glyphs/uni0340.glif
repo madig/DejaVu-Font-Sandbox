@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0340" format="2">
+  <unicode hex="0340"/>
+  <anchor x="-512" y="1147" name="_above"/>
+  <anchor x="-512" y="1640" name="above-mark"/>
+  <anchor x="-512" y="1147" name="_above-mark"/>
+  <outline>
+    <component base="grave" xOffset="-1026"/>
+  </outline>
+</glyph>

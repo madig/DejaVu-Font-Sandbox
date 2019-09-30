@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni146B" format="2">
+  <advance width="1522"/>
+  <unicode hex="146B"/>
+  <outline>
+    <contour>
+      <point x="1334" y="1006" type="qcurve" smooth="yes"/>
+      <point x="1334" y="0" type="line"/>
+      <point x="949" y="0" type="line"/>
+      <point x="949" y="527.075" type="line"/>
+      <point x="846.441" y="503"/>
+      <point x="716" y="503" type="qcurve" smooth="yes"/>
+      <point x="389" y="503"/>
+      <point x="84" y="756"/>
+      <point x="84" y="1006" type="qcurve" smooth="yes"/>
+      <point x="84" y="1261.96"/>
+      <point x="415.742" y="1522"/>
+      <point x="716" y="1522" type="qcurve" smooth="yes"/>
+      <point x="982.57" y="1522"/>
+      <point x="1334" y="1255"/>
+    </contour>
+    <contour>
+      <point x="716.5" y="1243" type="qcurve" smooth="yes"/>
+      <point x="622.204" y="1243"/>
+      <point x="481" y="1121"/>
+      <point x="481" y="1006" type="qcurve" smooth="yes"/>
+      <point x="481" y="898.128"/>
+      <point x="603.482" y="782"/>
+      <point x="719" y="782" type="qcurve" smooth="yes"/>
+      <point x="827" y="782"/>
+      <point x="949" y="891"/>
+      <point x="949" y="1121"/>
+      <point x="811" y="1243"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0347" format="2">
+  <unicode hex="0347"/>
+  <anchor x="-460.295" y="-1" name="_below"/>
+  <anchor x="-460.295" y="-1" name="_Ligature below"/>
+  <outline>
+    <contour>
+      <point x="-324.904" y="-462" type="line"/>
+      <point x="-774.904" y="-462" type="line"/>
+      <point x="-751.578" y="-342" type="line"/>
+      <point x="-301.578" y="-342" type="line"/>
+    </contour>
+    <contour>
+      <point x="-272.422" y="-192" type="line"/>
+      <point x="-722.422" y="-192" type="line"/>
+      <point x="-699.096" y="-72" type="line"/>
+      <point x="-249.096" y="-72" type="line"/>
+    </contour>
+  </outline>
+</glyph>

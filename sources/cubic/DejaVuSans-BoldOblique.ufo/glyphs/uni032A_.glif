@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni032A" format="2">
+  <unicode hex="032A"/>
+  <anchor x="-549" y="-486" name="below-mark"/>
+  <anchor x="-454" y="0" name="_below-mark"/>
+  <anchor x="-454" y="0" name="_below"/>
+  <outline>
+    <contour>
+      <point x="-163" y="-111" type="line"/>
+      <point x="-235" y="-485" type="line"/>
+      <point x="-423" y="-485" type="line"/>
+      <point x="-387" y="-299" type="line"/>
+      <point x="-641" y="-299" type="line"/>
+      <point x="-677" y="-485" type="line"/>
+      <point x="-865" y="-485" type="line"/>
+      <point x="-793" y="-111" type="line"/>
+    </contour>
+  </outline>
+</glyph>

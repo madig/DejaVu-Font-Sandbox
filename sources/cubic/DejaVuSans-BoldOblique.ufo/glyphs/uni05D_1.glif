@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni05D1" format="2">
+  <advance width="1249"/>
+  <unicode hex="05D1"/>
+  <anchor x="737.317" y="1118" name="rtl-above"/>
+  <anchor x="484.853" y="560" name="rtl-inside"/>
+  <anchor x="604" y="0" name="rtl-below"/>
+  <outline>
+    <contour>
+      <point x="726.263" y="238" type="line"/>
+      <point x="797.017" y="602" type="line" smooth="yes"/>
+      <point x="808.097" y="659"/>
+      <point x="815.675" y="734"/>
+      <point x="805.448" y="810"/>
+      <point x="769.001" y="854"/>
+      <point x="695.443" y="882"/>
+      <point x="638.443" y="882" type="qcurve" smooth="yes"/>
+      <point x="259.443" y="882" type="line"/>
+      <point x="305.706" y="1120" type="line"/>
+      <point x="684.706" y="1120" type="line" smooth="yes"/>
+      <point x="814.706" y="1120"/>
+      <point x="994.765" y="1074"/>
+      <point x="1101.05" y="988"/>
+      <point x="1147.03" y="849"/>
+      <point x="1143.76" y="683"/>
+      <point x="1121.6" y="569" type="qcurve" smooth="yes"/>
+      <point x="1057.26" y="238" type="line"/>
+      <point x="1207.26" y="238" type="line"/>
+      <point x="1161" y="0" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="134.263" y="238" type="line"/>
+    </contour>
+  </outline>
+</glyph>

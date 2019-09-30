@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni033D" format="2">
+  <unicode hex="033D"/>
+  <anchor x="-512" y="1270" name="_above-mark"/>
+  <anchor x="-512" y="1681" name="above-mark"/>
+  <anchor x="-512" y="1147" name="_above"/>
+  <outline>
+    <contour>
+      <point x="-514" y="1329" type="line"/>
+      <point x="-643" y="1199" type="line"/>
+      <point x="-777" y="1333" type="line"/>
+      <point x="-648" y="1462" type="line"/>
+      <point x="-777" y="1592" type="line"/>
+      <point x="-643" y="1725" type="line"/>
+      <point x="-514" y="1596" type="line"/>
+      <point x="-385" y="1725" type="line"/>
+      <point x="-251" y="1592" type="line"/>
+      <point x="-380" y="1462" type="line"/>
+      <point x="-251" y="1333" type="line"/>
+      <point x="-385" y="1199" type="line"/>
+    </contour>
+  </outline>
+</glyph>

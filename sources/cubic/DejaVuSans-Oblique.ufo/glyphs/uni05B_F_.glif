@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni05BF" format="2">
+  <unicode hex="05BF"/>
+  <anchor x="609.32" y="1120" name="_rtl-above"/>
+  <outline>
+    <contour>
+      <point x="369.578" y="1430" type="line"/>
+      <point x="969.578" y="1430" type="line"/>
+      <point x="940.422" y="1280" type="line"/>
+      <point x="340.422" y="1280" type="line"/>
+    </contour>
+  </outline>
+</glyph>

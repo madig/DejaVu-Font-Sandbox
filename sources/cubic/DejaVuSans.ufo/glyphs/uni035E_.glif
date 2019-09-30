@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni035E" format="2">
+  <unicode hex="035E"/>
+  <anchor x="0" y="1902" name="above-mark"/>
+  <outline>
+    <contour>
+      <point x="-912" y="1899" type="line"/>
+      <point x="912" y="1899" type="line"/>
+      <point x="912" y="1751" type="line"/>
+      <point x="-912" y="1751" type="line"/>
+    </contour>
+  </outline>
+</glyph>

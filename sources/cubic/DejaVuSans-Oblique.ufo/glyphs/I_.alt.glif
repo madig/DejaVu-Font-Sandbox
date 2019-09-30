@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.alt" format="2">
+  <advance width="908"/>
+  <anchor x="310" y="0" name="below"/>
+  <anchor x="605" y="1520" name="above"/>
+  <outline>
+    <contour>
+      <point x="295" y="1493" type="line"/>
+      <point x="901" y="1493" type="line"/>
+      <point x="868" y="1323" type="line"/>
+      <point x="667" y="1323" type="line"/>
+      <point x="443" y="170" type="line"/>
+      <point x="645" y="170" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="6" y="0" type="line"/>
+      <point x="39" y="170" type="line"/>
+      <point x="240" y="170" type="line"/>
+      <point x="464" y="1323" type="line"/>
+      <point x="262" y="1323" type="line"/>
+    </contour>
+  </outline>
+</glyph>

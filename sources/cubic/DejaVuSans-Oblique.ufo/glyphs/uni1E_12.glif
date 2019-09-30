@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E12" format="2">
+  <advance width="1577"/>
+  <unicode hex="1E12"/>
+  <anchor x="867" y="1520" name="above"/>
+  <anchor x="509" y="-492" name="below"/>
+  <anchor x="295" y="1520" name="half"/>
+  <anchor x="-600" y="0" name="_cedilla"/>
+  <anchor x="-721" y="-396" name="below-mark"/>
+  <outline>
+    <component base="uni032D" xOffset="1056" yOffset="1"/>
+    <component base="D"/>
+  </outline>
+</glyph>

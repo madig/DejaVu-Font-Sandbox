@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni025B" format="2">
+  <advance width="1107"/>
+  <unicode hex="025B"/>
+  <anchor x="586" y="0" name="cedilla"/>
+  <anchor x="0" y="1520" name="half"/>
+  <anchor x="586" y="0" name="below"/>
+  <anchor x="586" y="1148" name="above"/>
+  <outline>
+    <component base="epsilon"/>
+  </outline>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longs" format="2">
+  <advance width="891"/>
+  <unicode hex="017F"/>
+  <anchor x="494" y="1520" name="above"/>
+  <anchor x="394" y="0" name="below"/>
+  <anchor x="0" y="1520" name="half"/>
+  <outline>
+    <contour>
+      <point x="575" y="0" type="line"/>
+      <point x="217" y="0" type="line"/>
+      <point x="217" y="864" type="line"/>
+      <point x="39" y="864" type="line"/>
+      <point x="39" y="1120" type="line"/>
+      <point x="217" y="1120" type="line"/>
+      <point x="217" y="1198" type="line" smooth="yes"/>
+      <point x="217" y="1381"/>
+      <point x="421" y="1556"/>
+      <point x="635" y="1556" type="qcurve" smooth="yes"/>
+      <point x="909" y="1556" type="line"/>
+      <point x="909" y="1321" type="line"/>
+      <point x="711" y="1321" type="line" smooth="yes"/>
+      <point x="635" y="1321"/>
+      <point x="605" y="1293.5" type="qcurve" smooth="yes"/>
+      <point x="575" y="1265.29"/>
+      <point x="575" y="1198" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E0A" format="2">
+  <advance width="1577"/>
+  <unicode hex="1E0A"/>
+  <anchor x="748" y="1872" name="above-legacy"/>
+  <anchor x="748" y="0" name="below"/>
+  <anchor x="0" y="1520" name="half"/>
+  <outline>
+    <component base="Dotaccent" xOffset="1260" yOffset="373"/>
+    <component base="D"/>
+  </outline>
+</glyph>

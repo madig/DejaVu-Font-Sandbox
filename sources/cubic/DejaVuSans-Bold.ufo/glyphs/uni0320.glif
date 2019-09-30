@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0320" format="2">
+  <unicode hex="0320"/>
+  <anchor x="-512" y="-346" name="below-mark"/>
+  <anchor x="-512" y="200" name="_below-mark"/>
+  <anchor x="-512" y="-3" name="_below"/>
+  <outline>
+    <contour>
+      <point x="-796" y="-414" type="line"/>
+      <point x="-796" y="-225" type="line"/>
+      <point x="-241" y="-225" type="line"/>
+      <point x="-241" y="-414" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DBA" format="2">
+  <advance width="1026"/>
+  <unicode hex="1DBA"/>
+  <outline>
+    <contour>
+      <point x="851" y="668" type="line"/>
+      <point x="625" y="668" type="line"/>
+      <point x="533" y="1101" type="line"/>
+      <point x="274" y="668" type="line"/>
+      <point x="48" y="668" type="line"/>
+      <point x="448" y="1295" type="line"/>
+      <point x="695" y="1295" type="line"/>
+    </contour>
+  </outline>
+</glyph>

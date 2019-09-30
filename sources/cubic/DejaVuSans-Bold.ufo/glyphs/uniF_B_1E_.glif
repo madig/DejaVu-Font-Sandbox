@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB1E" format="2">
+  <unicode hex="FB1E"/>
+  <anchor x="707" y="1120" name="_rtl-above"/>
+  <anchor x="707" y="1120" name="_Ligature rtl-above"/>
+  <outline>
+    <contour>
+      <point x="373" y="1597" type="qcurve"/>
+      <point x="516" y="1597" type="line"/>
+      <point x="527" y="1527"/>
+      <point x="626" y="1453"/>
+      <point x="792" y="1453"/>
+      <point x="891" y="1527"/>
+      <point x="902" y="1597" type="qcurve"/>
+      <point x="1045" y="1597" type="line"/>
+      <point x="1039" y="1453"/>
+      <point x="865" y="1300"/>
+      <point x="553" y="1300"/>
+      <point x="379" y="1453"/>
+    </contour>
+  </outline>
+</glyph>

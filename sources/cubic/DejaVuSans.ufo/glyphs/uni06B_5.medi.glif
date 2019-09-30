@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni06B5.medi" format="2">
+  <advance width="678"/>
+  <anchor x="339" y="-100" name="rtl-below"/>
+  <anchor x="339" y="2100" name="rtl-above"/>
+  <outline>
+    <component base="uni065A" xOffset="-173" yOffset="400"/>
+    <component base="uniFEE0"/>
+  </outline>
+</glyph>

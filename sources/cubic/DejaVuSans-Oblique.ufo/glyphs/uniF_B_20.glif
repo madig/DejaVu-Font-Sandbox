@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB20" format="2">
+  <advance width="1302"/>
+  <unicode hex="FB20"/>
+  <outline>
+    <contour>
+      <point x="572.706" y="1120" type="line"/>
+      <point x="582.405" y="177" type="line"/>
+      <point x="832.353" y="177"/>
+      <point x="956.4" y="340.158" type="qcurve" smooth="yes"/>
+      <point x="1041.93" y="452.648"/>
+      <point x="1097.03" y="694.68" type="qcurve" smooth="yes"/>
+      <point x="1110.72" y="754.788"/>
+      <point x="1133.69" y="873" type="qcurve" smooth="yes"/>
+      <point x="1181.71" y="1120" type="line"/>
+      <point x="1367.71" y="1120" type="line"/>
+      <point x="1309.78" y="822" type="line" smooth="yes"/>
+      <point x="1287.23" y="706"/>
+      <point x="1237.86" y="524"/>
+      <point x="1165.64" y="348"/>
+      <point x="1076.57" y="219"/>
+      <point x="953.993" y="108"/>
+      <point x="801.581" y="39"/>
+      <point x="604" y="0"/>
+      <point x="484" y="0" type="qcurve" smooth="yes"/>
+      <point x="78" y="0" type="line"/>
+      <point x="112.405" y="177" type="line"/>
+      <point x="388.405" y="177" type="line"/>
+      <point x="378.706" y="1120" type="line"/>
+    </contour>
+  </outline>
+</glyph>

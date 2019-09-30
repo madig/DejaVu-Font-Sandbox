@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dco" format="2">
+  <advance width="531"/>
+  <outline>
+    <contour>
+      <point x="166.887" y="570" type="line"/>
+      <point x="377.887" y="570" type="line"/>
+      <point x="328.514" y="316" type="line"/>
+      <point x="117.514" y="316" type="line"/>
+    </contour>
+    <contour>
+      <point x="284.486" y="1175" type="line"/>
+      <point x="495.486" y="1175" type="line"/>
+      <point x="446.113" y="921" type="line"/>
+      <point x="235.113" y="921" type="line"/>
+    </contour>
+  </outline>
+</glyph>

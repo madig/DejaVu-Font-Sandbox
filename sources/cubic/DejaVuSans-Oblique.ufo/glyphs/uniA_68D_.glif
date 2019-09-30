@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniA68D" format="2">
+  <advance width="1193"/>
+  <unicode hex="A68D"/>
+  <anchor x="710" y="1147" name="above"/>
+  <outline>
+    <contour>
+      <point x="169" y="1120" type="line"/>
+      <point x="1242" y="1120" type="line"/>
+      <point x="1213" y="973" type="line"/>
+      <point x="764.382" y="973" type="line"/>
+      <point x="654" y="406" type="line" smooth="yes"/>
+      <point x="624" y="253"/>
+      <point x="681" y="156"/>
+      <point x="786" y="156" type="qcurve" smooth="yes"/>
+      <point x="835" y="156" type="line"/>
+      <point x="805" y="0" type="line"/>
+      <point x="735" y="0" type="line" smooth="yes"/>
+      <point x="554" y="0"/>
+      <point x="428.261" y="191.602"/>
+      <point x="470" y="406" type="qcurve" smooth="yes"/>
+      <point x="580.382" y="973" type="line"/>
+      <point x="140" y="973" type="line"/>
+    </contour>
+  </outline>
+</glyph>

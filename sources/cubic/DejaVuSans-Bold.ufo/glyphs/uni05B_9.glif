@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni05B9" format="2">
+  <unicode hex="05B9"/>
+  <anchor x="50" y="1120" name="_Ligature rtl-above"/>
+  <anchor x="50" y="1120" name="_rtl-above"/>
+  <outline>
+    <contour>
+      <point x="-50" y="1480" type="line"/>
+      <point x="150" y="1480" type="line"/>
+      <point x="150" y="1280" type="line"/>
+      <point x="-50" y="1280" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="1120" type="move"/>
+    </contour>
+  </outline>
+</glyph>

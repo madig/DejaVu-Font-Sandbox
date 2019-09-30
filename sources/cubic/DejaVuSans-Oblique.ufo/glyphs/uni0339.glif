@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0339" format="2">
+  <unicode hex="0339"/>
+  <anchor x="-457.962" y="-2" name="_below"/>
+  <anchor x="-457.962" y="-2" name="_Ligature below"/>
+  <anchor x="-564.482" y="-550" name="below-mark"/>
+  <anchor x="-457.573" y="0" name="_below-mark"/>
+  <outline>
+    <contour>
+      <point x="-554.402" y="-66" type="line"/>
+      <point x="-464.402" y="-66"/>
+      <point x="-377.65" y="-174.765"/>
+      <point x="-377.65" y="-236.098" type="qcurve" smooth="yes"/>
+      <point x="-377.65" y="-351.711"/>
+      <point x="-473.546" y="-432" type="qcurve" smooth="yes"/>
+      <point x="-547.598" y="-494"/>
+      <point x="-637.598" y="-494" type="qcurve"/>
+      <point x="-614.271" y="-374" type="line"/>
+      <point x="-574.271" y="-374"/>
+      <point x="-542.621" y="-347.5" type="qcurve" smooth="yes"/>
+      <point x="-501.313" y="-312.915"/>
+      <point x="-501.313" y="-273.92" type="qcurve" smooth="yes"/>
+      <point x="-501.313" y="-189"/>
+      <point x="-578.312" y="-189" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

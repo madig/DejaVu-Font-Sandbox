@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="propersuperset" format="2">
+  <advance width="1716"/>
+  <unicode hex="2283"/>
+  <outline>
+    <contour>
+      <point x="1025.5" y="1144" type="line" smooth="yes"/>
+      <point x="1229.5" y="1144"/>
+      <point x="1370.5" y="1002" type="qcurve" smooth="yes"/>
+      <point x="1512.5" y="858"/>
+      <point x="1512.5" y="641" type="qcurve" smooth="yes"/>
+      <point x="1512.5" y="418.999"/>
+      <point x="1370.5" y="275" type="qcurve" smooth="yes"/>
+      <point x="1230.5" y="133"/>
+      <point x="1024.5" y="133" type="qcurve" smooth="yes"/>
+      <point x="203.5" y="133" type="line"/>
+      <point x="203.5" y="358" type="line"/>
+      <point x="1025.5" y="358" type="line" smooth="yes"/>
+      <point x="1128.17" y="358"/>
+      <point x="1211.5" y="435" type="qcurve" smooth="yes"/>
+      <point x="1287.5" y="504.305"/>
+      <point x="1287.5" y="641" type="qcurve" smooth="yes"/>
+      <point x="1287.5" y="765"/>
+      <point x="1135.5" y="919"/>
+      <point x="1025.5" y="919" type="qcurve" smooth="yes"/>
+      <point x="203.5" y="919" type="line"/>
+      <point x="203.5" y="1144" type="line"/>
+    </contour>
+  </outline>
+</glyph>

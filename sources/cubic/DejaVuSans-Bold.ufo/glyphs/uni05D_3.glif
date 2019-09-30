@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni05D3" format="2">
+  <advance width="1204"/>
+  <unicode hex="05D3"/>
+  <anchor x="341" y="560" name="rtl-inside"/>
+  <anchor x="756" y="0" name="rtl-below"/>
+  <outline>
+    <contour>
+      <point x="1116" y="882" type="line"/>
+      <point x="938" y="882" type="line"/>
+      <point x="938" y="0" type="line"/>
+      <point x="607" y="0" type="line"/>
+      <point x="607" y="882" type="line"/>
+      <point x="88" y="882" type="line"/>
+      <point x="88" y="1120" type="line"/>
+      <point x="1116" y="1120" type="line"/>
+    </contour>
+  </outline>
+</glyph>

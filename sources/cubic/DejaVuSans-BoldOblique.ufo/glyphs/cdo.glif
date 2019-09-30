@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cdo" format="2">
+  <advance width="634"/>
+  <outline>
+    <contour>
+      <point x="269.445" y="1165" type="line"/>
+      <point x="543.445" y="1165" type="line"/>
+      <point x="495.628" y="919" type="line"/>
+      <point x="221.628" y="919" type="line"/>
+    </contour>
+    <contour>
+      <point x="154.372" y="573" type="line"/>
+      <point x="428.372" y="573" type="line"/>
+      <point x="380.555" y="327" type="line"/>
+      <point x="106.555" y="327" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFB22" format="2">
+  <advance width="1614"/>
+  <unicode hex="FB22"/>
+  <outline>
+    <contour>
+      <point x="1498" y="882" type="line"/>
+      <point x="1315" y="882" type="line"/>
+      <point x="1315" y="0" type="line"/>
+      <point x="985" y="0" type="line"/>
+      <point x="985" y="882" type="line"/>
+      <point x="88" y="882" type="line"/>
+      <point x="88" y="1120" type="line"/>
+      <point x="1498" y="1120" type="line"/>
+    </contour>
+  </outline>
+</glyph>

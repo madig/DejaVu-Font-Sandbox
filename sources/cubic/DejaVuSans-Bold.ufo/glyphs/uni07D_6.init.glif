@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni07D6.init" format="2">
+  <advance width="1408"/>
+  <anchor x="696" y="0" name="rtl-below"/>
+  <anchor x="721" y="1520" name="rtl-above"/>
+  <outline>
+    <contour>
+      <point x="-20" y="0" type="line"/>
+      <point x="-20" y="256" type="line"/>
+      <point x="621" y="256" type="line"/>
+      <point x="604" y="343"/>
+      <point x="551" y="457" type="qcurve" smooth="yes"/>
+      <point x="172" y="1276" type="line"/>
+      <point x="172" y="1493" type="line"/>
+      <point x="1236" y="1493" type="line"/>
+      <point x="1236" y="1237" type="line"/>
+      <point x="578" y="1237" type="line"/>
+      <point x="727" y="935" type="line" smooth="yes"/>
+      <point x="881" y="622"/>
+      <point x="920" y="506" type="qcurve" smooth="yes"/>
+      <point x="965" y="375"/>
+      <point x="981" y="308" type="qcurve" smooth="yes"/>
+      <point x="1013" y="170"/>
+      <point x="1013" y="0" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

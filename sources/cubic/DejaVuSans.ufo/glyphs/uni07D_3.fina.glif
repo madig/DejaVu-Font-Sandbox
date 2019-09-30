@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni07D3.fina" format="2">
+  <advance width="897"/>
+  <anchor x="531" y="1520" name="rtl-above"/>
+  <anchor x="278" y="0" name="rtl-below"/>
+  <outline>
+    <contour>
+      <point x="193" y="0" type="line"/>
+      <point x="193" y="1493" type="line"/>
+      <point x="836" y="1493" type="line"/>
+      <point x="836" y="1346" type="line"/>
+      <point x="377" y="1346" type="line"/>
+      <point x="377" y="881" type="line"/>
+      <point x="836" y="881" type="line"/>
+      <point x="836" y="735" type="line"/>
+      <point x="377" y="735" type="line"/>
+      <point x="377" y="147" type="line"/>
+      <point x="917" y="147" type="line"/>
+      <point x="917" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

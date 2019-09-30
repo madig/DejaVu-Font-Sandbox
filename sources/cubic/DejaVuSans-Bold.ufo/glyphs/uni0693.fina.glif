@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0693.fina" format="2">
+  <advance width="1274"/>
+  <anchor x="800" y="750" name="rtl-above"/>
+  <anchor x="600" y="-550" name="rtl-below"/>
+  <outline>
+    <component base="arabic_ring" xOffset="765" yOffset="-500"/>
+    <component base="uniFEAE"/>
+  </outline>
+</glyph>

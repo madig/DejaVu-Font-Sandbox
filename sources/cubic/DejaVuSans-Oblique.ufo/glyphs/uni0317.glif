@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0317" format="2">
+  <unicode hex="0317"/>
+  <anchor x="-324" y="-7" name="_below"/>
+  <anchor x="-324" y="-7" name="_Ligature below"/>
+  <outline>
+    <component base="acute" xOffset="-1026" yOffset="-1809"/>
+  </outline>
+</glyph>

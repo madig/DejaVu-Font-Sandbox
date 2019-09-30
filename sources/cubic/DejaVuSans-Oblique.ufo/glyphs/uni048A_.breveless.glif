@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni048A.breveless" format="2">
+  <advance width="1532"/>
+  <outline>
+    <contour>
+      <point x="1219" y="170" type="line"/>
+      <point x="1420" y="170" type="line"/>
+      <point x="1387" y="0" type="line"/>
+      <point x="938" y="-426" type="line"/>
+      <point x="804" y="-426" type="line"/>
+      <point x="1186" y="0" type="line"/>
+      <point x="990" y="0" type="line"/>
+      <point x="1233" y="1249" type="line"/>
+      <point x="328" y="0" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="346" y="1493" type="line"/>
+      <point x="542" y="1493" type="line"/>
+      <point x="299" y="244" type="line"/>
+      <point x="1204" y="1493" type="line"/>
+      <point x="1476" y="1493" type="line"/>
+    </contour>
+  </outline>
+</glyph>

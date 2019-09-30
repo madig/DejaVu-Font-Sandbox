@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="integraltp" format="2">
+  <advance width="1249"/>
+  <unicode hex="2320"/>
+  <outline>
+    <contour>
+      <point x="481" y="-512" type="line"/>
+      <point x="481" y="759" type="line" smooth="yes"/>
+      <point x="484" y="860"/>
+      <point x="485" y="913" type="qcurve" smooth="yes"/>
+      <point x="502" y="1436"/>
+      <point x="729" y="1896"/>
+      <point x="965" y="1896" type="qcurve" smooth="yes"/>
+      <point x="1070" y="1896"/>
+      <point x="1200" y="1790"/>
+      <point x="1200" y="1706" type="qcurve" smooth="yes"/>
+      <point x="1200" y="1642"/>
+      <point x="1118" y="1563"/>
+      <point x="1053" y="1563" type="qcurve" smooth="yes"/>
+      <point x="989" y="1563"/>
+      <point x="924" y="1640"/>
+      <point x="924" y="1714" type="qcurve" smooth="yes"/>
+      <point x="924" y="1752"/>
+      <point x="909" y="1774"/>
+      <point x="891" y="1774" type="qcurve" smooth="yes"/>
+      <point x="790" y="1774"/>
+      <point x="767" y="1107" type="qcurve" smooth="yes"/>
+      <point x="765" y="1047"/>
+      <point x="764" y="1016" type="qcurve" smooth="yes"/>
+      <point x="764" y="-512" type="line"/>
+    </contour>
+  </outline>
+</glyph>

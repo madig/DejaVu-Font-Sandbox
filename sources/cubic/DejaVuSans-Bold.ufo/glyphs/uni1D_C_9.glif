@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DC9" format="2">
+  <unicode hex="1DC9"/>
+  <anchor x="-514" y="1147" name="_above"/>
+  <anchor x="-514" y="1638" name="above-mark"/>
+  <anchor x="-514" y="1147" name="_above-mark"/>
+  <outline>
+    <contour>
+      <point x="-233" y="1262" type="line"/>
+      <point x="-475" y="1262" type="line"/>
+      <point x="-674" y="1487" type="line"/>
+      <point x="-873" y="1262" type="line"/>
+      <point x="-1051" y="1262" type="line"/>
+      <point x="-795" y="1638" type="line"/>
+      <point x="-553" y="1638" type="line"/>
+      <point x="-354" y="1411" type="line"/>
+      <point x="-155" y="1638" type="line"/>
+      <point x="23" y="1638" type="line"/>
+    </contour>
+  </outline>
+</glyph>

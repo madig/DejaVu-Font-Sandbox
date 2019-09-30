@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni140A" format="2">
+  <advance width="1853"/>
+  <unicode hex="140A"/>
+  <outline>
+    <contour>
+      <point x="1328" y="995" type="line"/>
+      <point x="522" y="746" type="line"/>
+      <point x="1232" y="498" type="line"/>
+    </contour>
+    <contour>
+      <point x="1520" y="0" type="line"/>
+      <point x="127" y="517" type="line"/>
+      <point x="217" y="976" type="line"/>
+      <point x="1810" y="1493" type="line"/>
+    </contour>
+  </outline>
+</glyph>

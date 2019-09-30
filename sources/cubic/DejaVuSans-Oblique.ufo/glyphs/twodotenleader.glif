@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotenleader" format="2">
+  <advance width="1365"/>
+  <unicode hex="2025"/>
+  <outline>
+    <contour>
+      <point x="182" y="254" type="line"/>
+      <point x="393" y="254" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="133" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="864" y="254" type="line"/>
+      <point x="1075" y="254" type="line"/>
+      <point x="1026" y="0" type="line"/>
+      <point x="815" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

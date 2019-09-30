@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni07CB" format="2">
+  <advance width="1120"/>
+  <unicode hex="07CB"/>
+  <anchor x="560" y="1520" name="rtl-above"/>
+  <anchor x="560" y="0" name="rtl-below"/>
+  <outline>
+    <contour>
+      <point x="461" y="345"/>
+      <point x="519" y="206"/>
+      <point x="601" y="206"/>
+      <point x="659" y="345"/>
+      <point x="659" y="579"/>
+      <point x="601" y="718"/>
+      <point x="519" y="718"/>
+      <point x="461" y="579"/>
+    </contour>
+    <contour>
+      <point x="88" y="676"/>
+      <point x="365" y="953"/>
+      <point x="755" y="953"/>
+      <point x="1032" y="676"/>
+      <point x="1032" y="248"/>
+      <point x="755" y="-29"/>
+      <point x="365" y="-29"/>
+      <point x="88" y="248"/>
+    </contour>
+  </outline>
+</glyph>

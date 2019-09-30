@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0327" format="2">
+  <unicode hex="0327"/>
+  <anchor x="-721" y="-396" name="below-mark"/>
+  <anchor x="-600" y="0" name="_cedilla"/>
+  <outline>
+    <component base="cedilla" xOffset="-1024"/>
+  </outline>
+</glyph>

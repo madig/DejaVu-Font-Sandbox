@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFEDB" format="2">
+  <advance width="1191"/>
+  <unicode hex="FEDB"/>
+  <anchor x="350" y="1550" name="rtl-above"/>
+  <anchor x="400" y="-150" name="rtl-below"/>
+  <outline>
+    <contour>
+      <point x="498" y="0" type="qcurve" smooth="yes"/>
+      <point x="-20" y="0" type="line"/>
+      <point x="-20" y="256" type="line"/>
+      <point x="376" y="256" type="line" smooth="yes"/>
+      <point x="489.991" y="256"/>
+      <point x="507" y="295" type="qcurve" smooth="yes"/>
+      <point x="523.076" y="331"/>
+      <point x="523.076" y="367" type="qcurve" smooth="yes"/>
+      <point x="523.076" y="395.105"/>
+      <point x="445" y="495" type="qcurve" smooth="yes"/>
+      <point x="148" y="875" type="line" smooth="yes"/>
+      <point x="98.4473" y="938.401"/>
+      <point x="98.4473" y="1017" type="qcurve" smooth="yes"/>
+      <point x="98.4473" y="1052"/>
+      <point x="108" y="1085" type="qcurve" smooth="yes"/>
+      <point x="141.677" y="1212.87"/>
+      <point x="243" y="1246" type="qcurve" smooth="yes"/>
+      <point x="1191" y="1556" type="line"/>
+      <point x="1191" y="1300" type="line"/>
+      <point x="620" y="1101" type="line" smooth="yes"/>
+      <point x="552.041" y="1077.32"/>
+      <point x="528" y="1031" type="qcurve" smooth="yes"/>
+      <point x="522.097" y="1019.63"/>
+      <point x="522.097" y="995" type="qcurve" smooth="yes"/>
+      <point x="522.097" y="967.581"/>
+      <point x="553" y="926" type="qcurve" smooth="yes"/>
+      <point x="784.133" y="615" type="line" smooth="yes"/>
+      <point x="940" y="405.274"/>
+      <point x="940" y="315" type="qcurve" smooth="yes"/>
+      <point x="940" y="146.71"/>
+      <point x="839" y="75" type="qcurve" smooth="yes"/>
+      <point x="733.366" y="0"/>
+    </contour>
+  </outline>
+</glyph>

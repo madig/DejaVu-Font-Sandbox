@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve" format="2">
+  <advance width="569"/>
+  <unicode hex="012D"/>
+  <anchor x="287" y="0" name="below"/>
+  <anchor x="287" y="0" name="cedilla"/>
+  <outline>
+    <component base="breve" xOffset="-227"/>
+    <component base="dotlessi"/>
+  </outline>
+</glyph>

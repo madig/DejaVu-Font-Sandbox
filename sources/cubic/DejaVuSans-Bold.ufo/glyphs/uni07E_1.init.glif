@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni07E1.init" format="2">
+  <advance width="1335"/>
+  <anchor x="668" y="0" name="rtl-below"/>
+  <anchor x="668" y="1520" name="rtl-above"/>
+  <outline>
+    <contour>
+      <point x="879" y="256" type="line"/>
+      <point x="668" y="1069" type="line"/>
+      <point x="456" y="256" type="line"/>
+    </contour>
+    <contour>
+      <point x="-20" y="0" type="line"/>
+      <point x="-20" y="256" type="line"/>
+      <point x="106" y="256" type="line"/>
+      <point x="471" y="1493" type="line"/>
+      <point x="864" y="1493" type="line"/>
+      <point x="1305" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

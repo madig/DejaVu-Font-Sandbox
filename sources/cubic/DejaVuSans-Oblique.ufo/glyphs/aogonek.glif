@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aogonek" format="2">
+  <advance width="1255"/>
+  <unicode hex="0105"/>
+  <anchor x="718" y="1147" name="above"/>
+  <anchor x="366" y="-312" name="below"/>
+  <anchor x="295" y="1520" name="half"/>
+  <anchor x="735" y="-384" name="cedilla"/>
+  <outline>
+    <component base="ogonek" xOffset="438"/>
+    <component base="a"/>
+  </outline>
+</glyph>

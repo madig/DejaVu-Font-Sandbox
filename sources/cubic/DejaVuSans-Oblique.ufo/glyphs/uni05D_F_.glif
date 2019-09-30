@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni05DF" format="2">
+  <advance width="558"/>
+  <unicode hex="05DF"/>
+  <anchor x="56" y="0" name="rtl-below"/>
+  <outline>
+    <contour>
+      <point x="589.706" y="1120" type="line"/>
+      <point x="289.194" y="-426" type="line"/>
+      <point x="103.194" y="-426" type="line"/>
+      <point x="403.706" y="1120" type="line"/>
+    </contour>
+  </outline>
+</glyph>

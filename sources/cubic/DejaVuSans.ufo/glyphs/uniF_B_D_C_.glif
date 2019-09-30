@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFBDC" format="2">
+  <advance width="1058"/>
+  <unicode hex="FBDC"/>
+  <anchor x="500" y="1450" name="rtl-above"/>
+  <anchor x="500" y="-500" name="rtl-below"/>
+  <outline>
+    <component base="uniFEEE"/>
+    <component base="uni0670" xOffset="-20" yOffset="-485"/>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0ECD" format="2">
+  <unicode hex="0ECD"/>
+  <anchor x="-726.089" y="1150" name="_lao-above-mark"/>
+  <anchor x="-726.089" y="1150" name="_lao-above"/>
+  <outline>
+    <contour>
+      <point x="-868" y="1500" type="qcurve" smooth="yes"/>
+      <point x="-831" y="1680"/>
+      <point x="-621" y="1680" type="qcurve" smooth="yes"/>
+      <point x="-413" y="1680"/>
+      <point x="-448" y="1500" type="qcurve" smooth="yes"/>
+      <point x="-487" y="1300"/>
+      <point x="-699" y="1300" type="qcurve" smooth="yes"/>
+      <point x="-909" y="1299"/>
+    </contour>
+    <contour>
+      <point x="-750" y="1428"/>
+      <point x="-674" y="1428" type="qcurve" smooth="yes"/>
+      <point x="-590" y="1428"/>
+      <point x="-576" y="1500" type="qcurve" smooth="yes"/>
+      <point x="-562" y="1573"/>
+      <point x="-642" y="1572" type="qcurve" smooth="yes"/>
+      <point x="-722" y="1572"/>
+    </contour>
+  </outline>
+</glyph>

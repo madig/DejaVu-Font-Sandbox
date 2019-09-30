@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni152A" format="2">
+  <advance width="1589"/>
+  <unicode hex="152A"/>
+  <outline>
+    <contour>
+      <point x="693" y="0" type="line"/>
+      <point x="162" y="696" type="line"/>
+      <point x="216" y="975" type="line"/>
+      <point x="1060" y="975" type="line"/>
+      <point x="1161" y="1493" type="line"/>
+      <point x="1546" y="1493" type="line"/>
+      <point x="1391" y="696" type="line"/>
+      <point x="548" y="696" type="line"/>
+      <point x="1079" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

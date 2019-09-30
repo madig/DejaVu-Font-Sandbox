@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20D6" format="2">
+  <unicode hex="20D6"/>
+  <anchor x="-571" y="1147" name="_above"/>
+  <anchor x="-492" y="1556" name="above-mark"/>
+  <anchor x="-545" y="1282" name="_above-mark"/>
+  <outline>
+    <contour>
+      <point x="-65.6348" y="1286" type="line"/>
+      <point x="-763.635" y="1286" type="line"/>
+      <point x="-671.848" y="1146" type="line"/>
+      <point x="-827.848" y="1146" type="line"/>
+      <point x="-963" y="1351" type="line"/>
+      <point x="-748.152" y="1556" type="line"/>
+      <point x="-592.152" y="1556" type="line"/>
+      <point x="-738.365" y="1416" type="line"/>
+      <point x="-40.3652" y="1416" type="line"/>
+    </contour>
+  </outline>
+</glyph>

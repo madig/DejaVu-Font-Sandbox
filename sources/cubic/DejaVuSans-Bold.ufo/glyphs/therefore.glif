@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="therefore" format="2">
+  <advance width="1425"/>
+  <unicode hex="2234"/>
+  <outline>
+    <component base="uni2219" xOffset="323" yOffset="420"/>
+    <component base="uni2219" xOffset="735" yOffset="-358"/>
+    <component base="uni2219" xOffset="-87" yOffset="-358"/>
+  </outline>
+</glyph>

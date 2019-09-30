@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni05D5" format="2">
+  <advance width="558"/>
+  <unicode hex="05D5"/>
+  <anchor x="210.532" y="795" name="rtl-inside"/>
+  <anchor x="271" y="0" name="rtl-below"/>
+  <outline>
+    <contour>
+      <point x="589.706" y="1120" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="403.706" y="1120" type="line"/>
+    </contour>
+  </outline>
+</glyph>

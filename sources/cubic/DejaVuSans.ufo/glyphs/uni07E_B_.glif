@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni07EB" format="2">
+  <unicode hex="07EB"/>
+  <anchor x="512" y="1147" name="_rtl-above"/>
+  <outline>
+    <contour>
+      <point x="217" y="1526" type="line"/>
+      <point x="815" y="1526" type="line"/>
+      <point x="815" y="1378" type="line"/>
+      <point x="217" y="1378" type="line"/>
+    </contour>
+  </outline>
+</glyph>
